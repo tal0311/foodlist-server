@@ -19,7 +19,7 @@ let corsOptions = {}
 if (process.env.NODE_ENV === 'production') {
     // app.use(express.static('public'))
     corsOptions = {
-        origin: ['https://morena-food-list.vercel.app/'],
+        origin: 'https://morena-food-list.vercel.app',
         credentials: true,
     }
 } else {
@@ -65,7 +65,7 @@ app.get('/**', (req, res) => {
 
     // logger.info('Someone entered the site')
     // If client is in different domain redirect to the client
-    // res.redirect('https://morena-food-list.vercel.app')
+    res.redirect('https://morena-food-list.vercel.app')
 })
 
 
