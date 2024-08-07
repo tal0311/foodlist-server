@@ -19,7 +19,7 @@ let corsOptions = {}
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static('public'))
     corsOptions = {
-        origin: '*',
+        origin: 'https://morena-food-list.vercel.app/',
         credentials: true,
     }
 } else {
