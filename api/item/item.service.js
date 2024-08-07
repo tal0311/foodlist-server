@@ -12,6 +12,17 @@ const mongoId = ObjectId.createFromHexString;
 
 const collectionName = 'item'
 
+async function testQuery(filterBy = { txt: '', type: '' }) {
+    try {
+        const collection = await dbService.getCollection(collectionName)
+        const items = await collection.find({}).toArray()
+        return items
+    } catch (err) {
+        logger.error('cannot find items', err)
+        throw err
+    }
+}
+
 async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
 
     const { settings } = loggedInUser
@@ -204,5 +215,6 @@ export const itemService = {
     getById,
     add,
     update,
-    getItemsByIds
+    getItemsByIds,
+    testQuery
 }

@@ -6,7 +6,7 @@ export function requireAuth(req, res, next) {
   const { loggedInUser } = asyncLocalStorage.getStore()
   req.loggedInUser = loggedInUser
   
-  if (!loggedInUser) return res.status(401).send('Not Authenticated')
+  if (!loggedInUser) return res.status(401).json('Not Authenticated')
   next()
 }
 
