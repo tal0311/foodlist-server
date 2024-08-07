@@ -6168,3 +6168,21 @@
 7.8.2024, 0:24:20 - DEBUG - Getting Recipe: | 66a8d67ede2bd8184cbd703a (userId: 66a50ab07a92d580457882c1)
 7.8.2024, 15:13:01 - INFO - Server is running on port: 3030 
 7.8.2024, 15:17:08 - INFO - Server is running on port: 3030 
+7.8.2024, 18:27:42 - INFO - Server is running on port: 3030 
+7.8.2024, 18:27:50 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:27:50 - DEBUG - Getting Recipes: | {} (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:27:50 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:27:50 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:27:50 - ERROR - cannot find recipe | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:27:50 - ERROR - Failed to get recipes | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:32:57 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:32:57 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:32:57 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:32:57 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:32:57 - ERROR - cannot find items | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:32:57 - ERROR - Failed to get items | TypeError: Cannot read properties of undefined (reading 'startsWith') (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:33:05 - INFO - Server is running on port: 3030 
+7.8.2024, 18:33:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:33:21 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:33:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+7.8.2024, 18:33:43 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
