@@ -9,8 +9,8 @@ export async function getItems(req, res) {
     logger.debug('Getting Items:', req.query)
 
     const filterBy = req.query
-    const { loggedInUser } = req
-    const items = await itemService.testQuery(filterBy, loggedInUser)
+    // const { loggedInUser } = req
+    const items = await itemService.testQuery(filterBy)
   
     res.json(items)
   } catch (err) {
