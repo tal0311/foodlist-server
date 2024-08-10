@@ -6410,3 +6410,25 @@
 10.8.2024, 17:41:50 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Dgp4hUnkXPnQw6U2AAAD] 
 10.8.2024, 17:42:23 - INFO - Server is running on port: 3030 
 10.8.2024, 17:42:24 - INFO - New connected socket [id: YdPvFBuTt0sF8_nmAAAB] 
+10.8.2024, 17:49:14 - INFO - Server is running on port: 3030 
+10.8.2024, 17:49:24 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:49:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:49:24 - INFO - New connected socket [id: s0zL4y1zIbBV1_J8AAAB] 
+10.8.2024, 17:49:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: s0zL4y1zIbBV1_J8AAAB] 
+10.8.2024, 17:49:39 - ERROR - cannot find users | TypeError: collection.find(...).projection is not a function (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:49:39 - ERROR - Failed to get users | TypeError: collection.find(...).projection is not a function (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:51:05 - INFO - Server is running on port: 3030 
+10.8.2024, 17:51:07 - INFO - New connected socket [id: zbtqGGZB8VhV4YRiAAAB] 
+10.8.2024, 17:51:11 - INFO - New connected socket [id: Tnsk1EOJKGoldvPBAAAD] 
+10.8.2024, 17:51:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Tnsk1EOJKGoldvPBAAAD] 
+10.8.2024, 17:51:15 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 17:51:15 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 17:51:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:51:15 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:51:15 - INFO - New connected socket [id: busAb0biwY-HawDIAAAF] 
+10.8.2024, 17:51:15 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: busAb0biwY-HawDIAAAF] 
+10.8.2024, 17:51:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:51:17 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:51:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:51:17 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:52:24 - INFO - Socket disconnected [id: undefined] 

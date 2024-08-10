@@ -18,8 +18,7 @@ async function query(filterBy = {}) {
     // const criteria = _buildCriteria(filterBy)
     try {
         const collection = await dbService.getCollection(collectionName)
-        var users = await collection.find({}).projection({ password: 0 }).toArray()
-
+        var users = await collection.find({}, { projection: { password: false } }).toArray()
         return users
     } catch (err) {
         logger.error('cannot find users', err)
