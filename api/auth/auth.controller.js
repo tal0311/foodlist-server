@@ -57,7 +57,7 @@ export async function guestSignup(req, res) {
     try {
         const guestUser = await authService.loginAsGuest()
         const loginToken = authService.getLoginToken(guestUser)
-        res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true, expires: new Date(Date.now() + 5 * 60 * 1000)})
+        res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true, expires: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000)})
         res.json(guestUser)
     } catch (err) {
         logger.error('Failed to login as guest ' + err)

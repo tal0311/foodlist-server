@@ -7490,3 +7490,5 @@
 11.8.2024, 0:25:54 - INFO - Setting socket for user - ID: 66b7dadc09aab0015d6dc753 for socket [id: vccYCYhdPge3JyKkAAAF] 
 11.8.2024, 0:25:56 - INFO - Sample Logger Middleware (userId: 66b7dadc09aab0015d6dc753)
 11.8.2024, 0:25:56 - DEBUG - Getting Lists: | {} (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:34:29 - INFO - Server is running on port: 3030 
+11.8.2024, 0:34:30 - INFO - New connected socket [id: 0NEZI3I3WEZUZpUfAAAB] 
