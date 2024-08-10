@@ -4,11 +4,11 @@ import { getUser, getUsers, deleteUser, updateUser } from './user.controller.js'
 
 const router = express.Router()
 
-router.get('/', getUsers)
-router.get('/:id', getUser)
-// router.put('/:id', requireAuth, updateUser)
-router.put('/:id',  updateUser)
+router.get('/', requireAdmin, getUsers)
+router.get('/:id', requireAdmin, getUser)
+// router.put('/:id',requireAdmin requireAuth, updateUser)
+router.put('/:id', requireAuth, updateUser)
 // router.delete('/:id', requireAuth, requireAdmin, deleteUser)
-router.delete('/:id',  deleteUser)
+router.delete('/:id',requireAdmin, deleteUser)
 
 export const userRoutes = router

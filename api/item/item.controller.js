@@ -3,14 +3,13 @@ import { logger } from '../../services/logger.service.js'
 
 
 
-
 export async function getItems(req, res) {
   try {
     logger.debug('Getting Items:', req.query)
 
     const filterBy = req.query
-    // const { loggedInUser } = req
-    const items = await itemService.testQuery(filterBy)
+    const { loggedInUser } = req
+    const items = await itemService.query(filterBy, loggedInUser)
   
     res.json(items)
   } catch (err) {

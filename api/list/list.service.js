@@ -11,25 +11,32 @@ const mongoId = ObjectId.createFromHexString;
 
 const collectionName = 'list'
 
-async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
+async function query(filterBy = { txt: '', type: '', admin: false }, loggedInUser) {
 
     try {
         const collection = await dbService.getCollection(collectionName)
+
+        // if admin is true, return all lists from admin page
+        if (filterBy.admin) {
+            let lists = await collection.find({}).toArray()
+            lists = await Promise.all(lists.map(async list => {
+                list.items = await itemService.getItemsByIds(list.items)
+                return list
+            }));
+
+            return lists
+        }
         const criteria = {
             'owner.id': loggedInUser._id
         }
         // allow to search only public lists
         if (filterBy.visibility === 'public') {
             criteria.visibility = 'public'
-        }
-        
-        // Recipe is a list with type recipe
-        if(filterBy.type ==='recipe'){
-            criteria.type = 'recipe'
-            criteria.visibility = 'public'
-            return await collection.find(criteria).project({items:false}).toArray()
+            // this is to not show the user's lists
+            delete criteria['owner.id'] 
         }
 
+      
         return await collection.find(criteria).toArray()
 
     } catch (err) {
@@ -69,16 +76,24 @@ async function remove(listId) {
 }
 
 async function add(list) {
-
-    try {
-        const collection = await dbService.getCollection(collectionName)
-        await collection.insertOne(list)
-        return list
-    } catch (err) {
-        logger.error('cannot insert list', err)
-        throw err
-    }
-}
+    const listToSave = {
+         title: list.title,
+         items: list.items,
+         owner: list.owner,
+         visibility: 'private',
+         createdAt: Date.now(),
+         updatedAt: Date.now(),
+     }
+ 
+     try {
+         const collection = await dbService.getCollection(collectionName)
+         await collection.insertOne(listToSave)
+         return list
+     } catch (err) {
+         logger.error('cannot insert list', err)
+         throw err
+     }
+ }
 
 async function update(list, listId) {
     try {

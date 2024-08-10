@@ -6,10 +6,13 @@ export async function getLists(req, res) {
     logger.debug('Getting Lists:', req.query)
     const filterBy = {
       txt: req.query.txt || '',
-      type: req.query.type || ''
+      type: req.query.type || '',
+      admin: req.query.admin || '',
+      visibility: req.query.visibility || ''
     }
     const {loggedInUser}= req
     const lists = await listService.query(filterBy, loggedInUser)
+      
     res.json(lists)
 
   } catch (err) {
@@ -17,6 +20,7 @@ export async function getLists(req, res) {
     res.status(400).send({ err: 'Failed to get lists' })
   }
 }
+
 
 export async function getListById(req, res) {
   try {
@@ -68,27 +72,13 @@ export async function removeList(req, res) {
     
 
     if (loggedInUser._id !== list.owner.id) {
-      return res.status(401).send('Not Authenticated')
+      return res.status(401).json('Not Authenticated')
     }
     const removedId = await listService.remove(listId)
     res.send(removedId)
   } catch (err) {
     logger.error('Failed to remove list', err)
     res.status(400).send({ err: 'Failed to remove list' })
-  }
-}
-// recipe and getRecipeById are for the recipe list
-
-export async function getRecipeById(req, res) {
-  logger.info('Getting Recipe:', req.params.id)
-  try {
-    const recipeId = req.params.id
-    
-    const recipe = await listService.getRecipeById(recipeId)
-    res.json(recipe)
-  } catch (err) {
-    logger.error('Failed to get recipe', err)
-    res.status(400).send({ err: 'Failed to get recipe' })
   }
 }
 

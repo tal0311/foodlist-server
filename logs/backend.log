@@ -6186,3 +6186,125 @@
 7.8.2024, 18:33:21 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
 7.8.2024, 18:33:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
 7.8.2024, 18:33:43 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:18:40 - INFO - Server is running on port: 3030 
+10.8.2024, 16:18:57 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:18:57 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:18:57 - INFO - New connected socket [id: QBLkf3yXcw98yducAAAB] 
+10.8.2024, 16:18:58 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: QBLkf3yXcw98yducAAAB] 
+10.8.2024, 16:19:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:15 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:16 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: QBLkf3yXcw98yducAAAB] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:16 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:16 - INFO - New connected socket [id: _aoSV55JwDXCiFAoAAAD] 
+10.8.2024, 16:19:16 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: _aoSV55JwDXCiFAoAAAD] 
+10.8.2024, 16:19:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:19:54 - DEBUG - Getting Lists: | {"visibility":"public"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:20:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:20:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:20:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:20:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:20:13 - INFO - New connected socket [id: OHngiIWGv59H4pyCAAAF] 
+10.8.2024, 16:20:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:20:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:20:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: OHngiIWGv59H4pyCAAAF] 
+10.8.2024, 16:24:18 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:24:18 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:24:18 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:24:18 - INFO - New connected socket [id: KiCEY_o4-Qvw0nyNAAAH] 
+10.8.2024, 16:24:18 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:24:18 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:24:19 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: KiCEY_o4-Qvw0nyNAAAH] 
+10.8.2024, 16:25:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:38 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:38 - INFO - New connected socket [id: 1HaZPzRGaOA8NYaPAAAJ] 
+10.8.2024, 16:25:38 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 1HaZPzRGaOA8NYaPAAAJ] 
+10.8.2024, 16:25:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:48 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:49 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: KiCEY_o4-Qvw0nyNAAAH] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:25:49 - INFO - New connected socket [id: a4k1vzTFPjP3OrDEAAAL] 
+10.8.2024, 16:25:49 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: a4k1vzTFPjP3OrDEAAAL] 
+10.8.2024, 16:26:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:19 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:25 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:25 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:25 - INFO - New connected socket [id: PULhGa83bHamM4itAAAN] 
+10.8.2024, 16:26:25 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: PULhGa83bHamM4itAAAN] 
+10.8.2024, 16:26:34 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:34 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:34 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: KiCEY_o4-Qvw0nyNAAAH] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:35 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:35 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:26:35 - INFO - New connected socket [id: nlAPphlvWp8ilvxzAAAP] 
+10.8.2024, 16:26:35 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nlAPphlvWp8ilvxzAAAP] 
+10.8.2024, 16:27:34 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:34 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:27:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:27:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:27:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:27:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:27:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:37 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:37 - INFO - New connected socket [id: MKQ04wviyFUTbERaAAAR] 
+10.8.2024, 16:27:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:37 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:37 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: MKQ04wviyFUTbERaAAAR] 
+10.8.2024, 16:27:42 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:27:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:42 - INFO - New connected socket [id: ehywPqzs_q8uXgDSAAAT] 
+10.8.2024, 16:27:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:43 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:27:43 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ehywPqzs_q8uXgDSAAAT] 
+10.8.2024, 16:28:12 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:28:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:12 - INFO - New connected socket [id: UzG8r6G0heT5vvyOAAAV] 
+10.8.2024, 16:28:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:13 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: UzG8r6G0heT5vvyOAAAV] 
+10.8.2024, 16:28:20 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:28:20 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:20 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:20 - INFO - New connected socket [id: -QfMYPa9tnnTrmlXAAAX] 
+10.8.2024, 16:28:20 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:20 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:21 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: -QfMYPa9tnnTrmlXAAAX] 
+10.8.2024, 16:28:28 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:28 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:29 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: -QfMYPa9tnnTrmlXAAAX] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:29 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:29 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:29 - INFO - New connected socket [id: qFTycta0QU0UU8RvAAAZ] 
+10.8.2024, 16:28:29 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: qFTycta0QU0UU8RvAAAZ] 
+10.8.2024, 16:28:32 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:39 - INFO - New connected socket [id: GevFuJrKDyNy3MBmAAAb] 
+10.8.2024, 16:28:40 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: GevFuJrKDyNy3MBmAAAb] 
+10.8.2024, 16:28:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:43 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:44 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: -QfMYPa9tnnTrmlXAAAX] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:28:44 - INFO - New connected socket [id: Ja3H3Adu8PS61i7qAAAd] 
+10.8.2024, 16:28:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Ja3H3Adu8PS61i7qAAAd] 
+10.8.2024, 16:31:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:31:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:03 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:03 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: -QfMYPa9tnnTrmlXAAAX] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:03 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:03 - INFO - New connected socket [id: VJjVla85cyI9XH-5AAAf] 
+10.8.2024, 16:32:04 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: VJjVla85cyI9XH-5AAAf] 
+10.8.2024, 16:32:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:32:19 - DEBUG - Getting Lists: | {"visibility":"public"} (userId: 66a50ab07a92d580457882c1)

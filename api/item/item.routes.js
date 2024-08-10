@@ -9,9 +9,9 @@ const router = express.Router()
 // router.use(requireAuth)
 
 
-router.get('/', log, getItems)
-// router.get('/', log, requireAuth, getItems)
-router.get('/:id', getItemById)
+// router.get('/', log, getItems)
+router.get('/', log, requireAuth, getItems)
+router.get('/:id', requireAdmin, getItemById)
 router.post('/', requireAuth, requireAdmin, addItem)
 // router.put('/:id', requireAuth, updateItem)
 router.put('/:id', requireAuth, requireAdmin, updateItem)

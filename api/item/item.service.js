@@ -5,23 +5,12 @@ import { socketService } from '../../services/socket.service.js';
 import { userService } from '../user/user.service.js';
 
 
-import { MongoClient, ObjectId } from 'mongodb';
+import { ObjectId } from 'mongodb';
 const mongoId = ObjectId.createFromHexString;
 
 
 
 const collectionName = 'item'
-
-async function testQuery(filterBy = { txt: '', type: '' }) {
-    try {
-        const collection = await dbService.getCollection(collectionName)
-        const items = await collection.find({}).toArray()
-        return items
-    } catch (err) {
-        logger.error('cannot find items', err)
-        throw err
-    }
-}
 
 async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
 
@@ -101,6 +90,7 @@ function filterByUserSettings(settings, itemsByLabels) {
 
 }
 
+
 async function setLabels(list, userId) {
 
     const user = await userService.getById(userId)
@@ -112,6 +102,9 @@ async function setLabels(list, userId) {
     user.labelOrder = !user.labelOrder || user.labelOrder.length != user.labels.length ? user.labels.map(label => label.name) : user.labelOrder;
 
     // Send socket event to update user in client
+    // console.log('**EMITING**', 'update-user', user);
+    
+    socketService.emitToUser({ type:'update-user',data: user,userId: user._id})
     userService.update(user);
     return user
 
@@ -216,5 +209,4 @@ export const itemService = {
     add,
     update,
     getItemsByIds,
-    testQuery
-}
+    }

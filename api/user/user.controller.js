@@ -16,7 +16,7 @@ export async function getUsers(req, res) {
     try {
         const filterBy = {
             txt: req.query?.txt || '',
-            minBalance: +req.query?.minBalance || 0
+        
         }
         const users = await userService.query(filterBy)
         res.send(users)
@@ -29,7 +29,7 @@ export async function getUsers(req, res) {
 export async function deleteUser(req, res) {
     try {
         await userService.remove(req.params.id)
-        res.send({ msg: 'Deleted successfully' })
+        res.json({ msg: 'Deleted successfully' })
     } catch (err) {
         logger.error('Failed to delete user', err)
         res.status(400).send({ err: 'Failed to delete user' })
