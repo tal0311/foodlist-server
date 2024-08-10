@@ -6363,3 +6363,50 @@
 10.8.2024, 16:54:43 - INFO - New connected socket [id: 32X9bIjUpBBJsyHzAAAB] 
 10.8.2024, 16:59:52 - INFO - Server is running on port: 3030 
 10.8.2024, 16:59:54 - INFO - New connected socket [id: WdAOlk2EVFhQRLDNAAAB] 
+10.8.2024, 17:34:56 - INFO - Server is running on port: 3030 
+10.8.2024, 17:35:10 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:35:10 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:35:10 - INFO - New connected socket [id: hP-X0ZoTT81cK9u9AAAB] 
+10.8.2024, 17:35:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: hP-X0ZoTT81cK9u9AAAB] 
+10.8.2024, 17:35:41 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 17:35:46 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:35:46 - ERROR - Failed to Login TypeError: userService.getByUsername is not a function (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:36:52 - INFO - Server is running on port: 3030 
+10.8.2024, 17:37:07 - INFO - Server is running on port: 3030 
+10.8.2024, 17:37:24 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:37:26 - ERROR - Failed to Login Error: Illegal arguments: string, undefined (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:38:35 - INFO - Server is running on port: 3030 
+10.8.2024, 17:38:37 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:38:39 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"bread","userInput":""},{"name":"dairy","userInput":""},{"name":"alcohol","userInput":""},{"name":"fruit","userInput":""},{"name":"seafood","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"legumes","userInput":""},{"name":"backing-products","userInput":""},{"name":"spices-and-seasonings","userInput":""},{"name":"grains","userInput":""},{"name":"condiments","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""},{"name":"spread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:38:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:38:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:38:39 - INFO - New connected socket [id: 4MHwQMrazuv_3TCXAAAB] 
+10.8.2024, 17:38:40 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 4MHwQMrazuv_3TCXAAAB] 
+10.8.2024, 17:39:04 - INFO - Server is running on port: 3030 
+10.8.2024, 17:39:05 - INFO - New connected socket [id: ytvLeOf-pOKN_DoIAAAB] 
+10.8.2024, 17:39:30 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:39:32 - ERROR - Failed to Login Error: Illegal arguments: string, undefined (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:39:32 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 17:39:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:39:32 - INFO - New connected socket [id: NAAq-J1Z3vY8ngJVAAAD] 
+10.8.2024, 17:39:32 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:39:32 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: NAAq-J1Z3vY8ngJVAAAD] 
+10.8.2024, 17:39:44 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 17:39:50 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:39:51 - ERROR - Failed to Login Error: Illegal arguments: string, undefined (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:34 - INFO - Server is running on port: 3030 
+10.8.2024, 17:41:38 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:40 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"bread","userInput":""},{"name":"dairy","userInput":""},{"name":"alcohol","userInput":""},{"name":"fruit","userInput":""},{"name":"seafood","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"legumes","userInput":""},{"name":"backing-products","userInput":""},{"name":"spices-and-seasonings","userInput":""},{"name":"grains","userInput":""},{"name":"condiments","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""},{"name":"spread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:40 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:40 - INFO - New connected socket [id: 1V5YtfreLVhy0_yDAAAB] 
+10.8.2024, 17:41:40 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 1V5YtfreLVhy0_yDAAAB] 
+10.8.2024, 17:41:46 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 17:41:49 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:49 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"bread","userInput":""},{"name":"dairy","userInput":""},{"name":"alcohol","userInput":""},{"name":"fruit","userInput":""},{"name":"seafood","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"legumes","userInput":""},{"name":"backing-products","userInput":""},{"name":"spices-and-seasonings","userInput":""},{"name":"grains","userInput":""},{"name":"condiments","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""},{"name":"spread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 17:41:49 - INFO - New connected socket [id: Dgp4hUnkXPnQw6U2AAAD] 
+10.8.2024, 17:41:50 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Dgp4hUnkXPnQw6U2AAAD] 
+10.8.2024, 17:42:23 - INFO - Server is running on port: 3030 
+10.8.2024, 17:42:24 - INFO - New connected socket [id: YdPvFBuTt0sF8_nmAAAB] 

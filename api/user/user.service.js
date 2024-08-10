@@ -42,10 +42,11 @@ async function getById(userId) {
 }
 
 
+// This is just for login purposes
 async function getByEmail(email) {
     try {
         const collection = await dbService.getCollection(collectionName)
-        const user = await collection.findOne({ email }, { projection: { password: 0 } })
+        const user = await collection.findOne({ email })
         return user
     } catch (err) {
         logger.error(`while finding user by username: ${username}`, err)
