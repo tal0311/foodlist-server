@@ -12,7 +12,7 @@ const mongoId = ObjectId.createFromHexString;
 
 const collectionName = 'item'
 
-async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
+async function query(filterBy = { txt: '', type: '' ,labels:'' }, loggedInUser) {
 
     const { settings } = loggedInUser
 
@@ -35,8 +35,8 @@ async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
                 return acc
             }, {});
 
-            const user = await setLabels(itemMap, loggedInUser._id)
-            console.log(user);
+            await setLabels(itemMap, loggedInUser._id)
+
             return filterByUserSettings(settings, itemMap)
         }
 
@@ -101,10 +101,7 @@ async function setLabels(list, userId) {
     user.labels = Object.keys(list).map(label => ({ name: label, userInput: "" }));
     user.labelOrder = !user.labelOrder || user.labelOrder.length != user.labels.length ? user.labels.map(label => label.name) : user.labelOrder;
 
-    // Send socket event to update user in client
-    // console.log('**EMITING**', 'update-user', user);
-    
-    socketService.emitToUser({ type:'update-user',data: user,userId: user._id})
+    socketService.emitToUser({ type: 'update-user', data: user, userId: user._id })
     userService.update(user);
     return user
 
@@ -112,14 +109,14 @@ async function setLabels(list, userId) {
 
 async function getItemsByIds(itemIds) {
     try {
-        
-        const collection =await dbService.getCollection(collectionName)
+
+        const collection = await dbService.getCollection(collectionName)
         const itemIdsToQuery = itemIds.map(itemId => mongoId(itemId))
         return await collection.find({ _id: { $in: itemIdsToQuery } }).toArray()
     } catch (error) {
         logger.error('cannot find items', err)
         throw error
-        
+
     }
 }
 
@@ -149,11 +146,11 @@ async function remove(itemId) {
     }
 }
 
-async function add({ name ='', icon='', group='', readMoreURL='', color='', isSelected='' }) {
+async function add({ name = '', icon = '', group = '', readMoreURL = '', color = '', isSelected = '' }) {
 
     try {
 
-         
+
         const itemToAdd = {
             name,
             icon,
@@ -165,7 +162,7 @@ async function add({ name ='', icon='', group='', readMoreURL='', color='', isSe
 
 
         const collection = await dbService.getCollection(collectionName)
-        const item= await collection.insertOne(itemToAdd)
+        const item = await collection.insertOne(itemToAdd)
         return item
     } catch (err) {
         logger.error('cannot insert item', err)
@@ -176,7 +173,7 @@ async function add({ name ='', icon='', group='', readMoreURL='', color='', isSe
 async function update(item) {
     try {
 
-     
+
         const collection = await dbService.getCollection(collectionName)
         const itemToSave = { ...item }
         // _id field is immutable
@@ -190,7 +187,7 @@ async function update(item) {
 }
 
 
-function getEmptyItem(){
+function getEmptyItem() {
     return {
         name: '',
         icon: '',
@@ -209,4 +206,4 @@ export const itemService = {
     add,
     update,
     getItemsByIds,
-    }
+}

@@ -6308,3 +6308,58 @@
 10.8.2024, 16:32:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
 10.8.2024, 16:32:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
 10.8.2024, 16:32:19 - DEBUG - Getting Lists: | {"visibility":"public"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:43:40 - INFO - Server is running on port: 3030 
+10.8.2024, 16:43:41 - INFO - New connected socket [id: zwJ2Q6h1M6XTYSfVAAAD] 
+10.8.2024, 16:43:41 - INFO - New connected socket [id: gmmUtH8GipzBhqxNAAAE] 
+10.8.2024, 16:43:41 - INFO - New connected socket [id: RWFmV92Q2vTx1lnKAAAF] 
+10.8.2024, 16:43:46 - INFO - New connected socket [id: BjmhmGaC_gYv3RrFAAAI] 
+10.8.2024, 16:43:46 - INFO - New connected socket [id: 1RFudgdT7BI_0_PXAAAJ] 
+10.8.2024, 16:43:51 - INFO - New connected socket [id: UzDGj3-3CX3uPtw5AAAL] 
+10.8.2024, 16:43:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:43:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:43:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:43:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:43:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:43:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:43:51 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:43:51 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:43:51 - INFO - New connected socket [id: vVE54YICDdnYCXRvAAAN] 
+10.8.2024, 16:43:52 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: vVE54YICDdnYCXRvAAAN] 
+10.8.2024, 16:43:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:43:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:44:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:44:04 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:44:04 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: vVE54YICDdnYCXRvAAAN] (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:44:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:44:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:44:04 - INFO - New connected socket [id: nise241SB5mOY03-AAAP] 
+10.8.2024, 16:44:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nise241SB5mOY03-AAAP] 
+10.8.2024, 16:44:44 - INFO - New connected socket [id: 4w6Sslcy3P5pkfVeAAAR] 
+10.8.2024, 16:44:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 4w6Sslcy3P5pkfVeAAAR] 
+10.8.2024, 16:47:16 - INFO - New connected socket [id: i1TnDbfnBJp89C6vAAAT] 
+10.8.2024, 16:47:16 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: i1TnDbfnBJp89C6vAAAT] 
+10.8.2024, 16:49:34 - INFO - New connected socket [id: Dzqxtfwgi0tTvOl4AAAV] 
+10.8.2024, 16:49:35 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Dzqxtfwgi0tTvOl4AAAV] 
+10.8.2024, 16:49:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:49:38 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:49:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:49:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:49:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:49:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:49:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 16:49:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:49:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:49:39 - INFO - New connected socket [id: V5E6_9TCDqmDCSC9AAAX] 
+10.8.2024, 16:49:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:49:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 16:49:40 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: V5E6_9TCDqmDCSC9AAAX] 
+10.8.2024, 16:54:10 - INFO - Server is running on port: 3030 
+10.8.2024, 16:54:12 - INFO - New connected socket [id: rFtWfGp04R-6e0mgAAAB] 
+10.8.2024, 16:54:21 - INFO - Server is running on port: 3030 
+10.8.2024, 16:54:22 - INFO - New connected socket [id: hQDi5V0SS6sBVUsQAAAB] 
+10.8.2024, 16:54:40 - INFO - Server is running on port: 3030 
+10.8.2024, 16:54:41 - INFO - New connected socket [id: Qfr_BCShtmL-QKh4AAAB] 
+10.8.2024, 16:54:41 - INFO - Server is running on port: 3030 
+10.8.2024, 16:54:43 - INFO - New connected socket [id: 32X9bIjUpBBJsyHzAAAB] 
+10.8.2024, 16:59:52 - INFO - Server is running on port: 3030 
+10.8.2024, 16:59:54 - INFO - New connected socket [id: WdAOlk2EVFhQRLDNAAAB] 
