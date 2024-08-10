@@ -3,11 +3,25 @@ import {logger} from '../../services/logger.service.js'
 
 export async function login(req, res) {
     
-    const { email, password, googleId } = req.body
-    console.log("♠️ ~ login ~ req.body:", req.body)
+    const { type } = req.params
+    console.log("♠️ ~ login ~ type:", type)
+    const { email, password } = req.body
+    // console.log("♠️ ~ login ~ req.body:", req.body)
+    if (type === 'credentials' && !email || !password) {
+        res.status(400).send({ err: 'Email and password are required' })
+        return
+    }
     
+    const props = { email, password }
+    if (type === 'google') {
+        props.googleId = req.body.googleID
+    }
+
+
     try {
-        const user = await authService.login(email, password, googleId)
+        const user = await authService.login(props)
+        // console.log("♠️ ~ login ~ user:", user);
+        
         const loginToken = authService.getLoginToken(user)
         logger.info('User login: ', user)
         res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true})
@@ -35,6 +49,19 @@ export async function signup(req, res) {
     } catch (err) {
         logger.error('Failed to signup ' + err)
         res.status(400).send({ err: 'Failed to signup' })
+    }
+}
+
+export async function guestSignup(req, res) {
+
+    try {
+        const guestUser = await authService.loginAsGuest()
+        const loginToken = authService.getLoginToken(guestUser)
+        res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true, expires: new Date(Date.now() + 5 * 60 * 1000)})
+        res.json(guestUser)
+    } catch (err) {
+        logger.error('Failed to login as guest ' + err)
+        res.status(400).send({ err: 'Failed to login as guest' })
     }
 }
 

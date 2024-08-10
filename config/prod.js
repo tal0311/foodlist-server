@@ -1,4 +1,5 @@
 export default {
   clientUrl:'',
-  roles:['admin', 'super_user']
+  roles:['admin', 'super_user'],
+  saltRounds: 10
 }

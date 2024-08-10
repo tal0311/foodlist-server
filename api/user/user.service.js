@@ -90,21 +90,48 @@ async function add(user) {
         // peek only updatable fields!
 
         // get empty user object
-        const userToAdd = {
-            username: user.username,
-            password: user.password,
-            fullname: user.fullname,
-            imgUrl: user.imgUrl,
-            email: user.email,
-        }
+        const userToAdd= getEmptyUser({ ...user })
         const collection = await dbService.getCollection(collectionName)
         await collection.insertOne(userToAdd)
+        
+        
         return userToAdd
     } catch (err) {
         logger.error('cannot add user', err)
         throw err
     }
 }
+
+function getEmptyUser({ username, password, fullname, imgUrl, email, role }) {
+    return {
+        fullname,
+        username,
+        email,
+        password,
+        goals: [],
+        settings: {
+            "lang": "he",
+            "notifications": true,
+            "isVegan": false,
+            "isVegetarian": false,
+            "isGlutenFree": false,
+            "isLactoseFree": false,
+            "isKosher": false
+        },
+        level: 1,
+        points: 0,
+        achievements: [],
+        selectedItems: [],
+        imgUrl:imgUrl || "",
+        age: null,
+        city: "",
+        labels: [],
+        personalTxt: "",
+        role: role || "guest"
+
+    }
+}
+
 
 // function _buildCriteria(filterBy) {
 //     const criteria = {}

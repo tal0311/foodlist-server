@@ -1,8 +1,10 @@
 import Cryptr from 'cryptr'
 import bcrypt from 'bcryptjs'
 
-import {userService} from '../user/user.service.js'
-import {logger} from '../../services/logger.service.js'
+import { userService } from '../user/user.service.js'
+import { utilService } from '../../services/util.service.js'
+import { logger } from '../../services/logger.service.js'
+import {config} from '../../config/index.js'
 
 const cryptr = new Cryptr(process.env.SECRET || 'Secret-Puk-1234')
 
@@ -10,12 +12,13 @@ export const authService = {
     signup,
     login,
     getLoginToken,
-    validateToken
+    validateToken,
+    loginAsGuest
 }
 
-async function login(email, password, googleId) {
+async function login({email, password, googleId}) {
     logger.debug(`auth.service - login with email: ${email}`)
-      const user = await userService.getByEmail(email)
+    const user = await userService.getByEmail(email)
     if (!user) return Promise.reject('Invalid email or password')
     // TODO: un-comment for real login
     const match = await bcrypt.compare(password, user.password)
@@ -26,8 +29,8 @@ async function login(email, password, googleId) {
     return user
 }
 
-async function signup({username, password, fullname, imgUrl, email}) {
-    const saltRounds = 10
+async function signup({ username, password, fullname, imgUrl, email }) {
+    
 
     logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
     if (!username || !password || !fullname) return Promise.reject('Missing required signup information')
@@ -35,14 +38,29 @@ async function signup({username, password, fullname, imgUrl, email}) {
     const userExist = await userService.getByEmail(username)
     if (userExist) return Promise.reject('Username already taken')
 
-    const hash = await bcrypt.hash(password, saltRounds)
+    const hash = await bcrypt.hash(password, config.saltRounds)
     console.log(hash);
     return userService.add({ username, password: hash, fullname, imgUrl, email })
 }
 
+async function loginAsGuest() {
+    const guestUser = {
+      
+        username: 'Guest-' + utilService.makeId(8)+'-'+utilService.makeId(8),
+        password: 'Guest',
+        fullname: 'Guest',
+        imgUrl: 'https://ui-avatars.com/api/?name=Guest%user&rounded=true',
+        role: 'guest'
+    }
+
+    const hash = await bcrypt.hash(guestUser.password, config.saltRounds)
+    return await userService.add(guestUser)
+     
+}
+
 function getLoginToken(user) {
-    
-    return cryptr.encrypt(JSON.stringify(user))    
+
+    return cryptr.encrypt(JSON.stringify(user))
 }
 
 function validateToken(loginToken) {
@@ -51,8 +69,9 @@ function validateToken(loginToken) {
         const loggedInUser = JSON.parse(json)
         return loggedInUser
 
-    } catch(err) {
+    } catch (err) {
         console.log('Invalid login token')
+        // throw new Error('Invalid login token')
     }
     return null
 }

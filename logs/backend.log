@@ -6432,3 +6432,1061 @@
 10.8.2024, 17:51:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
 10.8.2024, 17:51:17 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
 10.8.2024, 17:52:24 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:04:39 - INFO - Server is running on port: 3030 
+10.8.2024, 18:04:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:04:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:04:45 - INFO - New connected socket [id: UzKpEj4g8BOUrUvxAAAB] 
+10.8.2024, 18:04:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: UzKpEj4g8BOUrUvxAAAB] 
+10.8.2024, 18:07:03 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:07:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:07:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:07:12 - INFO - New connected socket [id: oTe4mJKJu2Qb6uPHAAAD] 
+10.8.2024, 18:07:13 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: oTe4mJKJu2Qb6uPHAAAD] 
+10.8.2024, 18:08:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:08:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:08:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:08:39 - INFO - New connected socket [id: nkxjfGNBdRrNTY2yAAAF] 
+10.8.2024, 18:08:39 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nkxjfGNBdRrNTY2yAAAF] 
+10.8.2024, 18:08:45 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:08:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:08:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:08:45 - INFO - New connected socket [id: YWNQgdz_lVv0qq2XAAAH] 
+10.8.2024, 18:08:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: YWNQgdz_lVv0qq2XAAAH] 
+10.8.2024, 18:10:58 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:10:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:10:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:10:58 - INFO - New connected socket [id: EP9yhEh6QjpiwMXhAAAJ] 
+10.8.2024, 18:10:59 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: EP9yhEh6QjpiwMXhAAAJ] 
+10.8.2024, 18:12:56 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:12:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:12:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:12:56 - INFO - New connected socket [id: ywf-Cyk2nMiZaPg1AAAL] 
+10.8.2024, 18:12:57 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ywf-Cyk2nMiZaPg1AAAL] 
+10.8.2024, 18:13:30 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:13:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:13:30 - INFO - New connected socket [id: jXC5qPlODEyZ-RHgAAAN] 
+10.8.2024, 18:13:30 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:13:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: jXC5qPlODEyZ-RHgAAAN] 
+10.8.2024, 18:13:41 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:13:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:13:41 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:13:41 - INFO - New connected socket [id: yDySsaZWn3aPYcQDAAAP] 
+10.8.2024, 18:13:42 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: yDySsaZWn3aPYcQDAAAP] 
+10.8.2024, 18:14:05 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:14:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:14:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:14:05 - INFO - New connected socket [id: 25KgcMsmqhbQka0nAAAR] 
+10.8.2024, 18:14:06 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 25KgcMsmqhbQka0nAAAR] 
+10.8.2024, 18:17:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 18:17:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:17:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 18:17:39 - INFO - New connected socket [id: WKbuWj8vxZYZksuNAAAT] 
+10.8.2024, 18:17:39 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: WKbuWj8vxZYZksuNAAAT] 
+10.8.2024, 18:17:46 - INFO - Server is running on port: 3030 
+10.8.2024, 18:17:47 - INFO - New connected socket [id: jcwr-8Mbj--ICXugAAAB] 
+10.8.2024, 18:24:19 - INFO - Server is running on port: 3030 
+10.8.2024, 18:24:20 - INFO - New connected socket [id: 1LFTpd0ajQKlP-bTAAAB] 
+10.8.2024, 18:24:48 - INFO - Server is running on port: 3030 
+10.8.2024, 18:24:50 - INFO - New connected socket [id: sesB2WPUfVoXhmDRAAAB] 
+10.8.2024, 18:25:12 - INFO - Server is running on port: 3030 
+10.8.2024, 18:25:14 - INFO - New connected socket [id: wL5pE-xWTdaiG3TGAAAB] 
+10.8.2024, 18:25:21 - INFO - Server is running on port: 3030 
+10.8.2024, 18:25:22 - INFO - New connected socket [id: 2SmVXtJEJOhnXROxAAAB] 
+10.8.2024, 18:26:49 - INFO - Server is running on port: 3030 
+10.8.2024, 18:26:51 - INFO - New connected socket [id: pKMc1gyuDNFNCQcgAAAB] 
+10.8.2024, 18:27:38 - INFO - Server is running on port: 3030 
+10.8.2024, 18:27:40 - INFO - New connected socket [id: 11DEfvPZoKjKS0SBAAAB] 
+10.8.2024, 19:32:23 - INFO - Server is running on port: 3030 
+10.8.2024, 19:32:25 - INFO - New connected socket [id: NovjqFOQw6giqymLAAAB] 
+10.8.2024, 19:37:29 - INFO - Server is running on port: 3030 
+10.8.2024, 19:37:31 - INFO - New connected socket [id: EPBttkxHx9oXdQyHAAAB] 
+10.8.2024, 19:37:41 - INFO - New connected socket [id: IvklEJoP1AeQsBMhAAAD] 
+10.8.2024, 19:37:41 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: IvklEJoP1AeQsBMhAAAD] 
+10.8.2024, 19:38:44 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:38:44 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:38:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:38:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:38:44 - INFO - New connected socket [id: Iq4vnt8LQt_iAhOzAAAF] 
+10.8.2024, 19:38:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Iq4vnt8LQt_iAhOzAAAF] 
+10.8.2024, 19:39:47 - INFO - Server is running on port: 3030 
+10.8.2024, 19:39:48 - INFO - New connected socket [id: Ho3eO6f8Gn1wnpK_AAAB] 
+10.8.2024, 19:40:15 - INFO - Server is running on port: 3030 
+10.8.2024, 19:40:15 - INFO - New connected socket [id: KnTRgSI6gscXwiv1AAAB] 
+10.8.2024, 19:40:23 - INFO - Server is running on port: 3030 
+10.8.2024, 19:40:24 - INFO - New connected socket [id: QnuEbN7Y85bRJCjZAAAB] 
+10.8.2024, 19:41:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:41:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:41:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:41:13 - INFO - New connected socket [id: R48goI1LKabd0XfhAAAD] 
+10.8.2024, 19:41:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: R48goI1LKabd0XfhAAAD] 
+10.8.2024, 19:41:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:41:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:41:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:41:36 - INFO - New connected socket [id: NSPx9zrBs7V1umQ6AAAF] 
+10.8.2024, 19:41:37 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: NSPx9zrBs7V1umQ6AAAF] 
+10.8.2024, 19:41:53 - INFO - Server is running on port: 3030 
+10.8.2024, 19:41:54 - INFO - New connected socket [id: njJqqYo3_s_GsbKDAAAB] 
+10.8.2024, 19:41:58 - INFO - Server is running on port: 3030 
+10.8.2024, 19:41:59 - INFO - New connected socket [id: CoyYqWlv1UHyHOjxAAAB] 
+10.8.2024, 19:42:07 - INFO - Server is running on port: 3030 
+10.8.2024, 19:42:08 - INFO - New connected socket [id: zbJJy2ypt0uZvGz4AAAB] 
+10.8.2024, 19:43:16 - INFO - Server is running on port: 3030 
+10.8.2024, 19:43:17 - INFO - New connected socket [id: D7q-n-KWcKC2Ez5kAAAB] 
+10.8.2024, 19:43:59 - INFO - Server is running on port: 3030 
+10.8.2024, 19:44:01 - INFO - New connected socket [id: C_Gaockp9dWIbQNiAAAB] 
+10.8.2024, 19:44:11 - INFO - Server is running on port: 3030 
+10.8.2024, 19:44:12 - INFO - New connected socket [id: 8_m4IUIODtZeFQ8eAAAB] 
+10.8.2024, 19:44:30 - INFO - Server is running on port: 3030 
+10.8.2024, 19:44:31 - INFO - New connected socket [id: aSzPimr4hmIyxx87AAAB] 
+10.8.2024, 19:44:35 - INFO - Server is running on port: 3030 
+10.8.2024, 19:44:36 - INFO - New connected socket [id: p1aSKIOY93RFSKeoAAAB] 
+10.8.2024, 19:45:56 - INFO - Server is running on port: 3030 
+10.8.2024, 19:45:56 - INFO - New connected socket [id: h0oQADTLIyngv2uKAAAB] 
+10.8.2024, 19:46:31 - INFO - Server is running on port: 3030 
+10.8.2024, 19:46:31 - INFO - New connected socket [id: zgT3gIVq2XpNb9lJAAAB] 
+10.8.2024, 19:46:39 - INFO - Server is running on port: 3030 
+10.8.2024, 19:46:41 - INFO - New connected socket [id: sK00EhjdNfFHv5USAAAB] 
+10.8.2024, 19:46:41 - ERROR - Failed to Login TypeError: Spread syntax requires ...iterable[Symbol.iterator] to be a function (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:46:41 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:46:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:46:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:46:42 - INFO - New connected socket [id: Nwk_9zXYbmiL52rjAAAD] 
+10.8.2024, 19:46:42 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Nwk_9zXYbmiL52rjAAAD] 
+10.8.2024, 19:47:02 - INFO - Server is running on port: 3030 
+10.8.2024, 19:47:03 - INFO - New connected socket [id: ifzi_0qyLKnkP1x4AAAB] 
+10.8.2024, 19:47:16 - INFO - Server is running on port: 3030 
+10.8.2024, 19:47:16 - INFO - New connected socket [id: Z2M64eAKgn9uvecQAAAB] 
+10.8.2024, 19:47:22 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:47:22 - INFO - New connected socket [id: ZxaNqnn-e-oRcZP3AAAD] 
+10.8.2024, 19:47:22 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ZxaNqnn-e-oRcZP3AAAD] 
+10.8.2024, 19:47:28 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:47:30 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"spices-and-seasonings","userInput":""},{"name":"spread","userInput":""},{"name":"condiments","userInput":""},{"name":"grains","userInput":""},{"name":"backing-products","userInput":""},{"name":"legumes","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"alcohol","userInput":""},{"name":"seafood","userInput":""},{"name":"fruit","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"dairy","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""},{"name":"bread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:47:30 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:47:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:47:30 - INFO - New connected socket [id: vAQisvbhJGx1dCcaAAAF] 
+10.8.2024, 19:47:30 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: vAQisvbhJGx1dCcaAAAF] 
+10.8.2024, 19:48:57 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:48:58 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"spices-and-seasonings","userInput":""},{"name":"spread","userInput":""},{"name":"condiments","userInput":""},{"name":"grains","userInput":""},{"name":"backing-products","userInput":""},{"name":"legumes","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"alcohol","userInput":""},{"name":"seafood","userInput":""},{"name":"fruit","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"dairy","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""},{"name":"bread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:48:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:48:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:48:58 - INFO - New connected socket [id: PvtdjbIR-koIZT2gAAAH] 
+10.8.2024, 19:48:58 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: PvtdjbIR-koIZT2gAAAH] 
+10.8.2024, 19:49:55 - INFO - Server is running on port: 3030 
+10.8.2024, 19:49:56 - INFO - New connected socket [id: j2klJ9UoZvdlvamMAAAB] 
+10.8.2024, 19:49:56 - INFO - New connected socket [id: j0yjSx01a9DGsOAbAAAD] 
+10.8.2024, 19:49:56 - INFO - New connected socket [id: sG13LPbyq-7JidPjAAAF] 
+10.8.2024, 19:50:11 - INFO - Server is running on port: 3030 
+10.8.2024, 19:50:12 - INFO - New connected socket [id: WC4Olkx2FTK_3BUAAAAC] 
+10.8.2024, 19:50:12 - INFO - New connected socket [id: AAwbzXol7QZBu2DjAAAD] 
+10.8.2024, 19:50:12 - INFO - New connected socket [id: 63ob4uUrJbnlDm6LAAAF] 
+10.8.2024, 19:50:14 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:50:15 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"spices-and-seasonings","userInput":""},{"name":"spread","userInput":""},{"name":"condiments","userInput":""},{"name":"grains","userInput":""},{"name":"backing-products","userInput":""},{"name":"legumes","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"alcohol","userInput":""},{"name":"seafood","userInput":""},{"name":"fruit","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"dairy","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""},{"name":"bread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:50:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:50:15 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 19:50:15 - INFO - New connected socket [id: sX6A63qOX9o0j9FSAAAH] 
+10.8.2024, 19:50:16 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: sX6A63qOX9o0j9FSAAAH] 
+10.8.2024, 19:51:25 - INFO - Server is running on port: 3030 
+10.8.2024, 19:51:26 - INFO - New connected socket [id: lgc7cIFGfbPypXZ0AAAB] 
+10.8.2024, 19:51:26 - INFO - New connected socket [id: R0Nro3PGW2p11f8GAAAD] 
+10.8.2024, 19:51:26 - INFO - New connected socket [id: dJxT4xhW9Kd-oXAPAAAF] 
+10.8.2024, 19:51:27 - INFO - New connected socket [id: un1s1p_uTsP6osdWAAAH] 
+10.8.2024, 19:51:44 - INFO - Server is running on port: 3030 
+10.8.2024, 19:51:45 - INFO - New connected socket [id: 3rtRh5gmcNOPSFTNAAAB] 
+10.8.2024, 19:51:45 - INFO - New connected socket [id: XR3_D4OGFSGTlv-7AAAD] 
+10.8.2024, 19:51:45 - INFO - New connected socket [id: fUr9G3-JVToAO5GOAAAG] 
+10.8.2024, 19:51:45 - INFO - New connected socket [id: A6nSZpj3GM93ZdCDAAAH] 
+10.8.2024, 19:51:56 - INFO - New connected socket [id: fDWB7VcmZwyB919AAAAJ] 
+10.8.2024, 19:51:56 - INFO - Sample Logger Middleware (userId: Wzm6F)
+10.8.2024, 19:51:56 - DEBUG - Getting Lists: | {} (userId: Wzm6F)
+10.8.2024, 19:51:57 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: fDWB7VcmZwyB919AAAAJ] 
+10.8.2024, 19:53:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:53:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:53:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:53:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:53:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:53:13 - INFO - Sample Logger Middleware (userId: Wzm6F)
+10.8.2024, 19:53:13 - DEBUG - Getting Lists: | {} (userId: Wzm6F)
+10.8.2024, 19:53:13 - INFO - New connected socket [id: T65WzehJQD8CZ_nXAAAL] 
+10.8.2024, 19:53:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: T65WzehJQD8CZ_nXAAAL] 
+10.8.2024, 19:53:47 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 19:54:47 - INFO - Sample Logger Middleware (userId: Wzm6F)
+10.8.2024, 19:54:47 - DEBUG - Getting Lists: | {} (userId: Wzm6F)
+10.8.2024, 19:54:47 - INFO - New connected socket [id: nOHAB754os_qjvqUAAAN] 
+10.8.2024, 19:54:47 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nOHAB754os_qjvqUAAAN] 
+10.8.2024, 19:56:27 - INFO - Server is running on port: 3030 
+10.8.2024, 19:56:28 - INFO - New connected socket [id: W1r-2eRA4WCS2dOQAAAB] 
+10.8.2024, 19:57:12 - INFO - Server is running on port: 3030 
+10.8.2024, 19:57:13 - INFO - New connected socket [id: qgeLurlyT-nupx8JAAAB] 
+10.8.2024, 19:57:33 - INFO - Server is running on port: 3030 
+10.8.2024, 19:57:34 - INFO - New connected socket [id: -zdkRkHQbH97vm75AAAB] 
+10.8.2024, 19:57:55 - INFO - Server is running on port: 3030 
+10.8.2024, 19:57:56 - INFO - New connected socket [id: zI3OpSdq839O7A11AAAB] 
+10.8.2024, 19:58:15 - INFO - Server is running on port: 3030 
+10.8.2024, 19:58:16 - INFO - New connected socket [id: NmjrkFl1oRzTChI1AAAB] 
+10.8.2024, 19:58:18 - INFO - Server is running on port: 3030 
+10.8.2024, 19:58:19 - INFO - New connected socket [id: Jut5UKr5m_czZIPAAAAB] 
+10.8.2024, 19:58:56 - INFO - Server is running on port: 3030 
+10.8.2024, 19:58:57 - INFO - New connected socket [id: 9vZhyyUniCJa_0SJAAAB] 
+10.8.2024, 19:59:05 - INFO - Server is running on port: 3030 
+10.8.2024, 19:59:05 - INFO - New connected socket [id: _EuatpTZJz9WjJWrAAAB] 
+10.8.2024, 20:01:39 - INFO - Server is running on port: 3030 
+10.8.2024, 20:01:41 - INFO - New connected socket [id: OeNyuiaqdw1zUYEAAAAB] 
+10.8.2024, 23:25:42 - INFO - New connected socket [id: bMBkkVcdzQY1e2xrAAAD] 
+10.8.2024, 23:25:43 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: bMBkkVcdzQY1e2xrAAAD] 
+10.8.2024, 23:35:11 - INFO - New connected socket [id: lztLsFVjwuqGjiPYAAAF] 
+10.8.2024, 23:35:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: lztLsFVjwuqGjiPYAAAF] 
+10.8.2024, 23:36:31 - INFO - Server is running on port: 3030 
+10.8.2024, 23:36:32 - INFO - New connected socket [id: 8diAblYHFDXDqJjzAAAB] 
+10.8.2024, 23:36:33 - INFO - New connected socket [id: X737wsNo6XoyxHmfAAAD] 
+10.8.2024, 23:36:33 - INFO - New connected socket [id: jiqkhpd328AWJ-QnAAAF] 
+10.8.2024, 23:36:38 - INFO - Server is running on port: 3030 
+10.8.2024, 23:36:38 - INFO - New connected socket [id: XRjfrFkcr4VfuqXxAAAB] 
+10.8.2024, 23:36:39 - INFO - New connected socket [id: B1WI_VVuY2GgTg98AAAE] 
+10.8.2024, 23:36:39 - INFO - New connected socket [id: rKifF7CFD5ttm9A0AAAF] 
+10.8.2024, 23:38:05 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com 
+10.8.2024, 23:38:08 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"spices-and-seasonings","userInput":""},{"name":"spread","userInput":""},{"name":"condiments","userInput":""},{"name":"grains","userInput":""},{"name":"backing-products","userInput":""},{"name":"legumes","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"alcohol","userInput":""},{"name":"seafood","userInput":""},{"name":"fruit","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"dairy","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""},{"name":"bread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} 
+10.8.2024, 23:38:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:38:08 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:38:08 - INFO - New connected socket [id: XDz2QNDU1Za3p6-zAAAH] 
+10.8.2024, 23:38:08 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: XDz2QNDU1Za3p6-zAAAH] 
+10.8.2024, 23:39:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:39:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:39:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:39:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:39:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:39:17 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:39:17 - INFO - New connected socket [id: F-cGN4myS61mGrZCAAAJ] 
+10.8.2024, 23:39:17 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: F-cGN4myS61mGrZCAAAJ] 
+10.8.2024, 23:39:44 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:39:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:39:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:39:44 - INFO - New connected socket [id: edpHcVBQV5ucdQXIAAAL] 
+10.8.2024, 23:39:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: edpHcVBQV5ucdQXIAAAL] 
+10.8.2024, 23:40:31 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:40:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:40:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:40:31 - INFO - New connected socket [id: 5GpwhRbwIj-bazyqAAAN] 
+10.8.2024, 23:40:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 5GpwhRbwIj-bazyqAAAN] 
+10.8.2024, 23:40:39 - ERROR - Failed to login as guest ReferenceError: saltRounds is not defined (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:41:52 - INFO - Server is running on port: 3030 
+10.8.2024, 23:41:54 - INFO - New connected socket [id: 0y51YqA5a9dfp9tlAAAB] 
+10.8.2024, 23:42:57 - INFO - Server is running on port: 3030 
+10.8.2024, 23:42:58 - INFO - New connected socket [id: MAuG2_DMDLZVUs29AAAB] 
+10.8.2024, 23:43:42 - INFO - Server is running on port: 3030 
+10.8.2024, 23:43:42 - INFO - New connected socket [id: ybHsE8Yd7W2bZHL3AAAB] 
+10.8.2024, 23:43:50 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:43:50 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:43:50 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:43:50 - INFO - New connected socket [id: SKaW8Cr1DWs7lc7dAAAD] 
+10.8.2024, 23:43:50 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: SKaW8Cr1DWs7lc7dAAAD] 
+10.8.2024, 23:43:53 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:43:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:43:53 - INFO - New connected socket [id: KBc9X9u0zv6nsQdQAAAF] 
+10.8.2024, 23:43:53 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: KBc9X9u0zv6nsQdQAAAF] 
+10.8.2024, 23:44:49 - INFO - Server is running on port: 3030 
+10.8.2024, 23:44:50 - INFO - New connected socket [id: -IcgvPVNhso35mtrAAAB] 
+10.8.2024, 23:44:50 - INFO - New connected socket [id: RQJwBpKz8wkr6JXzAAAD] 
+10.8.2024, 23:44:56 - INFO - New connected socket [id: a9i_gxaFyNr_3etvAAAF] 
+10.8.2024, 23:44:56 - INFO - Sample Logger Middleware 
+10.8.2024, 23:44:56 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:44:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: a9i_gxaFyNr_3etvAAAF] 
+10.8.2024, 23:44:56 - INFO - Sample Logger Middleware 
+10.8.2024, 23:44:56 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:44:56 - INFO - New connected socket [id: V1x_ZkDuAeF5w9Z4AAAH] 
+10.8.2024, 23:44:57 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: V1x_ZkDuAeF5w9Z4AAAH] 
+10.8.2024, 23:45:07 - INFO - Server is running on port: 3030 
+10.8.2024, 23:45:08 - INFO - New connected socket [id: 4STv-fjnm6TCGTdBAAAB] 
+10.8.2024, 23:45:08 - INFO - New connected socket [id: FRiyxWEAbDdi_N-3AAAD] 
+10.8.2024, 23:45:09 - INFO - New connected socket [id: Q84uFo5sugzYTBAWAAAF] 
+10.8.2024, 23:45:09 - INFO - New connected socket [id: Gljga9x8lOrIdAKeAAAH] 
+10.8.2024, 23:45:34 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:45:34 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:45:34 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:45:34 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:45:41 - INFO - Sample Logger Middleware 
+10.8.2024, 23:45:41 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:45:41 - INFO - New connected socket [id: S2_gN05_u_XM4_q-AAAJ] 
+10.8.2024, 23:45:49 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:45:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:45:54 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:45:54 - INFO - New connected socket [id: YFOASlPatIiL5_iNAAAL] 
+10.8.2024, 23:45:57 - INFO - Sample Logger Middleware 
+10.8.2024, 23:45:57 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:45:57 - INFO - New connected socket [id: guJ7pGJ81iZcsU66AAAN] 
+10.8.2024, 23:46:27 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:46:27 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:46:32 - INFO - New connected socket [id: FutLb-MK1xFm59vXAAAP] 
+10.8.2024, 23:46:32 - INFO - Sample Logger Middleware 
+10.8.2024, 23:46:32 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:46:43 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:46:51 - INFO - New connected socket [id: nL_Ji1Ic_QIrw0jHAAAR] 
+10.8.2024, 23:46:52 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:46:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:47:13 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:47:52 - INFO - New connected socket [id: hfdocObFBfiesJ6JAAAT] 
+10.8.2024, 23:47:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:47:52 - DEBUG - Getting Lists: | {} 
+10.8.2024, 23:48:10 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:48:57 - INFO - New connected socket [id: F7omeZ5TqJ7s5LCHAAAV] 
+10.8.2024, 23:48:58 - INFO - Setting socket for user - ID: null for socket [id: F7omeZ5TqJ7s5LCHAAAV] 
+10.8.2024, 23:50:44 - INFO - Server is running on port: 3030 
+10.8.2024, 23:50:45 - INFO - New connected socket [id: uQr8v55vCi1Thj4xAAAB] 
+10.8.2024, 23:50:54 - DEBUG - auth.service - login with email: tal.amit0311@gmail.com 
+10.8.2024, 23:50:56 - INFO - User login:  | {"_id":"66a50ab07a92d580457882c1","username":"Tal_Amit","email":"tal.amit0311@gmail.com","password":"$2a$10$3onHgo6pQaMxA9TG2dkfwOU3k.ACIMHMt3iHPzAAZiETAUGL4drMa","goals":[],"settings":{"lang":"he","notifications":true,"isVegan":false,"isVegetarian":false,"isGlutenFree":false,"isLactoseFree":false,"isKosher":true},"level":1,"points":0,"achievements":[],"imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c","age":null,"city":"","personalTxt":"","labelOrder":["beverages","cleaning-items","vegetable","fish","nuts-and-seeds","vegetable","sweeteners","spread","dairy-replacements","legumes","grains","condiments","backing-products","spices-and-seasonings","fruit","bread","alcohol","seafood","cooking-oils","dairy"],"labels":[{"name":"spices-and-seasonings","userInput":""},{"name":"spread","userInput":""},{"name":"condiments","userInput":""},{"name":"grains","userInput":""},{"name":"backing-products","userInput":""},{"name":"legumes","userInput":""},{"name":"dairy-replacements","userInput":""},{"name":"alcohol","userInput":""},{"name":"seafood","userInput":""},{"name":"fruit","userInput":""},{"name":"cooking-oils","userInput":""},{"name":"dairy","userInput":""},{"name":"fish","userInput":""},{"name":"nuts-and-seeds","userInput":""},{"name":"bread","userInput":""},{"name":"meat-and-poultry","userInput":""},{"name":"beverages","userInput":""},{"name":"cleaning-items","userInput":""},{"name":"vegetable","userInput":""},{"name":"sweeteners","userInput":""}],"history":[""],"fullname":"Tal Amit","role":"super_user","googleID":"116549974717956267584"} 
+10.8.2024, 23:50:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:50:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:50:56 - INFO - New connected socket [id: Q3yq7Fp8VnmM1No9AAAD] 
+10.8.2024, 23:50:57 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Q3yq7Fp8VnmM1No9AAAD] 
+10.8.2024, 23:51:15 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:51:15 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:51:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:51:16 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+10.8.2024, 23:51:16 - INFO - New connected socket [id: pSPvqUo33epdpHdzAAAF] 
+10.8.2024, 23:51:16 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: pSPvqUo33epdpHdzAAAF] 
+10.8.2024, 23:51:18 - INFO - Sample Logger Middleware (userId: 66b7d2c67683cb27714ece57)
+10.8.2024, 23:51:18 - DEBUG - Getting Lists: | {} (userId: 66b7d2c67683cb27714ece57)
+10.8.2024, 23:51:18 - INFO - New connected socket [id: IOqXdDEX-xlbyM0hAAAH] 
+10.8.2024, 23:51:19 - INFO - Setting socket for user - ID: 66b7d2c67683cb27714ece57 for socket [id: IOqXdDEX-xlbyM0hAAAH] 
+10.8.2024, 23:51:46 - INFO - Sample Logger Middleware (userId: 66b7d2c67683cb27714ece57)
+10.8.2024, 23:51:46 - DEBUG - Getting Lists: | {} (userId: 66b7d2c67683cb27714ece57)
+10.8.2024, 23:52:15 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:52:15 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:52:18 - INFO - Sample Logger Middleware (userId: 66b7d3027683cb27714ece58)
+10.8.2024, 23:52:18 - DEBUG - Getting Lists: | {} (userId: 66b7d3027683cb27714ece58)
+10.8.2024, 23:52:18 - INFO - New connected socket [id: -f2NeFoQMF7Zb_2PAAAJ] 
+10.8.2024, 23:52:19 - INFO - Setting socket for user - ID: 66b7d3027683cb27714ece58 for socket [id: -f2NeFoQMF7Zb_2PAAAJ] 
+10.8.2024, 23:53:16 - INFO - Sample Logger Middleware (userId: 66b7d33c7683cb27714ece59)
+10.8.2024, 23:53:16 - DEBUG - Getting Lists: | {} (userId: 66b7d33c7683cb27714ece59)
+10.8.2024, 23:53:16 - INFO - New connected socket [id: NtmWSNaEpaaNwlQgAAAL] 
+10.8.2024, 23:53:17 - INFO - Setting socket for user - ID: 66b7d33c7683cb27714ece59 for socket [id: NtmWSNaEpaaNwlQgAAAL] 
+10.8.2024, 23:55:06 - INFO - Sample Logger Middleware (userId: 66b7d33c7683cb27714ece59)
+10.8.2024, 23:55:06 - DEBUG - Getting Lists: | {} (userId: 66b7d33c7683cb27714ece59)
+10.8.2024, 23:55:43 - INFO - Sample Logger Middleware (userId: 66b7d33c7683cb27714ece59)
+10.8.2024, 23:55:43 - DEBUG - Getting Lists: | {"visibility":"public"} (userId: 66b7d33c7683cb27714ece59)
+10.8.2024, 23:58:48 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:49 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:49 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:49 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:49 - INFO - New connected socket [id: dSFH1pLnhf4Rj-YFAAAN] 
+10.8.2024, 23:58:49 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:49 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:49 - INFO - New connected socket [id: p8kZe5nSA3ylJ8C0AAAP] 
+10.8.2024, 23:58:49 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:49 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:49 - INFO - New connected socket [id: xaqgLyx8R-kFTiSFAAAR] 
+10.8.2024, 23:58:49 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:49 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:49 - INFO - New connected socket [id: Q6NixXmc2X22-FP5AAAT] 
+10.8.2024, 23:58:49 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:49 - INFO - New connected socket [id: EsNE9SUkNhdBncY_AAAV] 
+10.8.2024, 23:58:50 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:50 - INFO - New connected socket [id: o-1MzU64eb3s2jtmAAAX] 
+10.8.2024, 23:58:50 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:50 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:50 - INFO - New connected socket [id: 4W7n6PomygVaMFigAAAZ] 
+10.8.2024, 23:58:50 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:50 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:50 - INFO - New connected socket [id: fdEf7ScOaHulI8hzAAAb] 
+10.8.2024, 23:58:50 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:50 - INFO - New connected socket [id: AglDCdoUQQu73qUwAAAd] 
+10.8.2024, 23:58:50 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:50 - INFO - New connected socket [id: kcLrGbgZHFTKMaJLAAAf] 
+10.8.2024, 23:58:50 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:50 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:50 - INFO - New connected socket [id: D-FRjh13tIuDVxTmAAAh] 
+10.8.2024, 23:58:50 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: tYk_c39uHnYxDfVaAAAj] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: xhx3M0PAmYKennH7AAAl] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: qbsWQzukmmmubExuAAAn] 
+10.8.2024, 23:58:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: 7S_S1F9KJxBcv28EAAAp] 
+10.8.2024, 23:58:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: 88ByzBJDMHQZKb7zAAAr] 
+10.8.2024, 23:58:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: VCJM6bHuLhZj-DuBAAAt] 
+10.8.2024, 23:58:51 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:51 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:51 - INFO - New connected socket [id: G8CSGJ1X-v9ebj1HAAAv] 
+10.8.2024, 23:58:52 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:52 - INFO - New connected socket [id: ie-NWPfsn5o2OEHtAAAx] 
+10.8.2024, 23:58:52 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:52 - INFO - New connected socket [id: 2kA7xhHc9-yJSLcNAAAz] 
+10.8.2024, 23:58:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:52 - INFO - New connected socket [id: vh0y0CGTKBxeYNLNAAA1] 
+10.8.2024, 23:58:52 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:52 - INFO - New connected socket [id: aJAQ1vJG5PdX4QkfAAA3] 
+10.8.2024, 23:58:52 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:52 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:52 - INFO - New connected socket [id: yZKv1I9PY2_AdfmVAAA5] 
+10.8.2024, 23:58:52 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:53 - INFO - New connected socket [id: -8mO7qs2T0nFocwCAAA7] 
+10.8.2024, 23:58:53 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:53 - INFO - New connected socket [id: zMKa5wFBQso-a8YUAAA9] 
+10.8.2024, 23:58:53 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:53 - INFO - New connected socket [id: oi_PCcwRbcCSujVnAAA_] 
+10.8.2024, 23:58:53 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:53 - INFO - New connected socket [id: 23inUcCqt4DCyo9-AABB] 
+10.8.2024, 23:58:53 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:53 - INFO - New connected socket [id: GVm-awjSd73lGP9XAABD] 
+10.8.2024, 23:58:53 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:53 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:53 - INFO - New connected socket [id: eNri_ySLDW3g51AHAABF] 
+10.8.2024, 23:58:53 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:54 - INFO - New connected socket [id: WZEfERq5P5f8POnzAABH] 
+10.8.2024, 23:58:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:54 - INFO - New connected socket [id: pKz1Mj4lCWnystpuAABJ] 
+10.8.2024, 23:58:54 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:54 - INFO - New connected socket [id: V0BGsGnWZZLsGt6MAABL] 
+10.8.2024, 23:58:54 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:54 - INFO - New connected socket [id: Ko2WpshclSJqUfGNAABN] 
+10.8.2024, 23:58:54 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:54 - INFO - New connected socket [id: LSarDJ3ybtS939IVAABP] 
+10.8.2024, 23:58:54 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:54 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:54 - INFO - New connected socket [id: 3GmfHbq0Q_zGp8CQAABR] 
+10.8.2024, 23:58:54 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:55 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:55 - INFO - New connected socket [id: 8hCXkvpupEnF57RiAABT] 
+10.8.2024, 23:58:55 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:55 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:55 - INFO - New connected socket [id: tkuRTojFyisvZ7qoAABV] 
+10.8.2024, 23:58:55 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:55 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:55 - INFO - New connected socket [id: lt7BF_qumCzFJbWTAABX] 
+10.8.2024, 23:58:55 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:55 - INFO - New connected socket [id: 7vDcG9nZih6RWN0qAABZ] 
+10.8.2024, 23:58:55 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:55 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:55 - INFO - New connected socket [id: -X88mZjTkhLEWVbKAABb] 
+10.8.2024, 23:58:55 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:55 - INFO - Sample Logger Middleware 
+10.8.2024, 23:58:56 - INFO - New connected socket [id: HRMku1Yu5KLGEJ8mAABd] 
+10.8.2024, 23:58:56 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:58:57 - INFO - New connected socket [id: D0qufYAYo0EnHsXRAABf] 
+10.8.2024, 23:58:57 - INFO - Setting socket for user - ID: 66b7d33c7683cb27714ece59 for socket [id: D0qufYAYo0EnHsXRAABf] 
+10.8.2024, 23:59:16 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:16 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:16 - INFO - New connected socket [id: XbaBwcUSkB9sUk5lAABh] 
+10.8.2024, 23:59:16 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:16 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:16 - INFO - New connected socket [id: tYwAvYBgbYG70x73AABj] 
+10.8.2024, 23:59:16 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:16 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:17 - INFO - New connected socket [id: XB_9eU32oyKTP7PhAABl] 
+10.8.2024, 23:59:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:17 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:17 - INFO - New connected socket [id: K8x5nMyUlYd9oqyHAABn] 
+10.8.2024, 23:59:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:17 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:17 - INFO - New connected socket [id: 0htPHxZLl-Ao0e6QAABp] 
+10.8.2024, 23:59:17 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:17 - INFO - New connected socket [id: UwcQI0WI_mSNWCXxAABr] 
+10.8.2024, 23:59:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:17 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:17 - INFO - New connected socket [id: wlywfFvIHw5rc1IiAABt] 
+10.8.2024, 23:59:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:17 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:17 - INFO - New connected socket [id: oWGs-hQyIJ57JygQAABv] 
+10.8.2024, 23:59:17 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:18 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:18 - INFO - New connected socket [id: tS7Wgh1wj7cKjYTbAABx] 
+10.8.2024, 23:59:18 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:18 - INFO - New connected socket [id: MoNjKu0OFmjESvuRAABz] 
+10.8.2024, 23:59:18 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:18 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:18 - INFO - New connected socket [id: ox1FXwWbqDoo-lc5AAB1] 
+10.8.2024, 23:59:18 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:21 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:21 - INFO - New connected socket [id: 6ZIqQFUDAbDoBDQaAAB3] 
+10.8.2024, 23:59:22 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:22 - INFO - New connected socket [id: AtlMKrEmnXAbit_nAAB5] 
+10.8.2024, 23:59:22 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:22 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:22 - INFO - New connected socket [id: jFZY-3fAMAJ1v-0cAAB7] 
+10.8.2024, 23:59:23 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:23 - INFO - New connected socket [id: gyaU6SImcHs0vIpzAAB9] 
+10.8.2024, 23:59:23 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:23 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:23 - INFO - New connected socket [id: Kh7sKFzsch3cWNwZAAB_] 
+10.8.2024, 23:59:24 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:24 - INFO - New connected socket [id: 5Q9r1cLpPxnqzhlfAACB] 
+10.8.2024, 23:59:24 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:24 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:24 - INFO - New connected socket [id: QH_ZhuizdP2nYPoTAACD] 
+10.8.2024, 23:59:24 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:24 - INFO - New connected socket [id: UzU90PAvM6FHjm5FAACF] 
+10.8.2024, 23:59:24 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:24 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:24 - INFO - New connected socket [id: F0CjHqHF1ZguOXlRAACH] 
+10.8.2024, 23:59:24 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:24 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:24 - INFO - New connected socket [id: IJeYDVMbETpGnfb7AACJ] 
+10.8.2024, 23:59:24 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:24 - INFO - New connected socket [id: 67pi6p_WM5bubc5mAACL] 
+10.8.2024, 23:59:25 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:25 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:25 - INFO - New connected socket [id: imCUirz7qG4VEkPpAACN] 
+10.8.2024, 23:59:25 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:25 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:25 - INFO - New connected socket [id: UfND_nhvixAFPaPGAACP] 
+10.8.2024, 23:59:25 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:25 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:25 - INFO - New connected socket [id: C1v9fC9LeMwq3hL9AACR] 
+10.8.2024, 23:59:25 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:25 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:25 - INFO - New connected socket [id: efbCW6WQhiRvWpDrAACT] 
+10.8.2024, 23:59:25 - INFO - Sample Logger Middleware 
+10.8.2024, 23:59:26 - INFO - New connected socket [id: 0Dw0AxrRVYxzyyiWAACW] 
+10.8.2024, 23:59:26 - INFO - Setting socket for user - ID: 66b7d33c7683cb27714ece59 for socket [id: 0Dw0AxrRVYxzyyiWAACW] 
+10.8.2024, 23:59:34 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:34 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:35 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:35 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:36 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:37 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:39 - INFO - Socket disconnected [id: undefined] 
+10.8.2024, 23:59:40 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:02 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:03 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:06 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:07 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:08 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:09 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:09 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:10 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:19 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:20 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:20 - INFO - New connected socket [id: DHqmmQrza_cOqV6FAACY] 
+11.8.2024, 0:00:20 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:20 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:20 - INFO - New connected socket [id: rIa9gM1YsltowzuNAACa] 
+11.8.2024, 0:00:20 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:20 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:20 - INFO - New connected socket [id: wOGhR7W0KGBpl2ugAACc] 
+11.8.2024, 0:00:20 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:20 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:20 - INFO - New connected socket [id: 3TwD2i8r1CWcBTq3AACe] 
+11.8.2024, 0:00:20 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:20 - INFO - New connected socket [id: 01cHcHKULVZvSB5RAACg] 
+11.8.2024, 0:00:20 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:20 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:20 - INFO - New connected socket [id: tOktFVO94l1RJmxgAACi] 
+11.8.2024, 0:00:21 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:21 - INFO - New connected socket [id: dSSsXhbq536nSX4VAACk] 
+11.8.2024, 0:00:21 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:21 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:21 - INFO - New connected socket [id: 8vm-5V24hKIuFwYiAACm] 
+11.8.2024, 0:00:21 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:21 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:21 - INFO - New connected socket [id: mlcdnP2cktt73R3-AACo] 
+11.8.2024, 0:00:21 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:21 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:21 - INFO - New connected socket [id: 5SFTMsk5KQp4wzliAACq] 
+11.8.2024, 0:00:21 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:21 - INFO - New connected socket [id: aFyCXffXlThHiHltAACs] 
+11.8.2024, 0:00:21 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:21 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:22 - INFO - New connected socket [id: e4jyBmh5a4Wfx2jWAACu] 
+11.8.2024, 0:00:22 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:22 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:22 - INFO - New connected socket [id: jG-PyGo_9LsQ93RvAACw] 
+11.8.2024, 0:00:22 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:22 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:22 - INFO - New connected socket [id: aLtOtvJQPzJTXn30AACy] 
+11.8.2024, 0:00:22 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:22 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:22 - INFO - New connected socket [id: Dx1B9iB2TJzgXbocAAC0] 
+11.8.2024, 0:00:22 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:22 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:22 - INFO - New connected socket [id: m5miR4md21CW1tceAAC2] 
+11.8.2024, 0:00:22 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:22 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:22 - INFO - New connected socket [id: ve2Gbwjt4J2xORO2AAC4] 
+11.8.2024, 0:00:22 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:22 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:23 - INFO - New connected socket [id: COpnNTbx-bTrlOCPAAC6] 
+11.8.2024, 0:00:23 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:23 - INFO - New connected socket [id: 7w3TXtjuEOJ9nj6SAAC8] 
+11.8.2024, 0:00:23 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:25 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:25 - INFO - New connected socket [id: MPUpwA7kkKbfpwPNAAC-] 
+11.8.2024, 0:00:25 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:25 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:25 - INFO - New connected socket [id: e4bd8jTaxaki9WUQAADA] 
+11.8.2024, 0:00:25 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:25 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:25 - INFO - New connected socket [id: tu0m2xkKzPWakoWeAADC] 
+11.8.2024, 0:00:25 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:26 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:26 - INFO - New connected socket [id: 2Bv_QIP-9tAfBl7sAADE] 
+11.8.2024, 0:00:26 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:26 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:26 - INFO - New connected socket [id: GuwvrrOZOHU8J49YAADG] 
+11.8.2024, 0:00:26 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:26 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:26 - INFO - New connected socket [id: Q9ua_w6zAZCRjWjrAADI] 
+11.8.2024, 0:00:26 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:26 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:26 - INFO - New connected socket [id: T6vkmRdr571-_gLVAADK] 
+11.8.2024, 0:00:29 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:29 - INFO - New connected socket [id: 2AOMjaUkV-Nzas-dAADM] 
+11.8.2024, 0:00:29 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:29 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:29 - INFO - New connected socket [id: 4poijX7vSn7uqA7tAADO] 
+11.8.2024, 0:00:29 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:29 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:29 - INFO - New connected socket [id: 589as1CRt1KpL77LAADQ] 
+11.8.2024, 0:00:29 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:29 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:30 - INFO - New connected socket [id: BPFceKgSgKwnN-lFAADS] 
+11.8.2024, 0:00:30 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:30 - INFO - New connected socket [id: f7E1t3F0Wh34YUd3AADU] 
+11.8.2024, 0:00:30 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:30 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:30 - INFO - New connected socket [id: XgCUjlEV7AkXmKqIAADW] 
+11.8.2024, 0:00:30 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:30 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:30 - INFO - New connected socket [id: 4cEZyo1o_2znWraqAADY] 
+11.8.2024, 0:00:30 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:30 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:30 - INFO - New connected socket [id: uZq38-i0Kg6V0Xw1AADa] 
+11.8.2024, 0:00:30 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:30 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:30 - INFO - New connected socket [id: WPJGovtY99YmHNv3AADc] 
+11.8.2024, 0:00:30 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:31 - INFO - New connected socket [id: C0rL0Jtuvffzw5xcAADe] 
+11.8.2024, 0:00:31 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:31 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:31 - INFO - New connected socket [id: wn0PFkT6sNUAt4uzAADg] 
+11.8.2024, 0:00:31 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:31 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:31 - INFO - New connected socket [id: kKWV8AGzkplopSM0AADi] 
+11.8.2024, 0:00:31 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:31 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:31 - INFO - New connected socket [id: xoJIwWylYMrXv0dNAADk] 
+11.8.2024, 0:00:31 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:31 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:31 - INFO - New connected socket [id: 8g_4Mo4KawKRRnF6AADm] 
+11.8.2024, 0:00:31 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:31 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:31 - INFO - New connected socket [id: BZA_qD2FgT8i_ASUAADo] 
+11.8.2024, 0:00:31 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:32 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:32 - INFO - New connected socket [id: Y-WxOPkOERe5W8LGAADq] 
+11.8.2024, 0:00:32 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:32 - INFO - New connected socket [id: 3h2_apFjuJpAq02lAADs] 
+11.8.2024, 0:00:32 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:32 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:32 - INFO - New connected socket [id: vj1O8h0pgXTOR86SAADu] 
+11.8.2024, 0:00:32 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:32 - INFO - New connected socket [id: T8RzJEj33MT8NzcKAADw] 
+11.8.2024, 0:00:32 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:32 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:32 - INFO - New connected socket [id: S56BOGIlId9P_7SpAADy] 
+11.8.2024, 0:00:32 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:32 - INFO - New connected socket [id: AVjvjsxxQ2F2M-SoAAD0] 
+11.8.2024, 0:00:33 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:33 - INFO - New connected socket [id: RUiI_reMi-8u9YS5AAD2] 
+11.8.2024, 0:00:33 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:46 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:46 - INFO - New connected socket [id: 9YJYoF3Tra53L37BAAD4] 
+11.8.2024, 0:00:46 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:46 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:46 - INFO - New connected socket [id: ZDYzvckCrO1l0IrWAAD6] 
+11.8.2024, 0:00:46 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:46 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:46 - INFO - New connected socket [id: N5LnkSbimCQAqeuyAAD8] 
+11.8.2024, 0:00:46 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:46 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:46 - INFO - New connected socket [id: _7-s1_20msRBz9roAAD-] 
+11.8.2024, 0:00:46 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:46 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:46 - INFO - New connected socket [id: OPzrtG0dj6CtTCa5AAEA] 
+11.8.2024, 0:00:47 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:47 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:47 - INFO - New connected socket [id: PprpLZUkbhkba_NxAAEC] 
+11.8.2024, 0:00:47 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:47 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:47 - INFO - New connected socket [id: fbTKlJmg3PcGQa5oAAEE] 
+11.8.2024, 0:00:47 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:47 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:47 - INFO - New connected socket [id: BIcObDFIyDpn2irgAAEG] 
+11.8.2024, 0:00:47 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:47 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:47 - INFO - New connected socket [id: tFZWpMDKfakcVTpTAAEI] 
+11.8.2024, 0:00:47 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:47 - INFO - New connected socket [id: 2Ic-yNxj_L3dnRKrAAEK] 
+11.8.2024, 0:00:48 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:48 - INFO - New connected socket [id: s-QI9T5e4z5uDeZZAAEM] 
+11.8.2024, 0:00:48 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:48 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:48 - INFO - New connected socket [id: 7QHTtLre1MF2B_B4AAEO] 
+11.8.2024, 0:00:48 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:48 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:48 - INFO - New connected socket [id: uviRrX67StJesicXAAEQ] 
+11.8.2024, 0:00:48 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:48 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:48 - INFO - New connected socket [id: cGYSPSqY5fEx1bUEAAES] 
+11.8.2024, 0:00:48 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:48 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:48 - INFO - New connected socket [id: z0fwaoTvtANfxfWNAAEU] 
+11.8.2024, 0:00:48 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:48 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:48 - INFO - New connected socket [id: EI_H3Qy2EAzltBAGAAEW] 
+11.8.2024, 0:00:49 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:49 - INFO - New connected socket [id: 75autHKqJKeLAZ7yAAEY] 
+11.8.2024, 0:00:49 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:49 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:49 - INFO - New connected socket [id: sPjKg-SteddQS_24AAEa] 
+11.8.2024, 0:00:49 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:49 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:49 - INFO - New connected socket [id: BrpwoGLaUUwRBb7SAAEc] 
+11.8.2024, 0:00:49 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:49 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:49 - INFO - New connected socket [id: BtHD4smCtpbS3XDXAAEe] 
+11.8.2024, 0:00:49 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:49 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:49 - INFO - New connected socket [id: ngcLkzsLVwyENb-_AAEg] 
+11.8.2024, 0:00:49 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:49 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:49 - INFO - New connected socket [id: V1gMcfiShnTJ05sBAAEi] 
+11.8.2024, 0:00:49 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:50 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:50 - INFO - New connected socket [id: 62h6yqmbNBUurh_4AAEk] 
+11.8.2024, 0:00:50 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:50 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:50 - INFO - New connected socket [id: XLM5rH7S08DehTvjAAEm] 
+11.8.2024, 0:00:50 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:50 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:50 - INFO - New connected socket [id: Z_G3EZlOkJtCgkJzAAEo] 
+11.8.2024, 0:00:50 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:50 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:50 - INFO - New connected socket [id: nhKhHvKlHHC1YUTIAAEq] 
+11.8.2024, 0:00:50 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:50 - INFO - New connected socket [id: USyEAUcegwQj_nqoAAEs] 
+11.8.2024, 0:00:50 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:51 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:51 - INFO - New connected socket [id: Qk1Hv4RGreGNVEROAAEu] 
+11.8.2024, 0:00:51 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:51 - INFO - New connected socket [id: 9Z7K7tRv5W8VbE6dAAEw] 
+11.8.2024, 0:00:51 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:51 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:51 - INFO - New connected socket [id: eHtxU0m90FH_y9E8AAEy] 
+11.8.2024, 0:00:51 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:51 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:51 - INFO - New connected socket [id: hhgUoprYA4E9iHwkAAE0] 
+11.8.2024, 0:00:51 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:51 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:51 - INFO - New connected socket [id: AolyPz0Oj_JrYjo8AAE2] 
+11.8.2024, 0:00:51 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:51 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:51 - INFO - New connected socket [id: WDlGCHy-BHLBxj8WAAE4] 
+11.8.2024, 0:00:51 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:52 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:52 - INFO - New connected socket [id: o4g4sdOR7dYxpVc-AAE6] 
+11.8.2024, 0:00:52 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:52 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:52 - INFO - New connected socket [id: I4H-zG-oLlqLePHYAAE8] 
+11.8.2024, 0:00:52 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:52 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:52 - INFO - New connected socket [id: F5evAyU2FjVXPqWWAAE-] 
+11.8.2024, 0:00:52 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:52 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:52 - INFO - New connected socket [id: NLMTHTYKzjCxsuaZAAFA] 
+11.8.2024, 0:00:52 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:52 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:52 - INFO - New connected socket [id: AFDOfFFoFqTdPNMrAAFC] 
+11.8.2024, 0:00:52 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:52 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:52 - INFO - New connected socket [id: 8OuNgfOfsrgFy2pVAAFE] 
+11.8.2024, 0:00:52 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:53 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:53 - INFO - New connected socket [id: eKPFzRORIVMT8904AAFG] 
+11.8.2024, 0:00:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:53 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:53 - INFO - New connected socket [id: FOXZEyGeh8hhqWzRAAFI] 
+11.8.2024, 0:00:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:53 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:53 - INFO - New connected socket [id: 5iBL1X4VsOxzH8ogAAFK] 
+11.8.2024, 0:00:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:53 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:53 - INFO - New connected socket [id: i_8R2q_GFKDmbmAlAAFM] 
+11.8.2024, 0:00:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:53 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:53 - INFO - New connected socket [id: qhFILSe3oeIP-6eCAAFO] 
+11.8.2024, 0:00:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:53 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:53 - INFO - New connected socket [id: _dlMajlBF5NzPHQ3AAFQ] 
+11.8.2024, 0:00:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:00:54 - INFO - Sample Logger Middleware 
+11.8.2024, 0:00:54 - INFO - New connected socket [id: LjBUqdoDC8989D_4AAFS] 
+11.8.2024, 0:00:54 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:05 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:05 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:06 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:07 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:11 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:14 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:32 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:01:32 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:02:24 - INFO - Server is running on port: 3030 
+11.8.2024, 0:02:58 - INFO - Server is running on port: 3030 
+11.8.2024, 0:02:59 - INFO - New connected socket [id: FyooCHI1-a9T1AruAAAB] 
+11.8.2024, 0:02:59 - INFO - Setting socket for user - ID: 66b7d33c7683cb27714ece59 for socket [id: FyooCHI1-a9T1AruAAAB] 
+11.8.2024, 0:03:03 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:30 - INFO - Server is running on port: 3030 
+11.8.2024, 0:04:32 - INFO - New connected socket [id: jPIqknCCtYJYbcifAAAB] 
+11.8.2024, 0:04:32 - INFO - Setting socket for user - ID: 66b7d33c7683cb27714ece59 for socket [id: jPIqknCCtYJYbcifAAAB] 
+11.8.2024, 0:04:40 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:40 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:41 - INFO - New connected socket [id: fDcIptAVVYvDPBeZAAAD] 
+11.8.2024, 0:04:41 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:41 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:41 - INFO - New connected socket [id: pjb74Bt4IFOhovxMAAAF] 
+11.8.2024, 0:04:41 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:41 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:41 - INFO - New connected socket [id: 9g7GOgZ7sNFtYGeIAAAH] 
+11.8.2024, 0:04:41 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:41 - INFO - New connected socket [id: 1-YfQsDlUVu-RLL3AAAJ] 
+11.8.2024, 0:04:41 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:41 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:41 - INFO - New connected socket [id: mkqZOc415CGoJGNfAAAL] 
+11.8.2024, 0:04:41 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:41 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:41 - INFO - New connected socket [id: HKYomR5Oppbqqi6qAAAN] 
+11.8.2024, 0:04:42 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:42 - INFO - New connected socket [id: uy6vl_Y09yUUhokoAAAP] 
+11.8.2024, 0:04:42 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:42 - INFO - New connected socket [id: kehkH-bYkL-wmNhnAAAR] 
+11.8.2024, 0:04:42 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:42 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:42 - INFO - New connected socket [id: aZGQ7uEGymmN1y2bAAAT] 
+11.8.2024, 0:04:42 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:42 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:42 - INFO - New connected socket [id: emNwZRKujXOzTxoSAAAV] 
+11.8.2024, 0:04:42 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:42 - INFO - New connected socket [id: 2IFcv4giXaHylnHmAAAX] 
+11.8.2024, 0:04:42 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:42 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:42 - INFO - New connected socket [id: 2aw9uxAoERqziO5HAAAZ] 
+11.8.2024, 0:04:42 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:43 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:43 - INFO - New connected socket [id: U5sNBTlFUO9rHxF6AAAb] 
+11.8.2024, 0:04:43 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:43 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:43 - INFO - New connected socket [id: tTJJAqBhURzmVuqEAAAd] 
+11.8.2024, 0:04:43 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:43 - INFO - New connected socket [id: V7_eroGe5PhhhZcTAAAf] 
+11.8.2024, 0:04:43 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:43 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:43 - INFO - New connected socket [id: LqI92ScnBW7gGCfHAAAh] 
+11.8.2024, 0:04:43 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:43 - INFO - New connected socket [id: TOrdh22yVX1DnqPkAAAj] 
+11.8.2024, 0:04:43 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:44 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:44 - INFO - New connected socket [id: _Azb939OIfucvqNHAAAl] 
+11.8.2024, 0:04:44 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:44 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:44 - INFO - New connected socket [id: b6YiIg4zTdsRs_0UAAAn] 
+11.8.2024, 0:04:44 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:44 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:44 - INFO - New connected socket [id: r6Sdfn751jr85TxIAAAp] 
+11.8.2024, 0:04:44 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:44 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:44 - INFO - New connected socket [id: a0EafSXuS0ByZBhjAAAr] 
+11.8.2024, 0:04:44 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:44 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:44 - INFO - New connected socket [id: 2135Alv39lvJrX-qAAAt] 
+11.8.2024, 0:04:44 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:44 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:44 - INFO - New connected socket [id: Hg6Z7tlUPtnejyj2AAAv] 
+11.8.2024, 0:04:44 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:45 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:45 - INFO - New connected socket [id: qECTevoYRgg2TQDaAAAx] 
+11.8.2024, 0:04:45 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:45 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:45 - INFO - New connected socket [id: wA0rGYHIYF2s4oV1AAAz] 
+11.8.2024, 0:04:45 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:45 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:45 - INFO - New connected socket [id: oNeuBODKloZHcG8xAAA1] 
+11.8.2024, 0:04:45 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:04:45 - INFO - Sample Logger Middleware 
+11.8.2024, 0:04:45 - INFO - New connected socket [id: XM6rxs4kEiLUoKHUAAA3] 
+11.8.2024, 0:04:45 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:10 - INFO - Server is running on port: 3030 
+11.8.2024, 0:05:12 - INFO - New connected socket [id: UaCie1x14FJLqlKwAAAB] 
+11.8.2024, 0:05:12 - INFO - New connected socket [id: WcWhXrZCCtQkZyB6AAAD] 
+11.8.2024, 0:05:12 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:13 - INFO - New connected socket [id: KKXvA8XZMbiGOcwGAAAF] 
+11.8.2024, 0:05:13 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:13 - INFO - New connected socket [id: MOy5CeZBBP1vPJs7AAAH] 
+11.8.2024, 0:05:13 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:13 - INFO - New connected socket [id: cPzZysMXOh6cxdXJAAAJ] 
+11.8.2024, 0:05:13 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:13 - INFO - New connected socket [id: 5mldfwidQGweicwCAAAL] 
+11.8.2024, 0:05:13 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:13 - INFO - New connected socket [id: vtqhMClKb_Lnbt4YAAAN] 
+11.8.2024, 0:05:13 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:13 - INFO - New connected socket [id: 4_WXwl7U_DTf1rcKAAAP] 
+11.8.2024, 0:05:14 - INFO - New connected socket [id: zbrM-Ymq6XqHqJGEAAAR] 
+11.8.2024, 0:05:14 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:14 - INFO - New connected socket [id: OKCopX4aOL_I3DdmAAAT] 
+11.8.2024, 0:05:14 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:14 - INFO - New connected socket [id: YGjEVTI-zr8sjvmVAAAV] 
+11.8.2024, 0:05:14 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:14 - INFO - New connected socket [id: uel-UpH_0bC3IfNkAAAX] 
+11.8.2024, 0:05:14 - INFO - New connected socket [id: NQibYL_qaOdwTlgCAAAZ] 
+11.8.2024, 0:05:15 - INFO - New connected socket [id: kma1HhUMhytqfWvpAAAb] 
+11.8.2024, 0:05:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:57 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:58 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:59 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:05:59 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:14 - INFO - New connected socket [id: xhKGc4XB6BWAaqVuAAAd] 
+11.8.2024, 0:06:14 - INFO - New connected socket [id: jwazJ3_KruCty2i2AAAf] 
+11.8.2024, 0:06:14 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:14 - INFO - New connected socket [id: Wf0nIRvGI7W1xWnyAAAh] 
+11.8.2024, 0:06:14 - INFO - New connected socket [id: fe52qPZHzWNYrzKxAAAj] 
+11.8.2024, 0:06:14 - INFO - New connected socket [id: zhEylzSGXsAETZRAAAAl] 
+11.8.2024, 0:06:15 - INFO - New connected socket [id: _oNBUZb8fdiMcEW8AAAn] 
+11.8.2024, 0:06:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:15 - INFO - New connected socket [id: 4kvdC9GO03lGzCZzAAAp] 
+11.8.2024, 0:06:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:15 - INFO - New connected socket [id: Rw7PJ8OjVJ-EY3rvAAAr] 
+11.8.2024, 0:06:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:15 - INFO - New connected socket [id: CaMtz_Rvsh9bjOkdAAAt] 
+11.8.2024, 0:06:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:15 - INFO - New connected socket [id: HfYL5MqbpQ4JQ8pjAAAv] 
+11.8.2024, 0:06:15 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:15 - INFO - New connected socket [id: ma_H2fKLg2wtm_DmAAAx] 
+11.8.2024, 0:06:16 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:16 - INFO - New connected socket [id: 2P2-FBWiK5etyYSMAAAz] 
+11.8.2024, 0:06:16 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:16 - INFO - New connected socket [id: 4JjVeRA9Py862r0TAAA1] 
+11.8.2024, 0:06:16 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:16 - INFO - New connected socket [id: xoFiVm48f5vttZhQAAA3] 
+11.8.2024, 0:06:16 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:16 - INFO - New connected socket [id: 76Bq0xl4lKoD-g6eAAA5] 
+11.8.2024, 0:06:16 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:16 - INFO - New connected socket [id: ORfrTrXMWhvOktHLAAA7] 
+11.8.2024, 0:06:16 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:17 - INFO - New connected socket [id: om_IUrmMsjVoRwvRAAA9] 
+11.8.2024, 0:06:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:17 - INFO - New connected socket [id: ePKp-mvZSa6Fo8GHAAA_] 
+11.8.2024, 0:06:17 - INFO - New connected socket [id: UGgeU-1RgORoxA3-AABB] 
+11.8.2024, 0:06:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:17 - INFO - New connected socket [id: 3PRoMp0VCv_aCWDGAABD] 
+11.8.2024, 0:06:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:17 - INFO - New connected socket [id: HEqXfidEq4vn3UjTAABF] 
+11.8.2024, 0:06:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:17 - INFO - New connected socket [id: Aadv4d9tWbSyaXL0AABH] 
+11.8.2024, 0:06:17 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:18 - INFO - New connected socket [id: Hwkuj3nKAxtT4U2dAABJ] 
+11.8.2024, 0:06:18 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:18 - INFO - New connected socket [id: yXqfmGi87tCjzXLIAABL] 
+11.8.2024, 0:06:18 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:18 - INFO - New connected socket [id: z30W0E_RJmt3CcMpAABN] 
+11.8.2024, 0:06:18 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:18 - INFO - New connected socket [id: Vwkd5ODXGCg2Q30wAABP] 
+11.8.2024, 0:06:18 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:18 - INFO - New connected socket [id: ikuOtCalQ5vYoc5pAABR] 
+11.8.2024, 0:06:18 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:19 - INFO - New connected socket [id: QNQZKneXBtqx_QroAABT] 
+11.8.2024, 0:06:19 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:19 - INFO - New connected socket [id: FbQgk-LP1VUirb58AABV] 
+11.8.2024, 0:06:19 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:19 - INFO - New connected socket [id: lZo8fPxNYCFOm7ixAABX] 
+11.8.2024, 0:06:19 - INFO - New connected socket [id: QUgo9IpU8n9YpojwAABZ] 
+11.8.2024, 0:06:19 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:19 - INFO - New connected socket [id: pTuISlKPAjRkLzqXAABb] 
+11.8.2024, 0:06:19 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:19 - INFO - New connected socket [id: m8FNtbyAvYzV1GwZAABd] 
+11.8.2024, 0:06:19 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:20 - INFO - New connected socket [id: hGV-ynR3n_Fo5FyKAABf] 
+11.8.2024, 0:06:20 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:59 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:59 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:59 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:06:59 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:07:02 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:07:04 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:08:06 - INFO - Server is running on port: 3030 
+11.8.2024, 0:08:10 - INFO - Server is running on port: 3030 
+11.8.2024, 0:13:59 - INFO - Server is running on port: 3030 
+11.8.2024, 0:14:03 - INFO - Server is running on port: 3030 
+11.8.2024, 0:14:52 - INFO - Server is running on port: 3030 
+11.8.2024, 0:15:11 - INFO - Sample Logger Middleware (userId: 66b7d85f12e990ba4c6499fa)
+11.8.2024, 0:15:11 - DEBUG - Getting Lists: | {} (userId: 66b7d85f12e990ba4c6499fa)
+11.8.2024, 0:15:11 - INFO - New connected socket [id: 7IDtjoPIGRyfPMbaAAAB] 
+11.8.2024, 0:15:12 - INFO - Setting socket for user - ID: 66b7d85f12e990ba4c6499fa for socket [id: 7IDtjoPIGRyfPMbaAAAB] 
+11.8.2024, 0:16:00 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:16:00 - INFO - Sample Logger Middleware (userId: 66b7d85f12e990ba4c6499fa)
+11.8.2024, 0:16:00 - DEBUG - Getting Lists: | {} (userId: 66b7d85f12e990ba4c6499fa)
+11.8.2024, 0:16:00 - INFO - New connected socket [id: b3rdKmiZFmCTA_UBAAAD] 
+11.8.2024, 0:16:00 - INFO - Setting socket for user - ID: 66b7d85f12e990ba4c6499fa for socket [id: b3rdKmiZFmCTA_UBAAAD] 
+11.8.2024, 0:17:00 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:17:01 - INFO - Sample Logger Middleware (userId: 66b7d85f12e990ba4c6499fa)
+11.8.2024, 0:17:01 - DEBUG - Getting Lists: | {} (userId: 66b7d85f12e990ba4c6499fa)
+11.8.2024, 0:17:01 - INFO - New connected socket [id: RqWDvjfmEAxiwFVzAAAF] 
+11.8.2024, 0:17:01 - INFO - Setting socket for user - ID: 66b7d85f12e990ba4c6499fa for socket [id: RqWDvjfmEAxiwFVzAAAF] 
+11.8.2024, 0:17:27 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:17:36 - INFO - Sample Logger Middleware (userId: 66b7d8f012e990ba4c6499fb)
+11.8.2024, 0:17:36 - DEBUG - Getting Lists: | {} (userId: 66b7d8f012e990ba4c6499fb)
+11.8.2024, 0:17:36 - INFO - New connected socket [id: _yvIeC8ljnPgWhurAAAH] 
+11.8.2024, 0:17:37 - INFO - Setting socket for user - ID: 66b7d8f012e990ba4c6499fb for socket [id: _yvIeC8ljnPgWhurAAAH] 
+11.8.2024, 0:17:39 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:17:39 - INFO - Sample Logger Middleware (userId: 66b7d8f012e990ba4c6499fb)
+11.8.2024, 0:17:39 - DEBUG - Getting Lists: | {} (userId: 66b7d8f012e990ba4c6499fb)
+11.8.2024, 0:17:39 - INFO - New connected socket [id: UFc4nYffTvrhe2Y1AAAJ] 
+11.8.2024, 0:17:40 - INFO - Setting socket for user - ID: 66b7d8f012e990ba4c6499fb for socket [id: UFc4nYffTvrhe2Y1AAAJ] 
+11.8.2024, 0:17:55 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:17:59 - INFO - Sample Logger Middleware (userId: 66b7d90612e990ba4c6499fc)
+11.8.2024, 0:17:59 - DEBUG - Getting Lists: | {} (userId: 66b7d90612e990ba4c6499fc)
+11.8.2024, 0:17:59 - INFO - New connected socket [id: Yz5WdWbq4wRQPOcDAAAL] 
+11.8.2024, 0:17:59 - INFO - Setting socket for user - ID: 66b7d90612e990ba4c6499fc for socket [id: Yz5WdWbq4wRQPOcDAAAL] 
+11.8.2024, 0:23:34 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:23:34 - INFO - Sample Logger Middleware 
+11.8.2024, 0:23:34 - INFO - New connected socket [id: pLy0twRuPCJCiGfTAAAN] 
+11.8.2024, 0:23:34 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:24:30 - INFO - Server is running on port: 3030 
+11.8.2024, 0:24:34 - INFO - Server is running on port: 3030 
+11.8.2024, 0:25:48 - INFO - Sample Logger Middleware (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:48 - DEBUG - Getting Lists: | {} (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:48 - INFO - New connected socket [id: vB3udae7FJetxm7-AAAB] 
+11.8.2024, 0:25:49 - INFO - Setting socket for user - ID: 66b7dadc09aab0015d6dc753 for socket [id: vB3udae7FJetxm7-AAAB] 
+11.8.2024, 0:25:51 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:25:51 - INFO - Sample Logger Middleware (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:51 - DEBUG - Getting Lists: | {} (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:51 - INFO - New connected socket [id: uiKKQXTcZx5NPyPjAAAD] 
+11.8.2024, 0:25:51 - INFO - Setting socket for user - ID: 66b7dadc09aab0015d6dc753 for socket [id: uiKKQXTcZx5NPyPjAAAD] 
+11.8.2024, 0:25:53 - INFO - Socket disconnected [id: undefined] 
+11.8.2024, 0:25:53 - INFO - Sample Logger Middleware (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:53 - DEBUG - Getting Lists: | {} (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:53 - INFO - New connected socket [id: vccYCYhdPge3JyKkAAAF] 
+11.8.2024, 0:25:54 - INFO - Setting socket for user - ID: 66b7dadc09aab0015d6dc753 for socket [id: vccYCYhdPge3JyKkAAAF] 
+11.8.2024, 0:25:56 - INFO - Sample Logger Middleware (userId: 66b7dadc09aab0015d6dc753)
+11.8.2024, 0:25:56 - DEBUG - Getting Lists: | {} (userId: 66b7dadc09aab0015d6dc753)
