@@ -11,7 +11,7 @@ const router = express.Router()
 
 // router.get('/', log, getItems)
 router.get('/', log, requireAuth, getItems)
-router.get('/:id', requireAdmin, getItemById)
+router.get('/:id',requireAuth, getItemById)
 router.post('/', requireAuth, requireAdmin, addItem)
 // router.put('/:id', requireAuth, updateItem)
 router.put('/:id', requireAuth, requireAdmin, updateItem)

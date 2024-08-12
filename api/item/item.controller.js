@@ -9,7 +9,10 @@ export async function getItems(req, res) {
 
     const filterBy = req.query
     const { loggedInUser } = req
+   
+    
     const items = await itemService.query(filterBy, loggedInUser)
+  // console.log('items:', items);
   
     res.json(items)
   } catch (err) {

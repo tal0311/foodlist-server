@@ -31,7 +31,7 @@ async function getById(userId) {
     try {
         const collection = await dbService.getCollection(collectionName)
         const user = await collection.findOne({ _id: mongoId(userId) })
-        console.log(user);
+   
 
         return user
     } catch (err) {

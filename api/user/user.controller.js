@@ -1,5 +1,6 @@
 import {userService} from './user.service.js'
 import {logger} from '../../services/logger.service.js'
+import { config } from '../../config/index.js'
 
 
 export async function getUser(req, res) {
@@ -37,6 +38,11 @@ export async function deleteUser(req, res) {
 }
 
 export async function updateUser(req, res) {
+
+    const {loggedInUser}= req
+    if (!config.roles.includes(loggedInUser) && loggedInUser._id !== req.params.id) {
+        return res.status(403).json({ err: 'Permission denied' })
+    }
     try {
         const user = req.body
         const savedUser = await userService.update(user)

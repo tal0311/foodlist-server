@@ -38,6 +38,8 @@ if (process.env.NODE_ENV === 'production') {
 
 app.use(cors(corsOptions))
 
+;
+
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { itemRoutes } from './api/item/item.routes.js';
@@ -70,6 +72,7 @@ app.get('/**', (req, res) => {
 
 
 import { logger } from './services/logger.service.js'
+import { log } from './middlewares/logger.middleware.js';
 
 const port = process.env.PORT || 3030
 server.listen(port, () => {

@@ -4,9 +4,9 @@ import {logger} from '../../services/logger.service.js'
 export async function login(req, res) {
     
     const { type } = req.params
-    console.log("♠️ ~ login ~ type:", type)
+   
     const { email, password } = req.body
-    // console.log("♠️ ~ login ~ req.body:", req.body)
+   
     if (type === 'credentials' && !email || !password) {
         res.status(400).send({ err: 'Email and password are required' })
         return
@@ -23,7 +23,7 @@ export async function login(req, res) {
         // console.log("♠️ ~ login ~ user:", user);
         
         const loginToken = authService.getLoginToken(user)
-        logger.info('User login: ', user)
+        // logger.info('User login: ', user)
         res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true})
         res.json(user)
     } catch (err) {

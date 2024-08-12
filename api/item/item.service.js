@@ -11,10 +11,10 @@ const mongoId = ObjectId.createFromHexString;
 
 
 const collectionName = 'item'
+// TODO:fix items filter for user prefs and labels (still showing non kosher group name)
+async function query(filterBy = { txt: '', type: '', labels: '' }, loggedInUser) {
 
-async function query(filterBy = { txt: '', type: '' ,labels:'' }, loggedInUser) {
-
-    const { settings } = loggedInUser
+    const { settings, labelsOrder, labels } = loggedInUser
 
     try {
         const collection = await dbService.getCollection(collectionName)
@@ -30,14 +30,16 @@ async function query(filterBy = { txt: '', type: '' ,labels:'' }, loggedInUser) 
 
             ]).toArray()
 
+            // console.log('items:', items);
+
             let itemMap = items.reduce((acc, itemGroup) => {
                 acc[itemGroup._id] = itemGroup.items;
                 return acc
             }, {});
 
-            await setLabels(itemMap, loggedInUser._id)
+            const updatedUser = await setLabels(itemMap, loggedInUser._id)
 
-            return filterByUserSettings(settings, itemMap)
+            return filterByUserSettings(updatedUser, itemMap)
         }
 
         const items = await collection.find({})
@@ -49,7 +51,8 @@ async function query(filterBy = { txt: '', type: '' ,labels:'' }, loggedInUser) 
     }
 }
 
-function filterByUserSettings(settings, itemsByLabels) {
+async function filterByUserSettings(user, itemsByLabels) {
+    let { settings, _id } = user
 
     const filterLabels = []
     for (const key in settings) {
@@ -59,32 +62,26 @@ function filterByUserSettings(settings, itemsByLabels) {
         }
     }
 
+    const nonItemsMap = {
+        'isVegan': ['meat-and-poultry', 'dairy', 'eggs', 'fish', 'honey', 'seafood'],
+        'isGlutenFree': ['bread', 'pasta', 'cereal', 'flour', 'baked-goods'],
+        'isVegetarian': ['meat-and-poultry', 'fish', 'seafood'],
+        'isKosher': ['seafood']
+    }
+    
     filterLabels.forEach(prefs => {
-        if (prefs === 'isVegan') {
-            const noneVeganGroups = ['meat-and-poultry', 'dairy', 'eggs', 'fish', 'honey', 'seafood']
-            noneVeganGroups.forEach(group => {
-                itemsByLabels[group] && delete itemsByLabels[group]
-            })
-        }
-        if (prefs === 'isGlutenFree') {
-            const noneGlutenFreeGroups = ['bread', 'pasta', 'cereal', 'flour', 'baked-goods']
-            noneGlutenFreeGroups.forEach(group => {
-                itemsByLabels[group] && delete itemsByLabels[group]
-            })
-        }
-        if (prefs === 'isVegetarian') {
-            const noneVegetarianGroups = ['meat-and-poultry', 'fish', 'seafood']
-            noneVegetarianGroups.forEach(group => {
-                itemsByLabels[group] && delete itemsByLabels[group]
-            })
-        }
-        if (prefs === 'isKosher') {
-            const noneKosherGroups = ['seafood']
-            noneKosherGroups.forEach(group => {
-                itemsByLabels[group] && delete itemsByLabels[group]
-            })
-        }
-    })
+        nonItemsMap[prefs].forEach(group => {
+
+            user.labelOrder = user.labelOrder.filter(label => label !== group);
+            user.labels = user.labels.filter(label => label.name !== group);
+
+            delete itemsByLabels[group];
+        });
+
+    });
+
+    socketService.emitToUser({ type: 'update-user', data: user, userId: _id })
+    await userService.update(user);
 
     return itemsByLabels
 
@@ -92,18 +89,23 @@ function filterByUserSettings(settings, itemsByLabels) {
 
 
 async function setLabels(list, userId) {
+    try {
 
-    const user = await userService.getById(userId)
-    user._id = user._id.toString()
-    // console.log('labels:', user);
+        const user = await userService.getById(userId)
+        user._id = user._id.toString()
 
-    user.labels = !user.labels || user.labels.length !== Object.keys(list).length ? Object.keys(list).map(label => ({ name: label, userInput: "" })) : user.labels;
-    user.labels = Object.keys(list).map(label => ({ name: label, userInput: "" }));
-    user.labelOrder = !user.labelOrder || user.labelOrder.length != user.labels.length ? user.labels.map(label => label.name) : user.labelOrder;
 
-    socketService.emitToUser({ type: 'update-user', data: user, userId: user._id })
-    userService.update(user);
-    return user
+        user.labels = !user.labels || user.labels.length !== Object.keys(list).length ? Object.keys(list).map(label => ({ name: label, userInput: "" })) : user.labels;
+
+        user.labelOrder = !user.labelOrder || user.labelOrder.length != user.labels.length ? user.labels.map(label => label.name) : user.labelOrder;
+
+
+        return user
+    } catch (error) {
+        logger.error('cannot set labels', error)
+
+    }
+
 
 }
 
