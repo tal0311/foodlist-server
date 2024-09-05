@@ -14,13 +14,17 @@ const collectionName = 'item'
 // TODO:fix items filter for user prefs and labels (still showing non kosher group name)
 async function query(filterBy = { txt: '', type: '', labels: '' }, loggedInUser) {
 
-    const { settings, labelsOrder, labels } = loggedInUser
-
+    const { settings, labelsOrder, labels ,exItems} = loggedInUser
+    const objectIdExItems = exItems?.map(id => mongoId(id));
     try {
         const collection = await dbService.getCollection(collectionName)
-
         if (filterBy.labels) {
             const items = await collection.aggregate([
+                {
+                    $match: {
+                        _id: { $nin: objectIdExItems || [] } //array of items to exclude or empty array as default
+                    }
+                },
                 {
                     $group: {
                         _id: "$group",
@@ -30,7 +34,7 @@ async function query(filterBy = { txt: '', type: '', labels: '' }, loggedInUser)
 
             ]).toArray()
 
-            // console.log('items:', items);
+           
 
             let itemMap = items.reduce((acc, itemGroup) => {
                 acc[itemGroup._id] = itemGroup.items;

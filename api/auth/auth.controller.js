@@ -1,30 +1,34 @@
-import {authService} from './auth.service.js'
-import {logger} from '../../services/logger.service.js'
+import { authService } from './auth.service.js'
+import { logger } from '../../services/logger.service.js'
+import { config } from '../../config/index.js'
 
 export async function login(req, res) {
-    
+    // console.log("♠️ ~ login ~ req.body:", req.body);
+
+
     const { type } = req.params
-   
-    const { email, password } = req.body
-   
-    if (type === 'credentials' && !email || !password) {
+
+    const { email, password, googleID } = req.body
+
+
+    const props = { email, password, googleID }
+    props.loginType = config.loginTypes[type.toUpperCase()]
+
+    if ((type === 'credentials') && (!email || !password)) {
         res.status(400).send({ err: 'Email and password are required' })
         return
     }
-    
-    const props = { email, password }
-    if (type === 'google') {
-        props.googleId = req.body.googleID
+
+    if ((type === 'google') && (!googleID)) {
+        res.status(400).send({ err: 'Can not login with Google' })
+        return
     }
 
-
+   
     try {
         const user = await authService.login(props)
-        // console.log("♠️ ~ login ~ user:", user);
-        
         const loginToken = authService.getLoginToken(user)
-        // logger.info('User login: ', user)
-        res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true})
+        res.cookie('loginToken', loginToken, { sameSite: 'None', secure: true })
         res.json(user)
     } catch (err) {
         logger.error('Failed to Login ' + err)
@@ -35,7 +39,7 @@ export async function login(req, res) {
 export async function signup(req, res) {
     try {
         const credentials = req.body
-        
+
         console.log("♠️ ~ signup ~ req.body:", req.body)
         // Never log passwords
         // logger.debug(credentials)
@@ -44,7 +48,7 @@ export async function signup(req, res) {
         const user = await authService.login(credentials.username, credentials.password)
         logger.info('User signup:', user)
         const loginToken = authService.getLoginToken(user)
-        res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true})
+        res.cookie('loginToken', loginToken, { sameSite: 'None', secure: true })
         res.json(user)
     } catch (err) {
         logger.error('Failed to signup ' + err)
@@ -57,7 +61,7 @@ export async function guestSignup(req, res) {
     try {
         const guestUser = await authService.loginAsGuest()
         const loginToken = authService.getLoginToken(guestUser)
-        res.cookie('loginToken', loginToken, {sameSite: 'None', secure: true, expires: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000)})
+        res.cookie('loginToken', loginToken, { sameSite: 'None', secure: true, expires: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000) })
         res.json(guestUser)
     } catch (err) {
         logger.error('Failed to login as guest ' + err)
@@ -65,7 +69,7 @@ export async function guestSignup(req, res) {
     }
 }
 
-export async function logout(req, res){
+export async function logout(req, res) {
     try {
         res.clearCookie('loginToken')
         res.send({ msg: 'Logged out successfully' })
