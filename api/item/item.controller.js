@@ -52,7 +52,6 @@ export async function addItem(req, res) {
 export async function updateItem(req, res) {
   try {
     const { _id, name, color, readMoreUrl, icon, isSelected } = req.body
-
     const item = { _id, name, color, readMoreUrl, icon, isSelected }
     const updatedItem = await itemService.update(item)
     logger.admin('Updating item', updatedItem)

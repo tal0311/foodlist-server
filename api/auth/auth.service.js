@@ -16,42 +16,72 @@ export const authService = {
     loginAsGuest
 }
 
-async function login({ email, password, googleID, loginType }) {
-    logger.debug(`auth.service - login with email: ${email}`)
-    const user = await userService.getByEmail(email)
-    if (!user) return Promise.reject('Invalid email or password')
-    // TODO: un-comment for real login
-    if (loginType===1 &&  googleID) {
-        if (user.googleID !== googleID) return Promise.reject('Invalid email or password')
-        // signup with google
-    }
-    if(loginType ===2 && password){
-        const match = await bcrypt.compare(password, user.password)
-        if (!match) return Promise.reject('Invalid username or password')
+async function login(credentials, body) {
+
+    try {
+
+        const { email, password, googleID, loginType } = credentials
+
+        logger.debug(`auth.service - login with ${loginType}: ${JSON.stringify(credentials)}`)
+        const user = await userService.getByEmail(email)
+        // service have not found a user
+        if (!user && (loginType === 2)) {
+            const user = await signup(body, loginType)
+            return user
+
+        }
+        if (!user && (loginType !== 2)) return Promise.reject('Invalid username or password')
+
+        // service have found a user
+        if ((loginType === 1) && password) {
+            const match = await bcrypt.compare(password, user.password)
+            if (!match) return Promise.reject('Invalid username or password')
+
+        }
+        if (loginType === 2 && googleID) {
+
+            if (user.googleID !== googleID) {
+                return Promise.reject('Invalid email or password')
+            }
+            // signup with google
+
+        }
+        delete user.password
+        user._id = user._id.toString()
+        return user
+    } catch (error) {
+        logger.error('Failed to login from service ' + error)
+        throw new Error('Failed to login')
 
     }
-
-
-    user._id = user._id.toString()
-    console.log('user:', user);
-    
-    return user
 }
 
+async function signup(userToAdd, signInType) {
 
 
-async function signup({ username, password, fullname, imgUrl, email }) {
+    const { username, password, fullname, imgUrl, email, googleID } = userToAdd
 
+    let userExist = null
+    switch (signInType) {
+        case 1:
+            userExist = await userService.getByEmail(email)
+            if (userExist) return Promise.reject('email already taken')
 
-    logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
-    if (!username || !password || !fullname) return Promise.reject('Missing required signup information')
+            logger.debug(`auth.service - signup with username: ${email}, fullname: ${fullname}`)
+            if (!email || !password) return Promise.reject('Missing required signup information')
+            break;
 
-    const userExist = await userService.getByEmail(username)
-    if (userExist) return Promise.reject('Username already taken')
+        case 2:
+        case 3:
+            userExist = await userService.getByEmail(email)
+            if (userExist) return Promise.reject('email already taken')
+            break;
 
-    const hash = await bcrypt.hash(password, config.saltRounds)
-    console.log(hash);
-    return userService.add({ username, password: hash, fullname, imgUrl, email })
+        default:
+            break;
+    }
+
+    return userService.add(userToAdd)
 }
 
 async function loginAsGuest() {
@@ -70,7 +100,6 @@ async function loginAsGuest() {
 }
 
 function getLoginToken(user) {
-
     return cryptr.encrypt(JSON.stringify(user))
 }
 
@@ -86,6 +115,7 @@ function validateToken(loginToken) {
     }
     return null
 }
+
 
 export function encryptPassword(password) {
     return cryptr.encrypt(password)

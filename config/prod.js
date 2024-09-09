@@ -6,7 +6,5 @@ export default {
     CREDENTIALS: 1,
     GOOGLE: 2,
     GUEST: 3
-
-
   }
 }

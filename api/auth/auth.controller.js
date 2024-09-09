@@ -3,35 +3,28 @@ import { logger } from '../../services/logger.service.js'
 import { config } from '../../config/index.js'
 
 export async function login(req, res) {
-    // console.log("♠️ ~ login ~ req.body:", req.body);
-
-
     const { type } = req.params
-
     const { email, password, googleID } = req.body
 
-
-    const props = { email, password, googleID }
-    props.loginType = config.loginTypes[type.toUpperCase()]
-
-    if ((type === 'credentials') && (!email || !password)) {
-        res.status(400).send({ err: 'Email and password are required' })
-        return
-    }
-
-    if ((type === 'google') && (!googleID)) {
-        res.status(400).send({ err: 'Can not login with Google' })
-        return
-    }
-
-   
     try {
-        const user = await authService.login(props)
+        const props = { email, password, googleID }
+        props.loginType = config.loginTypes[type.toUpperCase()]
+        if ((type === 'credentials') && (!email || !password)) {
+            res.status(400).send({ err: 'Email and password are required' })
+            return
+        }
+
+        if ((type === 'google') && (!googleID)) {
+            res.status(400).send({ err: 'Can not login with Google' })
+            return
+        }
+        const user = await authService.login(props, req.body)
+
         const loginToken = authService.getLoginToken(user)
         res.cookie('loginToken', loginToken, { sameSite: 'None', secure: true })
         res.json(user)
     } catch (err) {
-        logger.error('Failed to Login ' + err)
+        logger.error('Failed to Login from controller ' + err)
         res.status(401).send({ err: 'Failed to Login' })
     }
 }

@@ -1,5 +1,8 @@
 import { dbService } from '../../services/db.service.js'
 import { logger } from '../../services/logger.service.js'
+import { utilService } from '../../services/util.service.js'
+import { config } from '../../config/index.js'
+import bcrypt from 'bcryptjs'
 import mongodb from 'mongodb'
 const { ObjectId } = mongodb
 const mongoId = ObjectId.createFromHexString
@@ -11,7 +14,9 @@ export const userService = {
     update,         // Update (Edit profile)
     remove,         // Delete (remove user)
     query,          // List (of users)
-    getByEmail   // Used for Login
+    getByEmail,   // Used for Login in DEV
+    getEmptyUser
+
 }
 
 async function query(filterBy = {}) {
@@ -31,7 +36,7 @@ async function getById(userId) {
     try {
         const collection = await dbService.getCollection(collectionName)
         const user = await collection.findOne({ _id: mongoId(userId) })
-   
+
 
         return user
     } catch (err) {
@@ -87,50 +92,57 @@ async function update(user) {
 
 async function add(user) {
     try {
-        // peek only updatable fields!
 
-        // get empty user object
-        const userToAdd= getEmptyUser({ ...user })
+        user = getEmptyUser(user)
+        const hash = await bcrypt.hash(user.password, config.saltRounds)
+        user.password = hash
+
         const collection = await dbService.getCollection(collectionName)
-        await collection.insertOne(userToAdd)
-        
-        
-        return userToAdd
+        const result = await collection.insertOne(user)
+        user._id = result.insertedId.toString()
+        delete user.password
+
+
+        return user
     } catch (err) {
         logger.error('cannot add user', err)
         throw err
     }
 }
 
-function getEmptyUser({ username, password, fullname, imgUrl, email, role }) {
+function getEmptyUser({ username, password, imgUrl, email, googleID }) {
     return {
-        fullname,
         username,
         email,
-        password,
+        password: password || utilService.makeId(8),
         goals: [],
         settings: {
-            "lang": "he",
-            "notifications": true,
-            "isVegan": false,
-            "isVegetarian": false,
-            "isGlutenFree": false,
-            "isLactoseFree": false,
-            "isKosher": false
+            lang: "he",
+            notifications: true,
+            isVegan: false,
+            isVegetarian: false,
+            isGlutenFree: false,
+            isLactoseFree: false,
+            isKosher: false
         },
         level: 1,
         points: 0,
         achievements: [],
         selectedItems: [],
-        imgUrl:imgUrl || "",
+        imgUrl: imgUrl || 'https://ui-avatars.com/api/?name=Guest%user&rounded=true',
         age: null,
         city: "",
         labels: [],
+        history: [],
         personalTxt: "",
-        role: role || "guest"
-
+        role: "user",
+        exItems: [],
+        googleID: googleID || ''
     }
+
 }
+
+
 
 
 // function _buildCriteria(filterBy) {
