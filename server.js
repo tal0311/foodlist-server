@@ -44,6 +44,7 @@ import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { itemRoutes } from './api/item/item.routes.js';
 import { recipeRoutes } from './api/recipe/recipe.routes.js';
+import { transRoutes } from './api/trans/trans.routes.js';
 
 import { listRoutes } from './api/list/list.routes.js'
 import { setupSocketAPI } from './services/socket.service.js'
@@ -57,6 +58,7 @@ app.use('/api/user', userRoutes)
 app.use('/api/list', listRoutes)
 app.use('/api/recipe', recipeRoutes)
 app.use('/api/item', itemRoutes)
+app.use('/api/trans', transRoutes)
 setupSocketAPI(server)
 
 // Make every server-side-route to match the index.html

@@ -1,5 +1,6 @@
 import { itemService } from './item.service.js'
 import { logger } from '../../services/logger.service.js'
+import { transService } from '../trans/trans.service.js'
 
 
 
@@ -9,11 +10,11 @@ export async function getItems(req, res) {
 
     const filterBy = req.query
     const { loggedInUser } = req
-   
-    
+
+
     const items = await itemService.query(filterBy, loggedInUser)
-  // console.log('items:', items);
-  
+    // console.log('items:', items);
+
     res.json(items)
   } catch (err) {
     logger.error('Failed to get items', err)
@@ -35,14 +36,17 @@ export async function getItemById(req, res) {
 
 export async function addItem(req, res) {
   const { loggedInUser } = req
-
+  const { name, translation, icon, color, group, readMoreUrl, isSelected } = req.body
   try {
-    const item = req.body
-
-    console.log('item:', item);
+    const item = { name, icon, color, group, readMoreUrl, isSelected }
+  
     const addedItem = await itemService.add(item)
+    await transService.add({ ...translation, name: name })
+
     logger.admin('Adding item', addedItem)
     res.json(addedItem)
+
+    // res.json(item)
   } catch (err) {
     logger.error('Failed to add item', err)
     res.status(400).send({ err: 'Failed to add item' })

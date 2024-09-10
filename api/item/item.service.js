@@ -152,19 +152,15 @@ async function remove(itemId) {
     }
 }
 
-async function add({ name = '', icon = '', group = '', readMoreURL = '', color = '', isSelected = '' }) {
+async function add(itemToAdd) {
 
     try {
-
-
-        const itemToAdd = {
-            name,
-            icon,
-            group,
-            readMoreURL,
-            color,
-            isSelected,
-        }
+   
+        for (const key in itemToAdd) {
+            itemToAdd[key] = itemToAdd[key]
+            if (typeof itemToAdd[key] === 'string') itemToAdd[key] = itemToAdd[key].trim().toLowerCase()
+            if (typeof itemToAdd[key] === undefined) itemToAdd[key] = itemToAdd[key] = ''
+          }
 
 
         const collection = await dbService.getCollection(collectionName)
