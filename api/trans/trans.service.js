@@ -53,20 +53,10 @@ async function remove(itemId) {
 
 async function add(translation) {
     try {
-        const collection = await dbService.getCollection(collectionName); // Replace with your actual collection name
-        const _id = '66dfe8806c4093e91bca3d48'; // Replace with your actual _id for the document
+        const collection = await dbService.getCollection(collectionName);
+        const _id = '66dfe8806c4093e91bca3d48';
 
-        // Check if the key exists in the foodlist
-        const existingDoc = await collection.findOne(
-            { _id: mongoId(_id), [`foodlist.${translation.name}`]: { $exists: true } }
-        );
-
-        if (existingDoc) {
-            // Key already exists
-            throw new Error(`The key ${translation.name} already exists in the foodlist.`);
-        }
-
-        // Prepare the new translation object
+        // Prepare the translation items
         const transItems = {
             [`foodlist.${translation.name}`]: {
                 he: translation.he.val,
@@ -75,18 +65,19 @@ async function add(translation) {
             }
         };
 
-        // Update the document by adding the new translation
+        // Update or replace the translation if it exists
         const result = await collection.updateOne(
-            { _id: mongoId(_id) },
-            { $set: transItems }
+            { _id: mongoId(_id) }, // Match by the document _id
+            { $set: transItems }    // Set (replace or update) the translation for the given key
         );
 
         return result;
-    } catch (err) {
-        console.error('Cannot insert item', err);
-        throw err;
+    } catch (error) {
+        console.error('Error adding or updating translation:', error);
+        throw error;
     }
 }
+
 
 
 async function update(item) {
