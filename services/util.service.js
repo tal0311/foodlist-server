@@ -121,6 +121,15 @@ function getGroupsByLabels(list) {
 
 }
 
+function modifyItemForSave(item) {
+  for (const key in item) {
+    item[key] = item[key]
+    if (typeof item[key] === 'string') item[key] = item[key].replaceAll(' ', '-').trim().toLowerCase()
+    if (typeof item[key] === undefined) item[key] = item[key] = ''
+  }
+  return item
+}
+
 export const utilService = {
   getGroupsByLabels,
   makeId,
@@ -129,5 +138,6 @@ export const utilService = {
   generateRandomName,
   timeAgo,
   generateRandomImg,
-  randomPastTime
+  randomPastTime,
+  modifyItemForSave
 }

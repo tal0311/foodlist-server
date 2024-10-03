@@ -14,7 +14,7 @@ const collectionName = 'item'
 // TODO:fix items filter for user prefs and labels (still showing non kosher group name)
 async function query(filterBy = { txt: '', type: '', labels: '' }, loggedInUser) {
 
-    const { settings, labelsOrder, labels ,exItems} = loggedInUser
+    const { settings, labelsOrder, labels, exItems } = loggedInUser
     const objectIdExItems = exItems?.map(id => mongoId(id));
     try {
         const collection = await dbService.getCollection(collectionName)
@@ -34,7 +34,7 @@ async function query(filterBy = { txt: '', type: '', labels: '' }, loggedInUser)
 
             ]).toArray()
 
-           
+
 
             let itemMap = items.reduce((acc, itemGroup) => {
                 acc[itemGroup._id] = itemGroup.items;
@@ -72,7 +72,7 @@ async function filterByUserSettings(user, itemsByLabels) {
         'isVegetarian': ['meat-and-poultry', 'fish', 'seafood'],
         'isKosher': ['seafood']
     }
-    
+
     filterLabels.forEach(prefs => {
         nonItemsMap[prefs].forEach(group => {
 
@@ -155,14 +155,6 @@ async function remove(itemId) {
 async function add(itemToAdd) {
 
     try {
-   
-        for (const key in itemToAdd) {
-            itemToAdd[key] = itemToAdd[key]
-            if (typeof itemToAdd[key] === 'string') itemToAdd[key] = itemToAdd[key].trim().toLowerCase()
-            if (typeof itemToAdd[key] === undefined) itemToAdd[key] = itemToAdd[key] = ''
-          }
-
-
         const collection = await dbService.getCollection(collectionName)
         const item = await collection.insertOne(itemToAdd)
         return item
@@ -174,8 +166,6 @@ async function add(itemToAdd) {
 
 async function update(item) {
     try {
-
-
         const collection = await dbService.getCollection(collectionName)
         const itemToSave = { ...item }
         // _id field is immutable

@@ -1,6 +1,7 @@
 import { itemService } from './item.service.js'
 import { logger } from '../../services/logger.service.js'
 import { transService } from '../trans/trans.service.js'
+import { utilService } from '../../services/util.service.js'
 
 
 
@@ -38,10 +39,10 @@ export async function addItem(req, res) {
   const { loggedInUser } = req
   const { name, translation, icon, color, group, readMoreUrl, isSelected } = req.body
   try {
-    const item = { name, icon, color, group, readMoreUrl, isSelected }
-  
+   
+    const item =  utilService.modifyItemForSave({ name, icon, color, group, readMoreUrl, isSelected })
     const addedItem = await itemService.add(item)
-    await transService.add({ ...translation, name: name })
+    await transService.add({ ...translation, name: item.name })
 
     logger.admin('Adding item', addedItem)
     res.json(addedItem)
@@ -55,9 +56,11 @@ export async function addItem(req, res) {
 
 export async function updateItem(req, res) {
   try {
-    const { _id, name, color, readMoreUrl, icon, isSelected, group } = req.body
-    const item = { _id, name, color, readMoreUrl, icon, isSelected , group}
+    const { _id, name, color, readMoreUrl, icon, isSelected, group ,translation} = req.body
+
+    const item =  utilService.modifyItemForSave({_id, name, icon, color, group, readMoreUrl, isSelected })
     const updatedItem = await itemService.update(item)
+    translation&& await transService.add({ ...translation, name: item.name })
     logger.admin('Updating item', updatedItem)
     res.json(updatedItem)
 
