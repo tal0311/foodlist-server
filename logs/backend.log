@@ -674,3 +674,153 @@
 5.10.2024, 17:21:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
 5.10.2024, 17:21:38 - INFO - Server is running on port: 3030 
 5.10.2024, 17:21:38 - INFO - New connected socket [id: CZRlDFfAVSPGp6i6AAAB] 
+5.10.2024, 17:24:29 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:29 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:41 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:43 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:24:59 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:25:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:25:19 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:26:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:26:13 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:27:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:27:46 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:30:34 - INFO - Server is running on port: 3030 
+5.10.2024, 17:30:34 - INFO - New connected socket [id: jR5KJC0AyISjiOcGAAAB] 
+5.10.2024, 17:31:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:31:21 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:39 - DEBUG - Removing List: | 66a50edc7a92d580457882c8 (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:41 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:49 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 17:32:50 - INFO - Sample Logger Middleware 
+5.10.2024, 17:32:50 - DEBUG - Getting Trans for app items: 
+5.10.2024, 17:32:50 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:50 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:50 - INFO - New connected socket [id: 4X-w1yGf6xO64hn_AAAD] 
+5.10.2024, 17:32:50 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:50 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:51 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 4X-w1yGf6xO64hn_AAAD] 
+5.10.2024, 17:32:52 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:32:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:02 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 17:33:02 - INFO - Sample Logger Middleware 
+5.10.2024, 17:33:02 - DEBUG - Getting Trans for app items: 
+5.10.2024, 17:33:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:02 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:02 - INFO - New connected socket [id: TRmLquNzgaUYaejBAAAF] 
+5.10.2024, 17:33:02 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:03 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:03 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: TRmLquNzgaUYaejBAAAF] 
+5.10.2024, 17:33:03 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 17:33:03 - INFO - Sample Logger Middleware 
+5.10.2024, 17:33:03 - DEBUG - Getting Trans for app items: 
+5.10.2024, 17:33:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:04 - INFO - New connected socket [id: Dgws0CSsvz6eMSq5AAAH] 
+5.10.2024, 17:33:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:04 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Dgws0CSsvz6eMSq5AAAH] 
+5.10.2024, 17:33:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:05 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:05 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 17:33:05 - INFO - Sample Logger Middleware 
+5.10.2024, 17:33:05 - DEBUG - Getting Trans for app items: 
+5.10.2024, 17:33:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:06 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:06 - INFO - New connected socket [id: NAsaFQ26QQxGEpKMAAAJ] 
+5.10.2024, 17:33:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:06 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:06 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: NAsaFQ26QQxGEpKMAAAJ] 
+5.10.2024, 17:33:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:06 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:21 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:21 - INFO - New connected socket [id: Smye9IqC2nk5JVudAAAL] 
+5.10.2024, 17:33:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:21 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:21 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Smye9IqC2nk5JVudAAAL] 
+5.10.2024, 17:33:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:21 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:37 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:37 - INFO - New connected socket [id: IMJ9NzqJfruK6dQfAAAN] 
+5.10.2024, 17:33:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:37 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:37 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: IMJ9NzqJfruK6dQfAAAN] 
+5.10.2024, 17:33:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:33:38 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:36:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:36:32 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:36:32 - INFO - New connected socket [id: 2xnPgr4D10RTIH7yAAAP] 
+5.10.2024, 17:36:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:36:32 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:36:33 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 2xnPgr4D10RTIH7yAAAP] 
+5.10.2024, 17:36:33 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:36:33 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:37:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:37:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:37:12 - INFO - New connected socket [id: jPZFTYByXRyUgaLJAAAR] 
+5.10.2024, 17:37:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:37:12 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:37:13 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: jPZFTYByXRyUgaLJAAAR] 
+5.10.2024, 17:37:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 17:37:13 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:33:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:33:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:33:58 - INFO - New connected socket [id: -zeTQFTVUPQrZQ0_AAAT] 
+5.10.2024, 18:33:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:33:58 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:33:58 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: -zeTQFTVUPQrZQ0_AAAT] 
+5.10.2024, 18:33:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:33:58 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:35:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:35:21 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:38:26 - INFO - List undefined was added | {"title":"Kito list","visibility":"public","owner":{"id":"66a50ab07a92d580457882c1","username":"Tal_Amit","imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c"},"items":["66a506bd7a92d5804578820c","66a506bd7a92d58045788207","66a506bd7a92d58045788208","66a506bd7a92d58045788209","66a506bd7a92d58045788217","66a506bd7a92d58045788218","66e00c00931b27572452be57","66a506bd7a92d58045788212","66a506bd7a92d58045788225","66a506bd7a92d5804578820b","66a506bd7a92d5804578821a","66a506bd7a92d58045788222","66a506bd7a92d58045788223","66a506bd7a92d58045788276","66a506bd7a92d58045788215","66a506bd7a92d58045788230","66a506bd7a92d5804578822d","66a506bd7a92d5804578827e","66a506bd7a92d58045788256","66a506bd7a92d58045788257"],"createdAt":"2024-10-05","updatedAt":"2024-10-05"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:40:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:40:16 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:40:17 - ERROR - while finding list undefined | BSONError: hex string must be 24 characters (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:40:17 - ERROR - Failed to get list | BSONError: hex string must be 24 characters (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:41:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:41:40 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:41:41 - ERROR - while finding list undefined | BSONError: hex string must be 24 characters (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:41:41 - ERROR - Failed to get list | BSONError: hex string must be 24 characters (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:42:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:42:12 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:42:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:42:13 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:42:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:42:31 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:08 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:09 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:12 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:12 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:22 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:22 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:25 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:25 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:52 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 18:43:52 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 18:43:52 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 18:43:52 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 18:43:52 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 18:43:52 - INFO - Socket disconnected [id: undefined] 
+5.10.2024, 18:43:52 - INFO - Sample Logger Middleware 
+5.10.2024, 18:43:52 - DEBUG - Getting Trans for app items: 
+5.10.2024, 18:43:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:52 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:52 - INFO - New connected socket [id: bw-kAMrmqlJ4mzA7AAAV] 
+5.10.2024, 18:43:53 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: bw-kAMrmqlJ4mzA7AAAV] 
+5.10.2024, 18:43:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:43:54 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:44:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+5.10.2024, 18:44:01 - DEBUG - Getting Lists: | {"visibility":"public"} (userId: 66a50ab07a92d580457882c1)

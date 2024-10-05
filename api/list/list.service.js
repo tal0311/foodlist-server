@@ -52,8 +52,7 @@ async function getById(listId, loggedInUser) {
 
         listId = mongoId(listId)
         const list = await collection.findOne({ _id: listId })
-        console.log(loggedInUser.role, !config.roles.includes(loggedInUser.role));
-        
+                
         if  (list.owner.id !== loggedInUser._id && list.visibility === 'private' && !config.roles.includes(loggedInUser.role)) {
             throw new Error('Unauthorized')
         }
