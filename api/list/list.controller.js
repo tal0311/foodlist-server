@@ -10,9 +10,9 @@ export async function getLists(req, res) {
       admin: req.query.admin || '',
       visibility: req.query.visibility || ''
     }
-    const {loggedInUser}= req
+    const { loggedInUser } = req
     const lists = await listService.query(filterBy, loggedInUser)
-      
+
     res.json(lists)
 
   } catch (err) {
@@ -25,7 +25,7 @@ export async function getLists(req, res) {
 export async function getListById(req, res) {
   try {
     const listId = req.params.id
-    const {loggedInUser}= req
+    const { loggedInUser } = req
     const list = await listService.getById(listId, loggedInUser)
     res.json(list)
   } catch (err) {
@@ -35,13 +35,14 @@ export async function getListById(req, res) {
 }
 
 export async function addList(req, res) {
-  const { _id,  username , imgUrl } = req.loggedInUser
+  const { _id, username, imgUrl } = req.loggedInUser
 
   try {
     const list = req.body
-    list.owner = { id:_id, username, imgUrl }
-    console.log('list to add:', list);
+    list.owner = { id: _id, username, imgUrl }
+
     const addedList = await listService.add(list)
+    logger.info(`List ${list.name} was added`, addedList)
     res.json(list)
   } catch (err) {
     logger.error('Failed to add list', err)
@@ -52,7 +53,7 @@ export async function addList(req, res) {
 
 export async function updateList(req, res) {
   try {
-    const listId= req.params.id 
+    const listId = req.params.id
     const list = req.body
     const updatedList = await listService.update(list, listId)
     res.json(updatedList)
@@ -64,16 +65,12 @@ export async function updateList(req, res) {
 }
 
 export async function removeList(req, res) {
+
   try {
     const listId = req.params.id
+    logger.debug('Removing List:', listId)
     const { loggedInUser } = req
-
-    const list= await listService.getById(listId)
-    
-
-    if (loggedInUser._id !== list.owner.id) {
-      return res.status(401).json('Not Authenticated')
-    }
+    await listService.getById(listId, loggedInUser)
     const removedId = await listService.remove(listId)
     res.send(removedId)
   } catch (err) {

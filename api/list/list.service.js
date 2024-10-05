@@ -3,6 +3,7 @@ import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 import { socketService } from '../../services/socket.service.js';
 import { itemService } from '../item/item.service.js';
+import { config } from '../../config/index.js';
 
 import { MongoClient, ObjectId } from 'mongodb';
 const mongoId = ObjectId.createFromHexString;
@@ -46,13 +47,14 @@ async function query(filterBy = { txt: '', type: '', admin: false }, loggedInUse
 }
 
 async function getById(listId, loggedInUser) {
-    console.log('list.service.js getById listId:', listId);
-    try {
+     try {
         const collection = await dbService.getCollection(collectionName)
 
         listId = mongoId(listId)
         const list = await collection.findOne({ _id: listId })
-        if (list.owner.id !== loggedInUser._id && list.visibility === 'private') {
+        console.log(loggedInUser.role, !config.roles.includes(loggedInUser.role));
+        
+        if  (list.owner.id !== loggedInUser._id && list.visibility === 'private' && !config.roles.includes(loggedInUser.role)) {
             throw new Error('Unauthorized')
         }
 
