@@ -3,6 +3,7 @@ import { logger } from '../../services/logger.service.js'
 import { utilService } from '../../services/util.service.js'
 import { socketService } from '../../services/socket.service.js';
 import { itemService } from '../item/item.service.js';
+import { config } from '../../config/index.js';
 
 import { MongoClient, ObjectId } from 'mongodb';
 const mongoId = ObjectId.createFromHexString;
@@ -11,7 +12,7 @@ const mongoId = ObjectId.createFromHexString;
 
 const collectionName = 'recipe'
 
-async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
+async function query(filterBy = { txt: '', type: '', admin:'' }, loggedInUser) {
 
     try {
 
@@ -19,8 +20,21 @@ async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
 
         const collection = await dbService.getCollection(collectionName)
 
-        const lang = settings.lang === 'he' ? 'en' : 'he'
-        const recipes = await collection.find({}).project({ [lang]: false, ingredients: false }).toArray()
+        if (filterBy.admin) {
+            const recipes = await collection.find().toArray()
+            return recipes
+        }
+     
+        const recipes = await collection.aggregate([
+            {
+                $project: {
+                    _id: 1,
+                    group: 1,
+                    imgUrl: 1,
+                    [settings.lang]: 1
+                }
+            }
+        ]).toArray()
 
         let recipesCounter = recipes.reduce((acc, curr) => {
             if (acc[curr.group]) {
@@ -35,10 +49,17 @@ async function query(filterBy = { txt: '', type: '' }, loggedInUser) {
 
         recipesCounter = [{ group: 'all', count: recipes.length }, ...Object.entries(recipesCounter).map(([group, count]) => ({ group, count }))]
         // socket this to front end for filter
-        console.log('recipesCounter:', recipesCounter);
+     
         // socketService.emitToUser({type :'recipes-labels',data: recipesCounter,userId: loggedInUser._id})
 
-        return recipes
+        return recipes.map(recipe => {
+            return{
+                _id: recipe._id,
+                group: recipe.group,
+                imgUrl: recipe.imgUrl ||config.DEFAULT_IMG, 
+                ...recipe[settings.lang]
+            }
+        })
 
 
 

@@ -73,16 +73,22 @@ async function update(user) {
     try {
         // peek only updatable properties
 
-        const keysToUpdate = ['username', 'email', 'settings', 'labels', 'labelOrder', 'history', 'age', 'achievements', 'points', 'level', 'settings', 'goals']
+        const keysToUpdate = ['username', 'email', 'settings', 'labels', 'labelOrder', 'achievements', 'points', 'level', 'settings', 'goals', 'role', 'imgUrl', 'personalTxt', 'exItems','password']
 
         let userToSave = keysToUpdate.reduce((acc, key) => {
             if (user[key]) acc[key] = user[key]
             return acc
         }, {})
 
-        userToSave._id = mongoId(user._id)
+        if (userToSave.password) {
+            const hash = await bcrypt.hash(user.password, config.saltRounds)
+            userToSave.password = hash
+        }
+
+        
         const collection = await dbService.getCollection(collectionName)
-        await collection.updateOne({ _id: userToSave._id }, { $set: userToSave })
+        await collection.updateOne({ _id: mongoId(user._id) }, { $set: userToSave })
+        userToSave._id = user._id
         return userToSave
     } catch (err) {
         logger.error(`cannot update user ${user._id}`, err)
@@ -91,19 +97,28 @@ async function update(user) {
 }
 
 async function add(user) {
+    console.log('user:', user);
+
     try {
 
-        user = getEmptyUser(user)
-        const hash = await bcrypt.hash(user.password, config.saltRounds)
-        user.password = hash
+        let userToSave = getEmptyUser(user)
 
-        const collection = await dbService.getCollection(collectionName)
-        const result = await collection.insertOne(user)
-        user._id = result.insertedId.toString()
-        delete user.password
+        userToSave = { ...user, ...userToSave }
+        if (userToSave.password) {
+            const hash = await bcrypt.hash(user.password, config.saltRounds)
+            userToSave.password = hash
+
+        }
+
+        console.log('userToSave:', userToSave);
+
+        // const collection = await dbService.getCollection(collectionName)
+        // const result = await collection.insertOne(user)
+        // user._id = result.insertedId.toString()
+        // delete user.password
 
 
-        return user
+        return userToSave
     } catch (err) {
         logger.error('cannot add user', err)
         throw err

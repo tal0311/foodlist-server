@@ -2,12 +2,14 @@ import { recipeService } from './recipe.service.js'
 import { logger } from '../../services/logger.service.js'
 import { log } from '../../middlewares/logger.middleware.js'
 
+
 export async function getRecipes(req, res) {
   try {
     logger.debug('Getting Recipes:', req.query)
     const filterBy = {
       txt: req.query.txt || '',
-      type: req.query.type || ''
+      type: req.query.type || '',
+      admin: req.query.admin || ''
     }
     const {loggedInUser}= req
     const recipes = await recipeService.query(filterBy, loggedInUser)

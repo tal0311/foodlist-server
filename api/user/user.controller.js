@@ -53,3 +53,14 @@ export async function updateUser(req, res) {
         res.status(400).send({ err: 'Failed to update user' })
     }
 }
+
+export async function addUser(req, res) {
+    try {
+        const user = req.body
+        const savedUser = await userService.add(user)
+        res.send(savedUser)
+    } catch (err) {
+        logger.error('Failed to add user', err)
+        res.status(400).send({ err: 'Failed to add user' })
+    }
+}
