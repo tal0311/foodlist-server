@@ -3247,3 +3247,1439 @@
 7.10.2024, 17:33:43 - INFO - New connected socket [id: ToYXEkMNDvBGG9rIAAAB] 
 7.10.2024, 17:34:06 - INFO - Server is running on port: 3030 
 7.10.2024, 17:34:07 - INFO - New connected socket [id: -Q8YUdG4cPoqaEPFAAAB] 
+7.10.2024, 19:52:26 - INFO - New connected socket [id: aY2pNWEfE08BwHVjAAAD] 
+7.10.2024, 19:52:27 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: aY2pNWEfE08BwHVjAAAD] 
+7.10.2024, 19:52:31 - INFO - Socket disconnected [id: undefined] 
+7.10.2024, 19:52:31 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:16:28 - INFO - Server is running on port: 3030 
+13.10.2024, 16:16:42 - INFO - Sample Logger Middleware 
+13.10.2024, 16:16:42 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:16:49 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:22:41 - INFO - Sample Logger Middleware 
+13.10.2024, 16:22:41 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:24:33 - INFO - Sample Logger Middleware 
+13.10.2024, 16:24:33 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:24:55 - INFO - Sample Logger Middleware 
+13.10.2024, 16:24:55 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:25:35 - INFO - Sample Logger Middleware 
+13.10.2024, 16:25:35 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:26:04 - INFO - Sample Logger Middleware 
+13.10.2024, 16:26:04 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:26:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:26:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:26:05 - INFO - New connected socket [id: 1lt0q9c9U2icGsNuAAAB] 
+13.10.2024, 16:26:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 1lt0q9c9U2icGsNuAAAB] 
+13.10.2024, 16:26:29 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:26:29 - INFO - Sample Logger Middleware 
+13.10.2024, 16:26:29 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:26:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:26:30 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:26:30 - INFO - New connected socket [id: d6V6H9sUulf0PDCsAAAD] 
+13.10.2024, 16:26:30 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: d6V6H9sUulf0PDCsAAAD] 
+13.10.2024, 16:27:05 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:27:26 - INFO - Sample Logger Middleware 
+13.10.2024, 16:27:26 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:27:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:27:26 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:27:26 - INFO - New connected socket [id: ea6znIniNOeY4jlWAAAF] 
+13.10.2024, 16:27:27 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ea6znIniNOeY4jlWAAAF] 
+13.10.2024, 16:29:26 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:29:26 - INFO - Sample Logger Middleware 
+13.10.2024, 16:29:26 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:29:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:29:26 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:29:26 - INFO - New connected socket [id: H0yVujTppb91XYfKAAAH] 
+13.10.2024, 16:29:27 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: H0yVujTppb91XYfKAAAH] 
+13.10.2024, 16:29:43 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:29:43 - INFO - Sample Logger Middleware 
+13.10.2024, 16:29:43 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:29:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:29:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:29:44 - INFO - New connected socket [id: zx5MuAUC7Zya1g-kAAAJ] 
+13.10.2024, 16:29:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: zx5MuAUC7Zya1g-kAAAJ] 
+13.10.2024, 16:29:59 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:29:59 - INFO - Sample Logger Middleware 
+13.10.2024, 16:29:59 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:30:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:30:00 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:30:00 - INFO - New connected socket [id: v3PEOozc037Zmd18AAAL] 
+13.10.2024, 16:30:00 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: v3PEOozc037Zmd18AAAL] 
+13.10.2024, 16:30:28 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:30:28 - INFO - Sample Logger Middleware 
+13.10.2024, 16:30:28 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:30:28 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:30:28 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:30:28 - INFO - New connected socket [id: Wv8KGXRnGi-GpSzUAAAN] 
+13.10.2024, 16:30:29 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Wv8KGXRnGi-GpSzUAAAN] 
+13.10.2024, 16:30:36 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:30:36 - INFO - Sample Logger Middleware 
+13.10.2024, 16:30:36 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:30:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:30:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:30:36 - INFO - New connected socket [id: UpUO9vbLf7iGugdwAAAP] 
+13.10.2024, 16:30:37 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: UpUO9vbLf7iGugdwAAAP] 
+13.10.2024, 16:33:28 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:33:28 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:33:28 - INFO - New connected socket [id: A2VPlRbpnHSZ0FEmAAAR] 
+13.10.2024, 16:33:30 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: A2VPlRbpnHSZ0FEmAAAR] 
+13.10.2024, 16:36:48 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:36:48 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:36:49 - INFO - Sample Logger Middleware 
+13.10.2024, 16:36:49 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:36:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:36:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:36:49 - INFO - New connected socket [id: szT_nInb1eAu0PvUAAAT] 
+13.10.2024, 16:36:49 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: szT_nInb1eAu0PvUAAAT] 
+13.10.2024, 16:38:34 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:38:53 - INFO - Sample Logger Middleware 
+13.10.2024, 16:38:53 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:38:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:38:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:38:53 - INFO - New connected socket [id: FQkNGSxTsP6EEnmAAAAV] 
+13.10.2024, 16:38:54 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: FQkNGSxTsP6EEnmAAAAV] 
+13.10.2024, 16:39:01 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:39:01 - INFO - Sample Logger Middleware 
+13.10.2024, 16:39:01 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:39:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:39:01 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:39:01 - INFO - New connected socket [id: 74cq7hu7B6UGM1H_AAAX] 
+13.10.2024, 16:39:02 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 74cq7hu7B6UGM1H_AAAX] 
+13.10.2024, 16:41:13 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:41:13 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:41:13 - INFO - Sample Logger Middleware 
+13.10.2024, 16:41:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:41:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:41:13 - INFO - New connected socket [id: qmhrl7JDbQg8nOLVAAAZ] 
+13.10.2024, 16:41:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: qmhrl7JDbQg8nOLVAAAZ] 
+13.10.2024, 16:49:23 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 16:49:23 - INFO - Sample Logger Middleware 
+13.10.2024, 16:49:23 - DEBUG - Getting Trans for app items: 
+13.10.2024, 16:49:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:49:24 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 16:49:24 - INFO - New connected socket [id: tPYSAGTQlV0SkAj9AAAb] 
+13.10.2024, 16:49:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: tPYSAGTQlV0SkAj9AAAb] 
+13.10.2024, 17:00:34 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 17:00:44 - INFO - Sample Logger Middleware 
+13.10.2024, 17:00:44 - DEBUG - Getting Trans for app items: 
+13.10.2024, 17:00:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:00:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:00:45 - INFO - New connected socket [id: m9dD-G7Zfhsfj7qZAAAd] 
+13.10.2024, 17:00:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: m9dD-G7Zfhsfj7qZAAAd] 
+13.10.2024, 17:02:00 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 17:03:52 - INFO - New connected socket [id: oh-yiRnUqDc3xO-2AAAf] 
+13.10.2024, 17:03:55 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 17:03:55 - INFO - Sample Logger Middleware 
+13.10.2024, 17:03:55 - DEBUG - Getting Trans for app items: 
+13.10.2024, 17:03:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:03:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:03:56 - INFO - New connected socket [id: M_vwR2sbCvTHtgCyAAAh] 
+13.10.2024, 17:03:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: M_vwR2sbCvTHtgCyAAAh] 
+13.10.2024, 17:14:25 - INFO - Server is running on port: 3030 
+13.10.2024, 17:14:43 - INFO - Sample Logger Middleware 
+13.10.2024, 17:14:43 - DEBUG - Getting Trans for app items: 
+13.10.2024, 17:14:51 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:15:45 - INFO - Sample Logger Middleware 
+13.10.2024, 17:15:45 - DEBUG - Getting Trans for app items: 
+13.10.2024, 17:15:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:15:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:15:45 - INFO - New connected socket [id: XY4KAUPm7r-YlP-fAAAB] 
+13.10.2024, 17:15:46 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: XY4KAUPm7r-YlP-fAAAB] 
+13.10.2024, 17:42:54 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 17:42:54 - INFO - Sample Logger Middleware 
+13.10.2024, 17:42:54 - DEBUG - Getting Trans for app items: 
+13.10.2024, 17:42:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:42:55 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:42:55 - INFO - New connected socket [id: Aawg6xHj8MFhhRknAAAD] 
+13.10.2024, 17:42:55 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Aawg6xHj8MFhhRknAAAD] 
+13.10.2024, 17:47:31 - INFO - Socket disconnected [id: undefined] 
+13.10.2024, 17:47:31 - INFO - Sample Logger Middleware 
+13.10.2024, 17:47:31 - DEBUG - Getting Trans for app items: 
+13.10.2024, 17:47:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:47:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+13.10.2024, 17:47:31 - INFO - New connected socket [id: O3szQq2HEzi9bPbOAAAF] 
+13.10.2024, 17:47:32 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: O3szQq2HEzi9bPbOAAAF] 
+26.10.2024, 11:05:03 - INFO - Server is running on port: 3030 
+26.10.2024, 11:05:16 - INFO - Sample Logger Middleware 
+26.10.2024, 11:05:16 - DEBUG - Getting Trans for app items: 
+26.10.2024, 11:05:37 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:05:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:05:44 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:05:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:05:45 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:05:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:05:47 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:46 - INFO - Sample Logger Middleware 
+26.10.2024, 11:06:46 - DEBUG - Getting Trans for app items: 
+26.10.2024, 11:06:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:47 - INFO - New connected socket [id: 364plhBgOS2UykO8AAAB] 
+26.10.2024, 11:06:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:47 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:47 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 364plhBgOS2UykO8AAAB] 
+26.10.2024, 11:06:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:47 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 11:06:49 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:27:43 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 13:29:35 - INFO - Sample Logger Middleware 
+26.10.2024, 13:29:35 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:29:41 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:29:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:29:45 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:29:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:29:46 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:29:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:29:46 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:01 - INFO - Sample Logger Middleware 
+26.10.2024, 13:30:01 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:30:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:01 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:01 - INFO - New connected socket [id: HVgih7Co65T-AMn0AAAD] 
+26.10.2024, 13:30:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:01 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:02 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:02 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: HVgih7Co65T-AMn0AAAD] 
+26.10.2024, 13:30:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:30:02 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:23 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 13:31:24 - INFO - Sample Logger Middleware 
+26.10.2024, 13:31:24 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:31:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:24 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:24 - INFO - New connected socket [id: A1MyGswv_6vnADCaAAAF] 
+26.10.2024, 13:31:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:24 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:24 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: A1MyGswv_6vnADCaAAAF] 
+26.10.2024, 13:31:25 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:25 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:30 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 13:31:30 - INFO - Sample Logger Middleware 
+26.10.2024, 13:31:30 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:31:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:31 - INFO - New connected socket [id: llhfhYA-RZhb_vQPAAAH] 
+26.10.2024, 13:31:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:31 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: llhfhYA-RZhb_vQPAAAH] 
+26.10.2024, 13:31:31 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:31:32 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:55 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 13:32:55 - INFO - Sample Logger Middleware 
+26.10.2024, 13:32:55 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:32:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:55 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:55 - INFO - New connected socket [id: RBq3sqxguwNg0VMYAAAJ] 
+26.10.2024, 13:32:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:55 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: RBq3sqxguwNg0VMYAAAJ] 
+26.10.2024, 13:32:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:56 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:32:56 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:34:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:34:45 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:34:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:34:45 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:34:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:34:46 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:35:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:35:06 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:35:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:35:07 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:35:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:35:07 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:08 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 13:37:08 - INFO - Sample Logger Middleware 
+26.10.2024, 13:37:08 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:37:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:08 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:08 - INFO - New connected socket [id: Omb62CAjhe1kTmk2AAAL] 
+26.10.2024, 13:37:08 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:09 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:09 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Omb62CAjhe1kTmk2AAAL] 
+26.10.2024, 13:37:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:37:09 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:41:51 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 13:42:13 - INFO - Sample Logger Middleware 
+26.10.2024, 13:42:13 - DEBUG - Getting Trans for app items: 
+26.10.2024, 13:42:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:13 - INFO - New connected socket [id: Jt_kvkMRI26faaHCAAAN] 
+26.10.2024, 13:42:14 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:14 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Jt_kvkMRI26faaHCAAAN] 
+26.10.2024, 13:42:14 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:14 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:42:15 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:43:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:43:07 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:43:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:43:08 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:43:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:43:08 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:00 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:00 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:01 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:47 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:48 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 13:44:48 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:51 - INFO - New connected socket [id: Dp0WyMugtb-VXrPLAAAP] 
+26.10.2024, 14:00:51 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Dp0WyMugtb-VXrPLAAAP] 
+26.10.2024, 14:00:54 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:00:54 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:00:54 - INFO - Sample Logger Middleware 
+26.10.2024, 14:00:54 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:00:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:54 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:54 - INFO - New connected socket [id: HP3RsrK2SPBLe3c3AAAR] 
+26.10.2024, 14:00:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:54 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:55 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: HP3RsrK2SPBLe3c3AAAR] 
+26.10.2024, 14:00:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:55 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:00:55 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:20 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:19:20 - INFO - Sample Logger Middleware 
+26.10.2024, 14:19:20 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:19:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:21 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:21 - INFO - New connected socket [id: aNLv8jFWzlMfCtVeAAAT] 
+26.10.2024, 14:19:21 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:21 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: aNLv8jFWzlMfCtVeAAAT] 
+26.10.2024, 14:19:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:21 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:22 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:19:22 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:45 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:22:45 - INFO - Sample Logger Middleware 
+26.10.2024, 14:22:45 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:22:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:45 - INFO - New connected socket [id: pN3_ZnKoMq3gT3dwAAAV] 
+26.10.2024, 14:22:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:45 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:46 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: pN3_ZnKoMq3gT3dwAAAV] 
+26.10.2024, 14:22:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:46 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:22:46 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:04 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:33:04 - INFO - Sample Logger Middleware 
+26.10.2024, 14:33:04 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:33:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:04 - INFO - New connected socket [id: bmNHusMJXaeS_jvNAAAX] 
+26.10.2024, 14:33:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:04 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:05 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: bmNHusMJXaeS_jvNAAAX] 
+26.10.2024, 14:33:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:33:05 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:35 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:41:35 - INFO - Sample Logger Middleware 
+26.10.2024, 14:41:35 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:41:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:36 - INFO - New connected socket [id: zrRlZvVooy_4yls5AAAZ] 
+26.10.2024, 14:41:36 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:36 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:36 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: zrRlZvVooy_4yls5AAAZ] 
+26.10.2024, 14:41:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:41:37 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:29 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:44:30 - INFO - Sample Logger Middleware 
+26.10.2024, 14:44:30 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:44:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:30 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:30 - INFO - New connected socket [id: rwaok2crIPwwfUKxAAAb] 
+26.10.2024, 14:44:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:30 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:30 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: rwaok2crIPwwfUKxAAAb] 
+26.10.2024, 14:44:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:31 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:31 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:44 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:44:44 - INFO - Sample Logger Middleware 
+26.10.2024, 14:44:44 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:44:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:45 - INFO - New connected socket [id: ziB4ahviaEeVEzKIAAAd] 
+26.10.2024, 14:44:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:45 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ziB4ahviaEeVEzKIAAAd] 
+26.10.2024, 14:44:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:45 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:46 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:44:46 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:16 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:45:16 - INFO - Sample Logger Middleware 
+26.10.2024, 14:45:16 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:45:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:16 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:16 - INFO - New connected socket [id: Rf_0O_rGrUURKupTAAAf] 
+26.10.2024, 14:45:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:16 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:17 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:17 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Rf_0O_rGrUURKupTAAAf] 
+26.10.2024, 14:45:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:45:17 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:49:59 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 14:49:59 - INFO - Sample Logger Middleware 
+26.10.2024, 14:49:59 - DEBUG - Getting Trans for app items: 
+26.10.2024, 14:49:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:49:59 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:49:59 - INFO - New connected socket [id: o-8KGtDPgXbrYgioAAAh] 
+26.10.2024, 14:49:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:49:59 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:50:00 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: o-8KGtDPgXbrYgioAAAh] 
+26.10.2024, 14:50:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:50:00 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:50:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 14:50:00 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:04 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:03:04 - INFO - Sample Logger Middleware 
+26.10.2024, 15:03:04 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:03:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:04 - INFO - New connected socket [id: oSPQFNVry1PpPJ6_AAAj] 
+26.10.2024, 15:03:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:04 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:05 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: oSPQFNVry1PpPJ6_AAAj] 
+26.10.2024, 15:03:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:05 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:58 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:03:58 - INFO - Sample Logger Middleware 
+26.10.2024, 15:03:58 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:03:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:59 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:59 - INFO - New connected socket [id: 8cKNaRmD4yynVkYZAAAl] 
+26.10.2024, 15:03:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:59 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:59 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:03:59 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 8cKNaRmD4yynVkYZAAAl] 
+26.10.2024, 15:04:00 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:04:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:30 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:08:31 - INFO - Sample Logger Middleware 
+26.10.2024, 15:08:31 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:08:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:31 - INFO - New connected socket [id: ML8OvPxUgUu2_R4XAAAn] 
+26.10.2024, 15:08:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:31 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:31 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ML8OvPxUgUu2_R4XAAAn] 
+26.10.2024, 15:08:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:08:32 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:11 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:11:40 - INFO - Sample Logger Middleware 
+26.10.2024, 15:11:40 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:11:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:40 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:40 - INFO - New connected socket [id: MrJruD3N17L3mQkzAAAp] 
+26.10.2024, 15:11:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:41 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:41 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: MrJruD3N17L3mQkzAAAp] 
+26.10.2024, 15:11:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:41 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:42 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:11:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:25 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:12:25 - INFO - Sample Logger Middleware 
+26.10.2024, 15:12:25 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:12:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:26 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:26 - INFO - New connected socket [id: NeAEK6vH4B_gTazfAAAr] 
+26.10.2024, 15:12:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:26 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:26 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:26 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: NeAEK6vH4B_gTazfAAAr] 
+26.10.2024, 15:12:27 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:12:27 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:23 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:13:23 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:13:23 - INFO - Sample Logger Middleware 
+26.10.2024, 15:13:23 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:23 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:23 - INFO - New connected socket [id: w63ZZZBxW3az-SSSAAAt] 
+26.10.2024, 15:13:23 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:23 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: w63ZZZBxW3az-SSSAAAt] 
+26.10.2024, 15:13:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:24 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:13:24 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:04 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:14:04 - INFO - Sample Logger Middleware 
+26.10.2024, 15:14:04 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:14:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:05 - INFO - New connected socket [id: ZxQobHWM-3ExXo3oAAAv] 
+26.10.2024, 15:14:05 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ZxQobHWM-3ExXo3oAAAv] 
+26.10.2024, 15:14:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:05 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:06 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:41 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:14:41 - INFO - Sample Logger Middleware 
+26.10.2024, 15:14:41 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:14:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:42 - INFO - New connected socket [id: nhhD94etuwT65RYeAAAx] 
+26.10.2024, 15:14:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:42 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:42 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nhhD94etuwT65RYeAAAx] 
+26.10.2024, 15:14:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:42 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:14:43 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:04 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:18:04 - INFO - Sample Logger Middleware 
+26.10.2024, 15:18:04 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:18:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:04 - INFO - New connected socket [id: 5so4UUm8RW_zlDj9AAAz] 
+26.10.2024, 15:18:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:04 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 5so4UUm8RW_zlDj9AAAz] 
+26.10.2024, 15:18:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:05 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:18:06 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:51 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:19:51 - INFO - Sample Logger Middleware 
+26.10.2024, 15:19:51 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:19:51 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:51 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:51 - INFO - New connected socket [id: rv4RojsvvDyMtDpqAAA1] 
+26.10.2024, 15:19:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:52 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:52 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:52 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: rv4RojsvvDyMtDpqAAA1] 
+26.10.2024, 15:19:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:19:52 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:30 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:23:30 - INFO - Sample Logger Middleware 
+26.10.2024, 15:23:30 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:23:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:30 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:30 - INFO - New connected socket [id: DzeGiO-jBQc-m1DDAAA3] 
+26.10.2024, 15:23:30 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:30 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:31 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: DzeGiO-jBQc-m1DDAAA3] 
+26.10.2024, 15:23:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:23:31 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:23 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:25:23 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:25:23 - INFO - Sample Logger Middleware 
+26.10.2024, 15:25:23 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:23 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:23 - INFO - New connected socket [id: ytuKrcMA9gIFtNDGAAA5] 
+26.10.2024, 15:25:23 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:23 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ytuKrcMA9gIFtNDGAAA5] 
+26.10.2024, 15:25:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:24 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:25:24 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:31:23 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:31:23 - INFO - Sample Logger Middleware 
+26.10.2024, 15:31:23 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:31:23 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:31:23 - INFO - New connected socket [id: 2zyfwbK7Ci3jyvtwAAA7] 
+26.10.2024, 15:31:23 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:31:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 2zyfwbK7Ci3jyvtwAAA7] 
+26.10.2024, 15:44:19 - INFO - New connected socket [id: L6zbaowC-HTAqxlXAAA9] 
+26.10.2024, 15:44:19 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:44:19 - INFO - Sample Logger Middleware 
+26.10.2024, 15:44:19 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:44:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:19 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:19 - INFO - New connected socket [id: 6Q2nk3YaWyzxIXvCAAA_] 
+26.10.2024, 15:44:20 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 6Q2nk3YaWyzxIXvCAAA_] 
+26.10.2024, 15:44:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:21 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:22 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:22 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:22 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:22 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:41 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 15:44:41 - INFO - Sample Logger Middleware 
+26.10.2024, 15:44:41 - DEBUG - Getting Trans for app items: 
+26.10.2024, 15:44:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:42 - INFO - New connected socket [id: 0zLZHy3bqXK3iWKlAABB] 
+26.10.2024, 15:44:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:42 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:42 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 0zLZHy3bqXK3iWKlAABB] 
+26.10.2024, 15:44:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:42 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:44:43 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 15:45:04 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:05:55 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:05:55 - INFO - Sample Logger Middleware 
+26.10.2024, 16:05:55 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:05:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:56 - INFO - New connected socket [id: Z3VlrhRDywqdIf-EAABD] 
+26.10.2024, 16:05:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:56 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Z3VlrhRDywqdIf-EAABD] 
+26.10.2024, 16:05:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:56 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:57 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:05:57 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:25 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:25 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:26 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:26 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:33 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:33 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:34 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:34 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:35 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:13:35 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:14:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:14:03 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:14:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:14:03 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:14:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:14:04 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:16 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:29:16 - INFO - Sample Logger Middleware 
+26.10.2024, 16:29:16 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:29:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:16 - INFO - New connected socket [id: y5Mw4OyqGeSinP-XAABF] 
+26.10.2024, 16:29:16 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:16 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:17 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: y5Mw4OyqGeSinP-XAABF] 
+26.10.2024, 16:29:17 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:17 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:17 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:55 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:29:55 - INFO - Sample Logger Middleware 
+26.10.2024, 16:29:55 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:29:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:55 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:55 - INFO - New connected socket [id: Vj_FjHqAwK4K70QkAABH] 
+26.10.2024, 16:29:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:55 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Vj_FjHqAwK4K70QkAABH] 
+26.10.2024, 16:29:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:56 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:57 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:29:57 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:33:55 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:33:55 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:33:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:33:56 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:33:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:33:56 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:34:34 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:34:34 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:34:35 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:34:35 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:34:35 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:34:35 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:35:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:35:38 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:35:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:35:38 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:35:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:35:39 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:37 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:37 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:37 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:47 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:37:47 - INFO - Sample Logger Middleware 
+26.10.2024, 16:37:47 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:37:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:47 - INFO - New connected socket [id: hNegmZEqZVondNWeAABJ] 
+26.10.2024, 16:37:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:47 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:48 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: hNegmZEqZVondNWeAABJ] 
+26.10.2024, 16:37:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:48 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:37:49 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:39:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:39:37 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:39:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:39:38 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:39:38 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:39:38 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:41 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:46:41 - INFO - Sample Logger Middleware 
+26.10.2024, 16:46:41 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:46:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:42 - INFO - New connected socket [id: wU_wctJhNaKILoF1AABL] 
+26.10.2024, 16:46:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:42 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:42 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: wU_wctJhNaKILoF1AABL] 
+26.10.2024, 16:46:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:42 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:46:43 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:08 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:49:08 - INFO - Sample Logger Middleware 
+26.10.2024, 16:49:08 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:49:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:09 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:09 - INFO - New connected socket [id: m2HW6oDsu1NEs4DaAABN] 
+26.10.2024, 16:49:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:09 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:09 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:09 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: m2HW6oDsu1NEs4DaAABN] 
+26.10.2024, 16:49:10 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:10 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:30 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:49:30 - INFO - Sample Logger Middleware 
+26.10.2024, 16:49:30 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:49:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:31 - INFO - New connected socket [id: d0vp59V0I5Tmh42mAABP] 
+26.10.2024, 16:49:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:31 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: d0vp59V0I5Tmh42mAABP] 
+26.10.2024, 16:49:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:31 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:32 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:39 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:49:39 - INFO - Sample Logger Middleware 
+26.10.2024, 16:49:39 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:49:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:39 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:39 - INFO - New connected socket [id: LeFtWJi-OgtqtentAABR] 
+26.10.2024, 16:49:39 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:39 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:40 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:40 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: LeFtWJi-OgtqtentAABR] 
+26.10.2024, 16:49:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:49:40 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:47 - INFO - Socket disconnected [id: undefined] 
+26.10.2024, 16:50:47 - INFO - Sample Logger Middleware 
+26.10.2024, 16:50:47 - DEBUG - Getting Trans for app items: 
+26.10.2024, 16:50:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:47 - INFO - New connected socket [id: elBjf9a3PMzQUkFiAABT] 
+26.10.2024, 16:50:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:47 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:48 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:48 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: elBjf9a3PMzQUkFiAABT] 
+26.10.2024, 16:50:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.10.2024, 16:50:48 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 10:59:55 - INFO - New connected socket [id: _Z9oin5sKJYlBox4AABV] 
+27.10.2024, 10:59:55 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: _Z9oin5sKJYlBox4AABV] 
+27.10.2024, 11:02:14 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:02:14 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:02:15 - INFO - Sample Logger Middleware 
+27.10.2024, 11:02:15 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:02:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:15 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:15 - INFO - New connected socket [id: 9l6vdjQJcAJ5dcnCAABX] 
+27.10.2024, 11:02:15 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:15 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 9l6vdjQJcAJ5dcnCAABX] 
+27.10.2024, 11:02:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:16 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:02:16 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:42 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:09:42 - INFO - Sample Logger Middleware 
+27.10.2024, 11:09:42 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:09:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:42 - INFO - New connected socket [id: HNfkYC1xhBVf1hJbAABZ] 
+27.10.2024, 11:09:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:42 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:43 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:43 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: HNfkYC1xhBVf1hJbAABZ] 
+27.10.2024, 11:09:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:09:43 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:10:58 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:10:58 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:10:58 - INFO - Sample Logger Middleware 
+27.10.2024, 11:10:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:10:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:10:58 - INFO - New connected socket [id: wjLu3fmZQLzaWQ8ZAABb] 
+27.10.2024, 11:10:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:10:58 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:10:59 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: wjLu3fmZQLzaWQ8ZAABb] 
+27.10.2024, 11:10:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:10:59 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:11:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:11:00 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:43 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:13:43 - INFO - Sample Logger Middleware 
+27.10.2024, 11:13:43 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:13:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:44 - INFO - New connected socket [id: cS-KNo5l808YU5AIAABd] 
+27.10.2024, 11:13:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:44 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:44 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: cS-KNo5l808YU5AIAABd] 
+27.10.2024, 11:13:45 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:13:45 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:14:28 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:20:59 - INFO - Server is running on port: 3030 
+27.10.2024, 11:22:53 - INFO - Server is running on port: 3030 
+27.10.2024, 11:33:03 - INFO - Sample Logger Middleware 
+27.10.2024, 11:33:03 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:33:06 - INFO - Sample Logger Middleware 
+27.10.2024, 11:33:06 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:33:12 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:15 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:16 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:18 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:18 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:33:32 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:51 - INFO - Sample Logger Middleware 
+27.10.2024, 11:35:51 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:35:51 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:51 - INFO - New connected socket [id: LCapJX5u0G-pCIrgAAAB] 
+27.10.2024, 11:35:51 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:51 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:51 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:52 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: LCapJX5u0G-pCIrgAAAB] 
+27.10.2024, 11:35:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:52 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:54 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:35:56 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:00 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:37:00 - INFO - Sample Logger Middleware 
+27.10.2024, 11:37:00 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:37:00 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:00 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:00 - INFO - New connected socket [id: 9hOch7SoW7eWHb0dAAAD] 
+27.10.2024, 11:37:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:01 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:01 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 9hOch7SoW7eWHb0dAAAD] 
+27.10.2024, 11:37:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:01 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:02 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:07 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:37:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:42 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:39:42 - INFO - Sample Logger Middleware 
+27.10.2024, 11:39:42 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:39:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:42 - INFO - New connected socket [id: y-ghoHVUFtQnY5XAAAAF] 
+27.10.2024, 11:39:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:42 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:43 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: y-ghoHVUFtQnY5XAAAAF] 
+27.10.2024, 11:39:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:43 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:43 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:39:47 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:40 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:45:40 - INFO - Sample Logger Middleware 
+27.10.2024, 11:45:40 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:45:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:40 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:40 - INFO - New connected socket [id: ZyqoQ24UgKP-QdEYAAAH] 
+27.10.2024, 11:45:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:40 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:41 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ZyqoQ24UgKP-QdEYAAAH] 
+27.10.2024, 11:45:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:41 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:41 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:44 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:45:44 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:31 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:49:31 - INFO - Sample Logger Middleware 
+27.10.2024, 11:49:31 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:49:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:31 - INFO - New connected socket [id: 4z-1ht2o7gCNuvZ-AAAJ] 
+27.10.2024, 11:49:31 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:31 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:32 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 4z-1ht2o7gCNuvZ-AAAJ] 
+27.10.2024, 11:49:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:32 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:32 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:32 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:35 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:49:35 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:02 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:52:03 - INFO - Sample Logger Middleware 
+27.10.2024, 11:52:03 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:52:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:03 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:03 - INFO - New connected socket [id: fIbstoi6XFG6tXNDAAAL] 
+27.10.2024, 11:52:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:03 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:03 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: fIbstoi6XFG6tXNDAAAL] 
+27.10.2024, 11:52:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:04 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:04 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:07 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:28 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:52:28 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:56:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:56:58 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:04 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:57:04 - INFO - Sample Logger Middleware 
+27.10.2024, 11:57:04 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:57:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:04 - INFO - New connected socket [id: XXrsj2yKZe1eEvnCAAAN] 
+27.10.2024, 11:57:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:04 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: XXrsj2yKZe1eEvnCAAAN] 
+27.10.2024, 11:57:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:05 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:05 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:08 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:57:43 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:35 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 11:59:35 - INFO - Sample Logger Middleware 
+27.10.2024, 11:59:35 - DEBUG - Getting Trans for app items: 
+27.10.2024, 11:59:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:36 - INFO - New connected socket [id: xXbdwlJb0XwuEkKgAAAP] 
+27.10.2024, 11:59:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:36 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:36 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: xXbdwlJb0XwuEkKgAAAP] 
+27.10.2024, 11:59:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:36 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:37 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:37 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:42 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 11:59:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:03:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:03:12 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:58 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 12:05:58 - INFO - Sample Logger Middleware 
+27.10.2024, 12:05:58 - DEBUG - Getting Trans for app items: 
+27.10.2024, 12:05:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:58 - INFO - New connected socket [id: ZYncXMtclYd4YPKfAAAR] 
+27.10.2024, 12:05:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:58 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:59 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:59 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ZYncXMtclYd4YPKfAAAR] 
+27.10.2024, 12:05:59 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:05:59 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:06:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:06:02 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:06:52 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:06:52 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:13 - INFO - Socket disconnected [id: undefined] 
+27.10.2024, 12:09:14 - INFO - Sample Logger Middleware 
+27.10.2024, 12:09:14 - DEBUG - Getting Trans for app items: 
+27.10.2024, 12:09:14 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:14 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:14 - INFO - New connected socket [id: zGBj7LN19mZM3y9zAAAT] 
+27.10.2024, 12:09:14 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:14 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: zGBj7LN19mZM3y9zAAAT] 
+27.10.2024, 12:09:14 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:14 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:09:15 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:11:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:11:21 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:11:35 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+27.10.2024, 12:11:35 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:05:49 - INFO - Server is running on port: 3030 
+26.8.2025, 17:05:58 - INFO - Sample Logger Middleware 
+26.8.2025, 17:05:58 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:07:52 - INFO - Sample Logger Middleware 
+26.8.2025, 17:07:52 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:08:00 - INFO - Sample Logger Middleware 
+26.8.2025, 17:08:00 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:08:03 - INFO - Sample Logger Middleware 
+26.8.2025, 17:08:03 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:10:18 - INFO - Sample Logger Middleware 
+26.8.2025, 17:10:18 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:11:23 - INFO - Sample Logger Middleware 
+26.8.2025, 17:11:23 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:11:29 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} 
+26.8.2025, 17:11:47 - INFO - Sample Logger Middleware 
+26.8.2025, 17:11:47 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:11:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:11:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:11:47 - INFO - New connected socket [id: 0W05KcM6R9vnT-eIAAAB] 
+26.8.2025, 17:11:48 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 0W05KcM6R9vnT-eIAAAB] 
+26.8.2025, 17:11:50 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:11:50 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:11:50 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: 0W05KcM6R9vnT-eIAAAB] (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:12:53 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:12:53 - INFO - Sample Logger Middleware 
+26.8.2025, 17:12:53 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:12:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:12:54 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:12:54 - INFO - New connected socket [id: un0dvNGHLiS8Va72AAAD] 
+26.8.2025, 17:12:54 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:12:54 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:12:54 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: un0dvNGHLiS8Va72AAAD] 
+26.8.2025, 17:12:55 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: un0dvNGHLiS8Va72AAAD] (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:17 - INFO - List undefined was added | {"title":"test list","items":["66a506bd7a92d5804578820d","66a506bd7a92d5804578821f","66a506bd7a92d58045788289"],"owner":{"id":"66a50ab07a92d580457882c1","username":"Tal_Amit","imgUrl":"https://lh3.googleusercontent.com/a/ACg8ocLTQdHl9NRJc9pFi27CqnmkOJTBC6namN9PpUVf88gmpnKr2sFy=s96-c"}} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:28 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:17:29 - INFO - Sample Logger Middleware 
+26.8.2025, 17:17:29 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:17:29 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:29 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:29 - INFO - New connected socket [id: OoCrq0X12Gm1ZWBWAAAF] 
+26.8.2025, 17:17:29 - DEBUG - Getting Items: | {"labels":"true"} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:29 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:29 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: OoCrq0X12Gm1ZWBWAAAF] 
+26.8.2025, 17:17:29 - INFO - Emiting event: update-user to user: 66a50ab07a92d580457882c1 socket [id: OoCrq0X12Gm1ZWBWAAAF] (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:17:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:24:06 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:24:06 - INFO - Sample Logger Middleware 
+26.8.2025, 17:24:06 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:24:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:24:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:24:07 - INFO - New connected socket [id: VNuhEf0AfYWURph2AAAH] 
+26.8.2025, 17:24:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:24:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:24:07 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: VNuhEf0AfYWURph2AAAH] 
+26.8.2025, 17:25:55 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:25:55 - INFO - Sample Logger Middleware 
+26.8.2025, 17:25:55 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:25:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:25:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:25:56 - INFO - New connected socket [id: qu8ZP37Wf9rf4BwyAAAJ] 
+26.8.2025, 17:25:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:25:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:25:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: qu8ZP37Wf9rf4BwyAAAJ] 
+26.8.2025, 17:26:26 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:26:26 - INFO - Sample Logger Middleware 
+26.8.2025, 17:26:26 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:26:33 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} 
+26.8.2025, 17:26:43 - INFO - Sample Logger Middleware 
+26.8.2025, 17:26:43 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:26:43 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:26:43 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:26:43 - INFO - New connected socket [id: 0oqYiGUBqrkm5WvsAAAL] 
+26.8.2025, 17:26:43 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 0oqYiGUBqrkm5WvsAAAL] 
+26.8.2025, 17:26:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:26:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:27:10 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:27:10 - INFO - Sample Logger Middleware 
+26.8.2025, 17:27:10 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:27:11 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:27:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:27:11 - INFO - New connected socket [id: AobADVgn384ubhSLAAAN] 
+26.8.2025, 17:27:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:27:11 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:27:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: AobADVgn384ubhSLAAAN] 
+26.8.2025, 17:28:55 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:28:56 - INFO - Sample Logger Middleware 
+26.8.2025, 17:28:56 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:28:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:28:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:28:56 - INFO - New connected socket [id: GU2-IK4-v0RXLSGBAAAP] 
+26.8.2025, 17:28:56 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:28:56 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:28:56 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: GU2-IK4-v0RXLSGBAAAP] 
+26.8.2025, 17:31:18 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:31:18 - INFO - Sample Logger Middleware 
+26.8.2025, 17:31:18 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:31:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:19 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:19 - INFO - New connected socket [id: TQtpIEmJezH8OIzIAAAR] 
+26.8.2025, 17:31:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:19 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:19 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: TQtpIEmJezH8OIzIAAAR] 
+26.8.2025, 17:31:53 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:31:53 - INFO - Sample Logger Middleware 
+26.8.2025, 17:31:53 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:31:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:53 - INFO - New connected socket [id: 6uSodlmk3ktX9jAKAAAT] 
+26.8.2025, 17:31:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:31:54 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 6uSodlmk3ktX9jAKAAAT] 
+26.8.2025, 17:32:06 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:32:06 - INFO - Sample Logger Middleware 
+26.8.2025, 17:32:06 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:32:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:06 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:06 - INFO - New connected socket [id: bhBP78dXKCYK0moSAAAV] 
+26.8.2025, 17:32:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:07 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: bhBP78dXKCYK0moSAAAV] 
+26.8.2025, 17:32:21 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:32:21 - INFO - Sample Logger Middleware 
+26.8.2025, 17:32:21 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:32:21 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:21 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:21 - INFO - New connected socket [id: aaEAC8VFWvj-W2r8AAAX] 
+26.8.2025, 17:32:22 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:22 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:32:22 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: aaEAC8VFWvj-W2r8AAAX] 
+26.8.2025, 17:33:12 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:33:13 - INFO - Sample Logger Middleware 
+26.8.2025, 17:33:13 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:33:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:33:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:33:13 - INFO - New connected socket [id: aTIvm8jzGN1kQKqRAAAZ] 
+26.8.2025, 17:33:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:33:13 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:33:13 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: aTIvm8jzGN1kQKqRAAAZ] 
+26.8.2025, 17:34:18 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:34:18 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:34:41 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:34:41 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:34:55 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:34:55 - INFO - Sample Logger Middleware 
+26.8.2025, 17:34:55 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:35:03 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:35:10 - INFO - Sample Logger Middleware 
+26.8.2025, 17:35:10 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:35:10 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:35:10 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:35:10 - INFO - New connected socket [id: FOCtBWWypedIe7vJAAAb] 
+26.8.2025, 17:35:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: FOCtBWWypedIe7vJAAAb] 
+26.8.2025, 17:35:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:35:15 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:36:09 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:36:09 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:06 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:37:06 - INFO - Sample Logger Middleware 
+26.8.2025, 17:37:06 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:37:06 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:06 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:06 - INFO - New connected socket [id: p274ozyj5-ZhcxQ8AAAd] 
+26.8.2025, 17:37:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:07 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: p274ozyj5-ZhcxQ8AAAd] 
+26.8.2025, 17:37:15 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:37:15 - INFO - Sample Logger Middleware 
+26.8.2025, 17:37:15 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:37:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:16 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:16 - INFO - New connected socket [id: h97gM6cvCnUfu9uOAAAf] 
+26.8.2025, 17:37:16 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:16 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:37:16 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: h97gM6cvCnUfu9uOAAAf] 
+26.8.2025, 17:38:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:38:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:38:50 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:38:50 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:39:02 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:39:02 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:39:27 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:39:27 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:40:58 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:40:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:00 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:41:00 - INFO - Sample Logger Middleware 
+26.8.2025, 17:41:00 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:41:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:01 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:01 - INFO - New connected socket [id: 4YhGeGNdpJLqvJ3-AAAh] 
+26.8.2025, 17:41:01 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:01 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:01 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 4YhGeGNdpJLqvJ3-AAAh] 
+26.8.2025, 17:41:14 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:41:14 - INFO - Sample Logger Middleware 
+26.8.2025, 17:41:14 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:41:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:15 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:15 - INFO - New connected socket [id: FvvbJa_S7EnkFYKIAAAj] 
+26.8.2025, 17:41:15 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:15 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:15 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: FvvbJa_S7EnkFYKIAAAj] 
+26.8.2025, 17:41:24 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:41:24 - INFO - Sample Logger Middleware 
+26.8.2025, 17:41:24 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:41:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:24 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:24 - INFO - New connected socket [id: liFWfsiqLdvbERPPAAAl] 
+26.8.2025, 17:41:24 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:24 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:41:25 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: liFWfsiqLdvbERPPAAAl] 
+26.8.2025, 17:42:57 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:42:57 - DEBUG - Getting Lists: | {"visibility":"public"} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:10 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:51:11 - INFO - Sample Logger Middleware 
+26.8.2025, 17:51:11 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:51:11 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:11 - INFO - New connected socket [id: HW5r3hj0g1iTyr69AAAn] 
+26.8.2025, 17:51:11 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:12 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: HW5r3hj0g1iTyr69AAAn] 
+26.8.2025, 17:51:18 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:51:18 - INFO - Sample Logger Middleware 
+26.8.2025, 17:51:18 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:51:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:19 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:19 - INFO - New connected socket [id: oibUyeynYRJzHKe0AAAp] 
+26.8.2025, 17:51:19 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:19 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:51:19 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: oibUyeynYRJzHKe0AAAp] 
+26.8.2025, 17:52:41 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:52:42 - INFO - Sample Logger Middleware 
+26.8.2025, 17:52:42 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:52:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:52:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:52:42 - INFO - New connected socket [id: q5uZn_kdPPi2xzbVAAAr] 
+26.8.2025, 17:52:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:52:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:52:42 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: q5uZn_kdPPi2xzbVAAAr] 
+26.8.2025, 17:53:25 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:53:26 - INFO - Sample Logger Middleware 
+26.8.2025, 17:53:26 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:53:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:26 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:26 - INFO - New connected socket [id: Xyq8_hNbnV7wOi68AAAt] 
+26.8.2025, 17:53:27 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:27 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:27 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Xyq8_hNbnV7wOi68AAAt] 
+26.8.2025, 17:53:28 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:53:28 - INFO - Sample Logger Middleware 
+26.8.2025, 17:53:28 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:53:29 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:29 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:29 - INFO - New connected socket [id: JLj9GKcSeoAtCpBBAAAv] 
+26.8.2025, 17:53:29 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:29 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:53:29 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: JLj9GKcSeoAtCpBBAAAv] 
+26.8.2025, 17:54:03 - INFO - Socket disconnected [id: undefined] 
+26.8.2025, 17:54:03 - INFO - Sample Logger Middleware 
+26.8.2025, 17:54:03 - DEBUG - Getting Trans for app items: 
+26.8.2025, 17:54:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:54:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:54:04 - INFO - New connected socket [id: B_dTrUDCbc8IhtmcAAAx] 
+26.8.2025, 17:54:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:54:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+26.8.2025, 17:54:04 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: B_dTrUDCbc8IhtmcAAAx] 
+27.8.2025, 9:17:23 - INFO - Server is running on port: 3030 
+27.8.2025, 9:17:41 - INFO - Sample Logger Middleware 
+27.8.2025, 9:17:41 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:17:44 - INFO - New connected socket [id: 62KypOx1A0M-KQdsAAAB] 
+27.8.2025, 9:17:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 62KypOx1A0M-KQdsAAAB] 
+27.8.2025, 9:17:55 - DEBUG - auth.service - login with 2: {"email":"tal.amit0311@gmail.com","password":"","googleID":"116549974717956267584","loginType":2} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:03 - INFO - Sample Logger Middleware 
+27.8.2025, 9:18:03 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:18:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:03 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:03 - INFO - New connected socket [id: nidaWFYTHLTZ6SKNAAAD] 
+27.8.2025, 9:18:04 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nidaWFYTHLTZ6SKNAAAD] 
+27.8.2025, 9:18:11 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:18:12 - INFO - Sample Logger Middleware 
+27.8.2025, 9:18:12 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:18:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:12 - INFO - New connected socket [id: Qn_ypBY-VHKsVGICAAAF] 
+27.8.2025, 9:18:12 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Qn_ypBY-VHKsVGICAAAF] 
+27.8.2025, 9:18:26 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:18:26 - INFO - Sample Logger Middleware 
+27.8.2025, 9:18:26 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:18:27 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:27 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:18:27 - INFO - New connected socket [id: cBs5RuD5_8DdAziDAAAH] 
+27.8.2025, 9:18:27 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: cBs5RuD5_8DdAziDAAAH] 
+27.8.2025, 9:19:46 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:19:46 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:19:46 - INFO - Sample Logger Middleware 
+27.8.2025, 9:19:46 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:19:47 - INFO - Sample Logger Middleware 
+27.8.2025, 9:19:47 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:19:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:47 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:47 - INFO - New connected socket [id: TYVb8awe99Y7gw16AAAJ] 
+27.8.2025, 9:19:47 - INFO - New connected socket [id: TIVdKtZ2U0_gn7X2AAAL] 
+27.8.2025, 9:19:47 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: TYVb8awe99Y7gw16AAAJ] 
+27.8.2025, 9:19:48 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:48 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:48 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: TIVdKtZ2U0_gn7X2AAAL] 
+27.8.2025, 9:19:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:52 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:19:52 - INFO - Sample Logger Middleware 
+27.8.2025, 9:19:52 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:19:52 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:19:53 - INFO - Sample Logger Middleware 
+27.8.2025, 9:19:53 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:19:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:53 - INFO - New connected socket [id: 5k_c2GmsZZpDsmlOAAAN] 
+27.8.2025, 9:19:53 - INFO - New connected socket [id: bXFbj0KSRNbOBE-DAAAP] 
+27.8.2025, 9:19:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:53 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:19:53 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 5k_c2GmsZZpDsmlOAAAN] 
+27.8.2025, 9:19:53 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: bXFbj0KSRNbOBE-DAAAP] 
+27.8.2025, 9:20:02 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:20:03 - INFO - Sample Logger Middleware 
+27.8.2025, 9:20:03 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:20:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:03 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:03 - INFO - New connected socket [id: IS3mX-IJuO7I_N7IAAAR] 
+27.8.2025, 9:20:03 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:20:03 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: IS3mX-IJuO7I_N7IAAAR] 
+27.8.2025, 9:20:04 - INFO - Sample Logger Middleware 
+27.8.2025, 9:20:04 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:20:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:04 - INFO - New connected socket [id: 2J068dJcwLfQ4IraAAAT] 
+27.8.2025, 9:20:04 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:20:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:04 - INFO - Sample Logger Middleware 
+27.8.2025, 9:20:04 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:20:04 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 2J068dJcwLfQ4IraAAAT] 
+27.8.2025, 9:20:04 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:20:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:05 - INFO - New connected socket [id: Z5yoQILMJ7bpOMWRAAAV] 
+27.8.2025, 9:20:05 - INFO - Sample Logger Middleware 
+27.8.2025, 9:20:05 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:20:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Z5yoQILMJ7bpOMWRAAAV] 
+27.8.2025, 9:20:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:05 - INFO - New connected socket [id: mKjL5OONrOox4cKHAAAX] 
+27.8.2025, 9:20:05 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:06 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: mKjL5OONrOox4cKHAAAX] 
+27.8.2025, 9:20:07 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:20:07 - INFO - Sample Logger Middleware 
+27.8.2025, 9:20:07 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:20:07 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:07 - INFO - New connected socket [id: q8VIglDS9L4OZyuiAAAZ] 
+27.8.2025, 9:20:07 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:20:08 - INFO - Sample Logger Middleware 
+27.8.2025, 9:20:08 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:20:08 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: q8VIglDS9L4OZyuiAAAZ] 
+27.8.2025, 9:20:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:08 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:08 - INFO - New connected socket [id: EI8lmhW8An03HpmRAAAb] 
+27.8.2025, 9:20:08 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:08 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:20:08 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: EI8lmhW8An03HpmRAAAb] 
+27.8.2025, 9:21:11 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:21:11 - INFO - Sample Logger Middleware 
+27.8.2025, 9:21:11 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:21:11 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:11 - INFO - New connected socket [id: DFSVkijBX2Uc58YCAAAd] 
+27.8.2025, 9:21:11 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:21:12 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: DFSVkijBX2Uc58YCAAAd] 
+27.8.2025, 9:21:12 - INFO - Sample Logger Middleware 
+27.8.2025, 9:21:12 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:21:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:12 - INFO - New connected socket [id: 1bN4i83w3On4Js5QAAAf] 
+27.8.2025, 9:21:12 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:12 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 1bN4i83w3On4Js5QAAAf] 
+27.8.2025, 9:21:35 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:21:35 - INFO - Sample Logger Middleware 
+27.8.2025, 9:21:35 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:21:36 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:36 - INFO - New connected socket [id: GlEdYrN9wnLREHyTAAAh] 
+27.8.2025, 9:21:36 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: GlEdYrN9wnLREHyTAAAh] 
+27.8.2025, 9:21:41 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:21:42 - INFO - Sample Logger Middleware 
+27.8.2025, 9:21:42 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:21:42 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:42 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:42 - INFO - New connected socket [id: jocI-EDPg5kbqx-IAAAj] 
+27.8.2025, 9:21:43 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: jocI-EDPg5kbqx-IAAAj] 
+27.8.2025, 9:21:48 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:21:48 - INFO - Sample Logger Middleware 
+27.8.2025, 9:21:48 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:21:49 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:21:49 - INFO - New connected socket [id: tYVn2KcDPim_AdWbAAAl] 
+27.8.2025, 9:21:49 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: tYVn2KcDPim_AdWbAAAl] 
+27.8.2025, 9:22:03 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:22:03 - INFO - Sample Logger Middleware 
+27.8.2025, 9:22:03 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:22:03 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:22:03 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:22:03 - INFO - New connected socket [id: qSFbrBxr-GerED0hAAAn] 
+27.8.2025, 9:22:04 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:22:04 - INFO - Sample Logger Middleware 
+27.8.2025, 9:22:04 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:22:04 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:22:04 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:22:04 - INFO - New connected socket [id: cwlAXrk8sBTPPGzXAAAp] 
+27.8.2025, 9:22:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: cwlAXrk8sBTPPGzXAAAp] 
+27.8.2025, 9:23:25 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:23:25 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:23:25 - INFO - Sample Logger Middleware 
+27.8.2025, 9:23:26 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:23:26 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:23:26 - INFO - New connected socket [id: ZW-SZks_SgGHjkckAAAr] 
+27.8.2025, 9:23:26 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: ZW-SZks_SgGHjkckAAAr] 
+27.8.2025, 9:24:40 - INFO - Socket disconnected [id: undefined] 
+27.8.2025, 9:24:40 - INFO - Sample Logger Middleware 
+27.8.2025, 9:24:40 - DEBUG - Getting Trans for app items: 
+27.8.2025, 9:24:40 - INFO - Sample Logger Middleware (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:24:40 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+27.8.2025, 9:24:40 - INFO - New connected socket [id: _qRKXDIoNMRPTpZuAAAt] 
+27.8.2025, 9:24:41 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: _qRKXDIoNMRPTpZuAAAt] 
