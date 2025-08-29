@@ -5358,3 +5358,285 @@
 29.8.2025, 18:15:45 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
 29.8.2025, 18:15:58 - INFO - Server is running on port: 3030 
 29.8.2025, 18:15:59 - INFO - New connected socket [id: QJYCgZQc8w2FfnyrAAAB] 
+29.8.2025, 18:28:41 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:28:42 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:28:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:44 - INFO - New connected socket [id: UugO8rAUyHV1X1OLAAAD] 
+29.8.2025, 18:28:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: UugO8rAUyHV1X1OLAAAD] 
+29.8.2025, 18:28:45 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:46 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:46 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:48 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:28:48 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:28:49 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:49 - INFO - New connected socket [id: -ydXhqawlnIVnZVZAAAF] 
+29.8.2025, 18:28:49 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:49 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:49 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:28:50 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: -ydXhqawlnIVnZVZAAAF] 
+29.8.2025, 18:29:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:29:08 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:29:09 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:09 - INFO - New connected socket [id: 92UN4zC8lFn_tP98AAAH] 
+29.8.2025, 18:29:09 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:09 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:10 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:10 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 92UN4zC8lFn_tP98AAAH] 
+29.8.2025, 18:29:35 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:29:35 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:29:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:36 - INFO - New connected socket [id: D8bcjm4jx7hSqD7aAAAJ] 
+29.8.2025, 18:29:36 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:36 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:37 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:37 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: D8bcjm4jx7hSqD7aAAAJ] 
+29.8.2025, 18:29:57 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:29:57 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:29:58 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:58 - INFO - New connected socket [id: Y-97A7HvspQoJu9kAAAL] 
+29.8.2025, 18:29:58 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:58 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:29:58 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Y-97A7HvspQoJu9kAAAL] 
+29.8.2025, 18:29:59 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:30:35 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:30:36 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:30:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:30:36 - INFO - New connected socket [id: gzBr718namL5gDHMAAAN] 
+29.8.2025, 18:30:36 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:30:36 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:30:36 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: gzBr718namL5gDHMAAAN] 
+29.8.2025, 18:30:37 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:31:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:31:10 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:31:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:31:11 - INFO - New connected socket [id: 0M0HK1Ml9aPcckdjAAAP] 
+29.8.2025, 18:31:11 - DEBUG - Getting Recipes: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:31:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 0M0HK1Ml9aPcckdjAAAP] 
+29.8.2025, 18:31:11 - DEBUG - Getting Items: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:31:12 - DEBUG - Getting Lists: | {"admin":"true"} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:31:28 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:31:28 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:31:29 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:31:29 - INFO - New connected socket [id: Y_GY1Lgy_G6zT04zAAAR] 
+29.8.2025, 18:31:29 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Y_GY1Lgy_G6zT04zAAAR] 
+29.8.2025, 18:32:12 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:32:12 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:32:12 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:32:12 - INFO - New connected socket [id: TB0koj7E8yQXYUY2AAAT] 
+29.8.2025, 18:32:13 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: TB0koj7E8yQXYUY2AAAT] 
+29.8.2025, 18:32:26 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:32:26 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:32:26 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:32:26 - INFO - New connected socket [id: YlVB3qWkOBIqjDWwAAAV] 
+29.8.2025, 18:32:27 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: YlVB3qWkOBIqjDWwAAAV] 
+29.8.2025, 18:32:32 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:32:32 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:32:32 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:32:32 - INFO - New connected socket [id: nurhOzEcNKxz8NRnAAAX] 
+29.8.2025, 18:32:33 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: nurhOzEcNKxz8NRnAAAX] 
+29.8.2025, 18:34:17 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:34:17 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:34:18 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:34:18 - INFO - New connected socket [id: a2-6rc6nb1FSfhRYAAAZ] 
+29.8.2025, 18:34:18 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: a2-6rc6nb1FSfhRYAAAZ] 
+29.8.2025, 18:34:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:34:31 - INFO - New connected socket [id: oeSm5Z5x6NTeQWe7AAAb] 
+29.8.2025, 18:34:32 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: oeSm5Z5x6NTeQWe7AAAb] 
+29.8.2025, 18:34:43 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:34:43 - INFO - New connected socket [id: xLFBoRn_35-Gnsi0AAAd] 
+29.8.2025, 18:34:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: xLFBoRn_35-Gnsi0AAAd] 
+29.8.2025, 18:35:01 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:35:01 - INFO - New connected socket [id: tfO3MiffQgZvf6x2AAAf] 
+29.8.2025, 18:35:01 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: tfO3MiffQgZvf6x2AAAf] 
+29.8.2025, 18:35:23 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:35:23 - INFO - New connected socket [id: Vc_-tJai9VKi5d9pAAAh] 
+29.8.2025, 18:35:24 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Vc_-tJai9VKi5d9pAAAh] 
+29.8.2025, 18:35:37 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:35:37 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:35:37 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:35:37 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:35:37 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:35:37 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:35:38 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:35:38 - INFO - New connected socket [id: 5qbBxP7k7fwUnr2TAAAj] 
+29.8.2025, 18:35:38 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 5qbBxP7k7fwUnr2TAAAj] 
+29.8.2025, 18:37:07 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:37:07 - INFO - New connected socket [id: 4P3kNEUMYQfUcDdzAAAl] 
+29.8.2025, 18:37:07 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 4P3kNEUMYQfUcDdzAAAl] 
+29.8.2025, 18:37:30 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:37:30 - INFO - New connected socket [id: mtTBEbtOQ2x8MtV1AAAn] 
+29.8.2025, 18:37:30 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: mtTBEbtOQ2x8MtV1AAAn] 
+29.8.2025, 18:37:54 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:37:54 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:37:54 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:37:54 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:37:54 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:37:54 - INFO - New connected socket [id: kdQpHSIqhoOg21LrAAAp] 
+29.8.2025, 18:37:55 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: kdQpHSIqhoOg21LrAAAp] 
+29.8.2025, 18:38:18 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:38:18 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:38:18 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:38:18 - INFO - New connected socket [id: GphMn8TwmFhH_nnxAAAr] 
+29.8.2025, 18:38:19 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: GphMn8TwmFhH_nnxAAAr] 
+29.8.2025, 18:39:09 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:39:09 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:39:10 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:39:10 - INFO - New connected socket [id: QljTINPq4izxBEPAAAAt] 
+29.8.2025, 18:39:10 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: QljTINPq4izxBEPAAAAt] 
+29.8.2025, 18:40:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:40:47 - INFO - New connected socket [id: KkOqg7Z7vmb3sm_iAAAv] 
+29.8.2025, 18:40:47 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: KkOqg7Z7vmb3sm_iAAAv] 
+29.8.2025, 18:41:00 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:41:00 - INFO - New connected socket [id: lKCteKp1o9S5Mnb2AAAx] 
+29.8.2025, 18:41:01 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: lKCteKp1o9S5Mnb2AAAx] 
+29.8.2025, 18:41:17 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:41:17 - INFO - New connected socket [id: WEEhMG8NSgPSqImCAAAz] 
+29.8.2025, 18:41:18 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: WEEhMG8NSgPSqImCAAAz] 
+29.8.2025, 18:41:24 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:41:24 - INFO - New connected socket [id: Yz4N9pOSNcoeMR_XAAA1] 
+29.8.2025, 18:41:25 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Yz4N9pOSNcoeMR_XAAA1] 
+29.8.2025, 18:41:32 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:41:32 - INFO - New connected socket [id: N138oGGBFqtdQ-dQAAA3] 
+29.8.2025, 18:41:33 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: N138oGGBFqtdQ-dQAAA3] 
+29.8.2025, 18:42:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:08 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:08 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:42:09 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:42:09 - INFO - New connected socket [id: m5OuoZaqUO_qf-GfAAA5] 
+29.8.2025, 18:42:09 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: m5OuoZaqUO_qf-GfAAA5] 
+29.8.2025, 18:42:20 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:43 - INFO - New connected socket [id: 9fQd7W8S_rbSfZjjAAA7] 
+29.8.2025, 18:42:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 9fQd7W8S_rbSfZjjAAA7] 
+29.8.2025, 18:42:49 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:42:49 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:42:50 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:42:50 - INFO - New connected socket [id: VhJjkprYA-uEbGyAAAA9] 
+29.8.2025, 18:42:50 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: VhJjkprYA-uEbGyAAAA9] 
+29.8.2025, 18:43:05 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:47:13 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:47:13 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:47:13 - INFO - New connected socket [id: 3lU-qdmxKsC_RjBJAAA_] 
+29.8.2025, 18:47:14 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: 3lU-qdmxKsC_RjBJAAA_] 
+29.8.2025, 18:47:16 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:47:16 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:47:17 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:47:17 - INFO - New connected socket [id: APQS6sGNxmRNbBHoAABB] 
+29.8.2025, 18:47:17 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: APQS6sGNxmRNbBHoAABB] 
+29.8.2025, 18:48:43 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:48:45 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:48:46 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:48:46 - INFO - New connected socket [id: f3KkdMm6_0sdvdXVAABD] 
+29.8.2025, 18:48:46 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: f3KkdMm6_0sdvdXVAABD] 
+29.8.2025, 18:49:04 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:49:05 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:49:06 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:49:06 - INFO - New connected socket [id: HY0z2pO--T0mABplAABF] 
+29.8.2025, 18:49:07 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: HY0z2pO--T0mABplAABF] 
+29.8.2025, 18:49:41 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:49:43 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:49:44 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:49:44 - INFO - New connected socket [id: frHUjkaLYgA5PQfkAABH] 
+29.8.2025, 18:49:44 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: frHUjkaLYgA5PQfkAABH] 
+29.8.2025, 18:50:03 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:50:05 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:50:06 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:50:06 - INFO - New connected socket [id: sJjjI_zXnl0GTG-kAABJ] 
+29.8.2025, 18:50:06 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: sJjjI_zXnl0GTG-kAABJ] 
+29.8.2025, 18:50:43 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:50:45 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:50:46 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:50:46 - INFO - New connected socket [id: l4na4ptMCBgemBnpAABL] 
+29.8.2025, 18:50:46 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: l4na4ptMCBgemBnpAABL] 
+29.8.2025, 18:51:20 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:51:21 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:51:22 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:51:22 - INFO - New connected socket [id: Mdbnc-7lD46AXiTBAABN] 
+29.8.2025, 18:51:22 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Mdbnc-7lD46AXiTBAABN] 
+29.8.2025, 18:51:23 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:51:24 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:51:25 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:51:25 - INFO - New connected socket [id: UZlU2Tp2MgqHIsnlAABP] 
+29.8.2025, 18:51:25 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: UZlU2Tp2MgqHIsnlAABP] 
+29.8.2025, 18:52:07 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:52:10 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:52:11 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:52:11 - INFO - New connected socket [id: R9Oyp-vhDeYu6ApiAABR] 
+29.8.2025, 18:52:11 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: R9Oyp-vhDeYu6ApiAABR] 
+29.8.2025, 18:52:29 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:52:30 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:52:31 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:52:31 - INFO - New connected socket [id: Fdt7KLEuD-yDbsA1AABT] 
+29.8.2025, 18:52:31 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Fdt7KLEuD-yDbsA1AABT] 
+29.8.2025, 18:52:51 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:52:52 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:52:53 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:52:53 - INFO - New connected socket [id: pvcxzLDduzWTTw_hAABV] 
+29.8.2025, 18:52:53 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: pvcxzLDduzWTTw_hAABV] 
+29.8.2025, 18:53:44 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:53:47 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:53:47 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:53:47 - INFO - New connected socket [id: llo7x-nSX8O7caYGAABX] 
+29.8.2025, 18:53:48 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: llo7x-nSX8O7caYGAABX] 
+29.8.2025, 18:54:02 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:54:04 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:54:05 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:54:05 - INFO - New connected socket [id: Ti3kB95gdkbb14bBAABZ] 
+29.8.2025, 18:54:05 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Ti3kB95gdkbb14bBAABZ] 
+29.8.2025, 18:54:05 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:54:07 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:54:08 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:54:08 - INFO - New connected socket [id: EvxyDeTSBZdzoiRJAABb] 
+29.8.2025, 18:54:08 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: EvxyDeTSBZdzoiRJAABb] 
+29.8.2025, 18:54:12 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:54:22 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:54:22 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:54:22 - INFO - New connected socket [id: loySUxfOPCfdekIUAABd] 
+29.8.2025, 18:54:23 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: loySUxfOPCfdekIUAABd] 
+29.8.2025, 18:54:27 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:54:28 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:54:29 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:54:29 - INFO - New connected socket [id: vfdTkj02a0uFrvhgAABf] 
+29.8.2025, 18:54:29 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: vfdTkj02a0uFrvhgAABf] 
+29.8.2025, 18:56:49 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:56:50 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:56:51 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:56:51 - INFO - New connected socket [id: WwAnjtVdbC17R_CUAABh] 
+29.8.2025, 18:56:51 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: WwAnjtVdbC17R_CUAABh] 
+29.8.2025, 18:57:34 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:57:35 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:57:36 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:57:36 - INFO - New connected socket [id: _48hg4tdnFwYOsj_AABj] 
+29.8.2025, 18:57:36 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: _48hg4tdnFwYOsj_AABj] 
+29.8.2025, 18:59:32 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 18:59:33 - DEBUG - Getting Trans for app items: 
+29.8.2025, 18:59:34 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 18:59:34 - INFO - New connected socket [id: DI6mwBjQr-ch7Wk-AABl] 
+29.8.2025, 18:59:34 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: DI6mwBjQr-ch7Wk-AABl] 
+29.8.2025, 19:00:01 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 19:00:02 - DEBUG - Getting Trans for app items: 
+29.8.2025, 19:00:03 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 19:00:03 - INFO - New connected socket [id: M0DIbDfBj4GcBoK6AABn] 
+29.8.2025, 19:00:03 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: M0DIbDfBj4GcBoK6AABn] 
+29.8.2025, 19:01:32 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 19:01:34 - DEBUG - Getting Trans for app items: 
+29.8.2025, 19:01:34 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 19:01:34 - INFO - New connected socket [id: BrOavmCR_r7mr_a-AABp] 
+29.8.2025, 19:01:35 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: BrOavmCR_r7mr_a-AABp] 
+29.8.2025, 19:01:43 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 19:01:44 - DEBUG - Getting Trans for app items: 
+29.8.2025, 19:01:45 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 19:01:45 - INFO - New connected socket [id: Pk0TSb4OjBx1-0PxAABr] 
+29.8.2025, 19:01:45 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: Pk0TSb4OjBx1-0PxAABr] 
+29.8.2025, 19:01:55 - INFO - Socket disconnected [id: undefined] 
+29.8.2025, 19:01:57 - DEBUG - Getting Trans for app items: 
+29.8.2025, 19:01:57 - DEBUG - Getting Lists: | {} (userId: 66a50ab07a92d580457882c1)
+29.8.2025, 19:01:57 - INFO - New connected socket [id: y8qsHg1eFyNu9tG-AABt] 
+29.8.2025, 19:01:58 - INFO - Setting socket for user - ID: 66a50ab07a92d580457882c1 for socket [id: y8qsHg1eFyNu9tG-AABt] 
+29.8.2025, 19:04:33 - INFO - Server is running on port: 3030 
+29.8.2025, 19:04:34 - INFO - New connected socket [id: L252C7iRfGLdrXQJAAAB] 
+29.8.2025, 19:05:03 - INFO - Server is running on port: 3030 
+29.8.2025, 19:05:06 - INFO - New connected socket [id: P5j_TOGvkO3-RSe8AAAB] 
