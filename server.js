@@ -19,7 +19,7 @@ let corsOptions = {}
 if (process.env.NODE_ENV === 'production') {
     
     corsOptions = {
-        origin: 'https://morena-food-list.vercel.app',
+        origin: ['https://morena-food-list.vercel.app', 'http://localhost:4173', 'http://127.0.0.1:4173'],
         credentials: true,
     }
 } else {
